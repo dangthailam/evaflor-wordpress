@@ -1,0 +1,133 @@
+<?php
+include_once './securityKey.php';
+include_once './kreyviumCipher.php';
+
+public class TestSecurity {
+
+	private $array_UID = new array(0x4D, 0x5E, 0x10, 0x11, 0x13, 0x4F, 0x2C);
+	
+	/*
+	 * This month can get from parameter of command, 
+	 * don't make any compute in nfc read/write function, it can cause a supplement delay
+	 */
+	private $currentMonth = 10; 
+	
+	/*
+	 * This function show that for each loop, a new encrypted array will be created
+	 * **/
+	public void TestEncryption($numberofLoop, $myLastIndexOffset)
+	{
+		/**
+		   * Initializing Secret key...
+		   */
+		SecurityKey $sk = new SecurityKey($currentMonth); 
+		
+		/**
+		  * Initializing Kreyvium Stream Cipher...
+		  */
+		KreyviumCipher cipher = new KreyviumCipher(
+									sk.getKREYVIUM_SECRET_KEY(), 
+									myLastIndexOffset);
+		for(int loop = 0; loop < numberofLoop; ++loop)
+		{
+			/*
+			 * Duplicating the array_uid**/
+			byte [] tmp_array = new byte[7];
+			for (int i = 0; i < array_UID.length; ++i)
+			{
+				tmp_array[i] = array_UID[i];
+			}
+			System.out.println("Starting encrypting ....... ");
+			/**
+		   * Encrypting with Kreyvium Stream Cipher with 8 new tokens taken 
+		   * from myLastIndexOffset...
+		   */			
+			tmp_array = cipher.EncryptingRequest(array_UID);
+			
+			System.out.println("After encrypting of loop : " + loop);
+			for (int i = 0; i < array_UID.length; ++i)
+			{
+				System.out.print(" " + tmp_array[i]);
+			}
+			System.out.println("");
+		}
+		/*
+		 * This step is important !
+		 * in order to continue generate next token
+		 * **/
+		myLastIndexOffset = cipher.getMySaveOffset();
+		System.out.println("myLastIndexOffset = " + myLastIndexOffset);
+	}
+	
+	
+	
+	/*
+	 * This function show that for each loop, a new encrypted array will be created
+	 * **/
+	public String TestEncryption(int numberofLoop, int myLastIndexOffset, byte[] array_UID, int  currentMonth)
+	{
+		/**
+		   * Initializing Secret key...
+		   */
+		SecurityKey sk = new SecurityKey(currentMonth); 
+		
+		/**
+		  * Initializing Kreyvium Stream Cipher...
+		  */
+		KreyviumCipher cipher = new KreyviumCipher(
+									sk.getKREYVIUM_SECRET_KEY(), 
+									myLastIndexOffset);
+		
+		String encryptResult = "";
+		
+		for(int loop = 0; loop < numberofLoop; ++loop)
+		{
+			/*
+			 * Duplicating the array_uid**/
+			byte [] tmp_array = new byte[7];
+			
+			encryptResult = "";
+			
+			
+			for (int i = 0; i < array_UID.length; ++i)
+			{
+				tmp_array[i] = array_UID[i];
+			}
+			System.out.println("Starting encrypting ....... ");
+			/**
+		   * Encrypting with Kreyvium Stream Cipher with 8 new tokens taken 
+		   * from myLastIndexOffset...
+		   */			
+			tmp_array = cipher.EncryptingRequest(array_UID);
+			
+			System.out.println("After encrypting of loop : " + loop);
+			for (int i = 0; i < array_UID.length; ++i)
+			{
+				System.out.print(" " + tmp_array[i]);
+			}
+			
+			System.out.println("");
+			
+			
+			encryptResult = HexStringConverter.getHexStringConverterInstance().ByteArrayToHexString(tmp_array);
+			
+			System.out.println("encryptResult : " + encryptResult);
+		}
+		/*
+		 * This step is important !
+		 * in order to continue generate next token
+		 * **/
+		myLastIndexOffset = cipher.getMySaveOffset();
+		System.out.println("myLastIndexOffset = " + myLastIndexOffset);
+		
+		return encryptResult;
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+?>

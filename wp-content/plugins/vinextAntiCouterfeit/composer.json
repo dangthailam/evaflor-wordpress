@@ -1,0 +1,5 @@
+{
+	"name" : "wp-api/vinextAntiCounterfeit",
+	"description" : "Checking the authenticity of a given product which is marked as a product of Evaflor",
+	"type" : "wordpress-plugin"
+}

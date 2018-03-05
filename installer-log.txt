@@ -1,0 +1,195 @@
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* VERSION: 1.2.32
+* STEP-1 START @ 12:38:51
+* NOTICE: Do NOT post this data to public sites or forums
+********************************************************************************
+PHP VERSION:	5.6.33 | SAPI: apache2handler
+PHP TIME LIMIT:	[0] time limit restriction disabled
+PHP MEMORY:	2048M | SUHOSIN: disabled
+SERVER:		Apache/2.4.29 (Win32) OpenSSL/1.0.2n PHP/5.6.33
+DOC ROOT:	C:/xampp/htdocs/wordpress
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	http://localhost:8081/wordpress/installer.php
+SAFE MODE :	0
+--------------------------------------
+ARCHIVE EXTRACTION
+--------------------------------------
+NAME:	20180301_checkingauthenticityofevaflo_1a1d104e1a93bdc01188180305123745_archive.zip
+SIZE:	83MB
+ZIP:	Enabled (ZipArchive Support)
+
+>>> START EXTRACTION:
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3213
+    [filename] => C:\xampp\htdocs\wordpress\20180301_checkingauthenticityofevaflo_1a1d104e1a93bdc01188180305123745_archive.zip
+    [comment] => 
+)
+File timestamp is 'Current' mode: 2018-03-05 12:39:28
+<<< EXTRACTION COMPLETE: true
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to *.180305123928.orig
+- Reset of .htaccess/web.config files
+
+STEP-1 COMPLETE @ 12:39:28 - RUNTIME: 37.2077 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-2 START @ 12:40:20
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+--------------------------------------
+DATABASE ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.1.30 -- Build Server: 5.5.52
+FILE SIZE:	database.sql (1022.08KB) - installer-data.sql (1022.08KB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[C:/xampp/htdocs/wordpress/installer-data.sql]
+COLLATE RESET:	On
+
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+ERRORS FOUND:	0
+TABLES DROPPED:	29
+QUERIES RAN:	274
+
+countdown: (2)
+lottery: (10)
+lotterydate: (0)
+temporallocation: (33)
+visitor_geolocation: (15)
+wp_commentmeta: (0)
+wp_comments: (5)
+wp_cptch_images: (112)
+wp_cptch_packages: (12)
+wp_cptch_whitelist: (0)
+wp_duplicator_packages: (6)
+wp_links: (0)
+wp_mlw_qm_audit_trail: (52)
+wp_mlw_questions: (6)
+wp_mlw_quizzes: (2)
+wp_mlw_results: (5)
+wp_options: (314)
+wp_postmeta: (86)
+wp_posts: (110)
+wp_tags: (790)
+wp_term_relationships: (7)
+wp_term_taxonomy: (3)
+wp_termmeta: (0)
+wp_terms: (3)
+wp_usermeta: (90)
+wp_users: (5)
+wp_wonderplugin_carousel: (1)
+wp_yoast_seo_links: (0)
+wp_yoast_seo_meta: (3)
+
+Removed '123' cache/transient rows
+
+CREATE/INSTALL RUNTIME: 1.0911 sec.
+STEP-2 COMPLETE @ 12:40:21 - RUNTIME: 1.5682 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-3 START @ 12:40:26
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	utf8
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+countdown~ (2)
+lottery~ (10)
+lotterydate^ (0)
+temporallocation~ (33)
+visitor_geolocation~ (15)
+wp_commentmeta^ (0)
+wp_comments~ (5)
+wp_cptch_images~ (112)
+wp_cptch_packages~ (12)
+wp_cptch_whitelist^ (0)
+wp_duplicator_packages^ (0)
+wp_links^ (0)
+wp_mlw_qm_audit_trail~ (52)
+wp_mlw_questions~ (6)
+wp_mlw_quizzes~ (2)
+wp_mlw_results~ (5)
+wp_options~ (195)
+wp_postmeta~ (86)
+wp_posts~ (110)
+wp_tags~ (790)
+wp_term_relationships~ (7)
+wp_term_taxonomy~ (3)
+wp_termmeta^ (0)
+wp_terms~ (3)
+wp_usermeta~ (90)
+wp_users~ (5)
+wp_wonderplugin_carousel~ (1)
+wp_yoast_seo_links^ (0)
+wp_yoast_seo_meta~ (3)
+--------------------------------------
+Search1:	'/home/evaflor/www/evaflor_vac/wordpress' 
+Change1:	'C:/xampp/htdocs/wordpress' 
+Search2:	'\/home\/evaflor\/www\/evaflor_vac\/wordpress' 
+Change2:	'C:\/xampp\/htdocs\/wordpress' 
+Search3:	'%2Fhome%2Fevaflor%2Fwww%2Fevaflor_vac%2Fwordpress%2F' 
+Change3:	'C%3A%2Fxampp%2Fhtdocs%2Fwordpress%2F' 
+Search4:	'\home\evaflor\www\evaflor_vac\wordpress' 
+Change4:	'C:/xampp/htdocs/wordpress' 
+Search5:	'//auth.evaflor.com' 
+Change5:	'//localhost:8081/wordpress' 
+Search6:	'\/\/auth.evaflor.com' 
+Change6:	'\/\/localhost:8081\/wordpress' 
+Search7:	'%2F%2Fauth.evaflor.com' 
+Change7:	'%2F%2Flocalhost%3A8081%2Fwordpress' 
+Search8:	'https://localhost:8081/wordpress' 
+Change8:	'http://localhost:8081:8081/wordpress' 
+Search9:	'https:\/\/localhost:8081\/wordpress' 
+Change9:	'http:\/\/localhost:8081\/wordpress' 
+Search10:	'https%3A%2F%2Flocalhost%3A8081%2Fwordpress' 
+Change10:	'http%3A%2F%2Flocalhost%3A8081%2Fwordpress' 
+SCANNED:	Tables:29 	|	 Rows:1547 	|	 Cells:7216 
+UPDATED:	Tables:4 	|	 Rows:131 	|	 Cells:144 
+ERRORS:		0 
+RUNTIME:	0.400000 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG: /wp-config.php' (if present)
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+- Preparing .htaccess file with basic setup.
+Basic .htaccess file edit complete.  If using IIS web.config this process will need to be done manually.
+
+====================================
+GENERAL UPDATES & CLEANUP:
+====================================
+
+- Created directory wp-snapshots
+- Created file wp-snapshots/index.php
+
+====================================
+NOTICES
+====================================
+
+No Notices Found
+
+
+STEP 3 COMPLETE @ 12:40:26 - RUNTIME: 0.4390 sec.
+
+

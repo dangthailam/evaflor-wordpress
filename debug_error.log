@@ -1,0 +1,2120 @@
+[24-Feb-2018 23:18:26 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:18:26 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:18:26 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:18:26 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:18:26 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:18:26 UTC] PHP Warning:  require_once(/home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/visitorGeolocation.php): failed to open stream: No such file or directory in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 182
+[24-Feb-2018 23:18:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/visitorGeolocation.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 182
+[24-Feb-2018 23:18:27 UTC] DEBUG: User's location from browser = {"lat":48.742250899999995,"lon":2.2840607}
+[24-Feb-2018 23:20:29 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:20:29 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:20:29 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:20:29 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:20:29 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:20:29 UTC] PHP Warning:  require_once(/home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/visitorGeolocation.php): failed to open stream: No such file or directory in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 182
+[24-Feb-2018 23:20:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/visitorGeolocation.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 182
+[24-Feb-2018 23:20:29 UTC] DEBUG: User's location from browser = {"lat":48.7422438,"lon":2.2840236}
+[24-Feb-2018 23:23:57 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:23:57 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:23:57 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:23:57 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:23:57 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:23:57 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:23:57 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:23:57 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:23:57 UTC] DEBUG: User's location from browser = {"lat":48.7422565,"lon":2.284059}
+[24-Feb-2018 23:23:57 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.171.233.237
+[24-Feb-2018 23:23:57 UTC] DEBUG: location to check = (48.803, 2.2669)
+[24-Feb-2018 23:23:57 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:23:57 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:28:13 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:28:13 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:28:13 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:28:13 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:28:13 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:28:13 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:28:13 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:28:13 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:28:13 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.171.233.237
+[24-Feb-2018 23:28:13 UTC] DEBUG: location to check = (48.803, 2.2669)
+[24-Feb-2018 23:28:13 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:28:13 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:28:13 UTC] DEBUG: User's location from browser = {"lat":48.742281899999995,"lon":2.2840471}
+[24-Feb-2018 23:34:15 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:34:15 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:34:15 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:34:15 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:34:15 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:34:15 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:34:15 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:34:15 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:34:15 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.171.233.237
+[24-Feb-2018 23:34:15 UTC] DEBUG: location to check = (48.803, 2.2669)
+[24-Feb-2018 23:34:15 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:34:15 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:34:16 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:34:41 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:39:10 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:39:10 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:39:10 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:39:10 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:39:10 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:39:10 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:39:10 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:39:10 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:39:11 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.171.230.123
+[24-Feb-2018 23:39:11 UTC] DEBUG: location to check = (48.803, 2.2669)
+[24-Feb-2018 23:39:11 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:39:11 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:40:21 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:40:21 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:40:21 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:40:21 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:40:21 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:40:21 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:40:21 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:40:21 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:40:21 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:40:21 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:40:21 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:40:21 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:40:22 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:41:09 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:41:30 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:41:30 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:41:30 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:41:30 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:41:30 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:41:30 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:41:30 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:41:30 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:41:30 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:41:30 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:41:30 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:41:30 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:41:30 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:43:08 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:43:30 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:43:30 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:43:30 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:43:30 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:43:30 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:43:30 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:43:30 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:43:30 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:43:30 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:43:30 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:43:30 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:43:30 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:43:30 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:43:40 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:43:40 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:43:40 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:43:40 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:43:40 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:43:40 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:43:40 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:43:40 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:43:40 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:43:41 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:43:41 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:43:41 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:43:41 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:44:10 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:44:10 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:44:10 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:44:10 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:44:10 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:44:10 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:44:10 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:44:10 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:44:11 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:44:11 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:44:11 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:44:11 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:44:22 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:44:38 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:44:38 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:44:38 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:44:38 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:44:38 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:44:38 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:44:38 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:44:38 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:44:38 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:44:38 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:44:38 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:44:38 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:44:38 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:45:06 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:45:06 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:45:06 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:45:06 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:45:06 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:45:06 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:45:06 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:45:06 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:45:06 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:45:06 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:45:06 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:45:06 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:45:06 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:45:29 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:45:29 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:45:29 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:45:29 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:45:29 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:45:29 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:45:29 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:45:29 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:45:29 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.171.230.123
+[24-Feb-2018 23:45:29 UTC] DEBUG: location to check = (48.803, 2.2669)
+[24-Feb-2018 23:45:29 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:45:29 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:45:31 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:48:46 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:48:46 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:48:46 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:48:46 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:48:46 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:48:46 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:48:46 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:48:46 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:48:46 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:48:46 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:48:46 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:48:46 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:48:46 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:48:56 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:49:02 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:49:02 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:49:02 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:49:02 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:49:02 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:49:02 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:49:02 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:49:02 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:49:02 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:49:02 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:49:02 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:49:02 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:49:02 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:49:11 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:49:11 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:49:11 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:49:11 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:49:11 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:49:11 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:49:11 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:49:11 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:49:11 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:49:11 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:49:11 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:49:11 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:49:11 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:49:21 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:49:21 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:49:21 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:49:21 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:49:21 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:49:21 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:49:21 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:49:21 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:49:21 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:49:21 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:49:21 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:49:21 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:49:21 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:54:59 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:54:59 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:54:59 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:54:59 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:54:59 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:54:59 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:54:59 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:54:59 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:54:59 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:54:59 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:54:59 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:54:59 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:54:59 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:55:36 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:55:43 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:55:53 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:56:00 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:56:00 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:56:00 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:56:00 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:56:00 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:56:00 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:56:00 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:56:00 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:56:00 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:56:00 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:56:00 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:56:00 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:56:00 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:56:13 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:56:20 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:56:20 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:56:20 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:56:20 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:56:20 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:56:20 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:56:20 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:56:20 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:56:20 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:56:21 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[24-Feb-2018 23:56:21 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:56:21 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:56:21 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:56:36 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[24-Feb-2018 23:56:36 UTC] 000000004D5E1011134F2C
+[24-Feb-2018 23:56:36 UTC] DEBUG: productUid = 4D5E1011134F2C
+[24-Feb-2018 23:56:36 UTC] DEBUG: postName = eau-de-toilette2
+[24-Feb-2018 23:56:36 UTC] DEBUG: postId = 62
+[24-Feb-2018 23:56:36 UTC] DEBUG: isUserLocSaved = 
+[24-Feb-2018 23:56:36 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[24-Feb-2018 23:56:36 UTC] DEBUG: accuracy radius = 7
+[24-Feb-2018 23:56:36 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[24-Feb-2018 23:56:36 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[24-Feb-2018 23:56:36 UTC] DEBUG: Diff in number of date = activated
+[24-Feb-2018 23:56:36 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[24-Feb-2018 23:56:36 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 00:06:50 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 00:06:50 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 00:06:50 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 00:06:50 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 00:06:50 UTC] DEBUG: postId = 62
+[25-Feb-2018 00:06:50 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 00:06:50 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 00:06:50 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 00:06:50 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.66.5
+[25-Feb-2018 00:06:50 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[25-Feb-2018 00:06:50 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 00:06:50 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 00:07:00 UTC] DEBUG parsed Url = contact.html
+[25-Feb-2018 00:07:00 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 00:07:00 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 00:07:00 UTC] isLocationSaved = succes
+[25-Feb-2018 03:01:13 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 03:01:13 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 03:01:13 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 03:01:13 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 03:01:13 UTC] DEBUG: postId = 62
+[25-Feb-2018 03:01:13 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 03:01:13 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 03:01:13 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 03:01:14 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.142.44.107
+[25-Feb-2018 03:01:14 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[25-Feb-2018 03:01:14 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 03:01:14 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 03:01:18 UTC] DEBUG: User's location from browser = {"lat":48.85187760954124,"lon":2.346182649721328}
+[25-Feb-2018 03:01:36 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 03:01:36 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 03:01:36 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 03:01:36 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 03:01:36 UTC] DEBUG: postId = 62
+[25-Feb-2018 03:01:36 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 03:01:36 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 03:01:36 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 03:01:36 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.142.44.107
+[25-Feb-2018 03:01:36 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[25-Feb-2018 03:01:36 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 03:01:36 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 03:01:39 UTC] DEBUG: User's location from browser = {"lat":48.851877287750526,"lon":2.3461813319101985}
+[25-Feb-2018 07:28:47 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 07:28:54 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 07:29:37 UTC] DEBUG parsed Url = 
+[25-Feb-2018 07:29:37 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 07:29:40 UTC] DEBUG parsed Url = 
+[25-Feb-2018 07:29:40 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 07:29:45 UTC] DEBUG parsed Url = 433
+[25-Feb-2018 07:29:45 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 07:29:45 UTC] isLocationSaved = succes
+[25-Feb-2018 07:29:45 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 08:24:06 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 08:24:06 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 08:24:06 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 08:24:06 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 08:24:06 UTC] DEBUG: postId = 62
+[25-Feb-2018 08:24:06 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 08:24:06 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 08:24:06 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 08:24:06 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.171.233.237
+[25-Feb-2018 08:24:06 UTC] DEBUG: location to check = (48.803, 2.2669)
+[25-Feb-2018 08:24:06 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 08:24:06 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 08:24:06 UTC] DEBUG: User's location from browser = {"lat":48.7422626,"lon":2.2840420999999997}
+[25-Feb-2018 08:24:28 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 08:24:28 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 08:24:28 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 08:24:28 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 08:24:28 UTC] DEBUG: postId = 62
+[25-Feb-2018 08:24:28 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 08:24:28 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 08:24:28 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 08:24:28 UTC] DEBUG: User's location from browser = {"lat":48.7422573,"lon":2.2840385999999997}
+[25-Feb-2018 08:24:28 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.171.233.237
+[25-Feb-2018 08:24:28 UTC] DEBUG: location to check = (48.803, 2.2669)
+[25-Feb-2018 08:24:28 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 08:24:28 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 08:25:11 UTC] DEBUG parsed Url = ?customize_changeset_uuid=1a833b56-4a6c-4b6f-86f6-abf1f7b5e7b9&customize_theme=evaflorvac_mobile&customize_messenger_channel=preview-0
+[25-Feb-2018 08:25:11 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 08:25:11 UTC] isLocationSaved = succes
+[25-Feb-2018 08:25:11 UTC] DEBUG: User's location from browser = {"lat":48.7422657,"lon":2.2840403000000005}
+[25-Feb-2018 08:33:57 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 08:33:57 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 08:33:57 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 08:33:57 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 08:33:57 UTC] DEBUG: postId = 62
+[25-Feb-2018 08:33:57 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 08:33:57 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 08:33:57 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 08:33:57 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.171.230.123
+[25-Feb-2018 08:33:58 UTC] DEBUG: location to check = (48.803, 2.2669)
+[25-Feb-2018 08:33:58 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 08:33:58 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 08:35:46 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 08:36:08 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 08:36:08 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 08:36:08 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 08:36:08 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 08:36:08 UTC] DEBUG: postId = 62
+[25-Feb-2018 08:36:08 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 08:36:08 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 08:36:08 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 08:36:09 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.170.228.176
+[25-Feb-2018 08:36:09 UTC] DEBUG: location to check = (48.8164, 2.4937)
+[25-Feb-2018 08:36:09 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 08:36:09 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 08:36:10 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 09:22:03 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 09:22:03 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 09:22:03 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 09:22:03 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 09:22:03 UTC] DEBUG: postId = 62
+[25-Feb-2018 09:22:03 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 09:22:03 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 09:22:03 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 09:22:03 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.170.228.176
+[25-Feb-2018 09:22:03 UTC] DEBUG: location to check = (48.8164, 2.4937)
+[25-Feb-2018 09:22:03 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 09:22:03 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 09:22:11 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 09:22:14 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 09:22:14 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 09:22:14 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 09:22:14 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 09:22:14 UTC] DEBUG: postId = 62
+[25-Feb-2018 09:22:14 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 09:22:14 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 09:22:14 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 09:22:14 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.170.228.176
+[25-Feb-2018 09:22:14 UTC] DEBUG: location to check = (48.8164, 2.4937)
+[25-Feb-2018 09:22:14 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 09:22:14 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 09:22:17 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 09:24:02 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 09:24:07 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 09:52:14 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 09:52:14 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 09:52:14 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 09:52:14 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 09:52:14 UTC] DEBUG: postId = 62
+[25-Feb-2018 09:52:14 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 09:52:14 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 09:52:14 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 09:52:14 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 09:52:14 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.170.228.176
+[25-Feb-2018 09:52:14 UTC] DEBUG: location to check = (48.8164, 2.4937)
+[25-Feb-2018 09:52:14 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 09:52:14 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 09:52:28 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 09:52:28 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 09:52:28 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 09:52:28 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 09:52:28 UTC] DEBUG: postId = 62
+[25-Feb-2018 09:52:28 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 09:52:28 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 09:52:28 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 09:52:28 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 09:52:29 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.170.228.176
+[25-Feb-2018 09:52:29 UTC] DEBUG: location to check = (48.8164, 2.4937)
+[25-Feb-2018 09:52:29 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 09:52:29 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 09:54:56 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 09:54:56 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 09:54:56 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 09:54:56 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 09:54:56 UTC] DEBUG: postId = 62
+[25-Feb-2018 09:54:56 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 09:54:56 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 09:54:56 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 09:54:56 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 09:54:57 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.170.228.176
+[25-Feb-2018 09:55:02 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 09:55:02 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 09:55:02 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 09:55:02 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 09:55:02 UTC] DEBUG: postId = 62
+[25-Feb-2018 09:55:02 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 09:55:02 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 09:55:02 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 09:55:02 UTC] DEBUG: location to check = (48.8164, 2.4937)
+[25-Feb-2018 09:55:02 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 09:55:02 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 09:55:02 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.170.228.176
+[25-Feb-2018 09:55:02 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 09:55:02 UTC] DEBUG: location to check = (48.8164, 2.4937)
+[25-Feb-2018 09:55:02 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 09:55:02 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 10:05:50 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 10:05:50 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 10:05:50 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 10:05:50 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 10:05:50 UTC] DEBUG: postId = 62
+[25-Feb-2018 10:05:50 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 10:05:50 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 10:05:50 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 10:05:50 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 10:05:51 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.170.228.176
+[25-Feb-2018 10:05:51 UTC] DEBUG: location to check = (48.8164, 2.4937)
+[25-Feb-2018 10:05:51 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 10:05:51 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 10:53:54 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[25-Feb-2018 10:53:54 UTC] 000000004D5E1011134F2C
+[25-Feb-2018 10:53:54 UTC] DEBUG: productUid = 4D5E1011134F2C
+[25-Feb-2018 10:53:54 UTC] DEBUG: postName = eau-de-toilette2
+[25-Feb-2018 10:53:54 UTC] DEBUG: postId = 62
+[25-Feb-2018 10:53:54 UTC] DEBUG: isUserLocSaved = 
+[25-Feb-2018 10:53:54 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[25-Feb-2018 10:53:54 UTC] DEBUG: accuracy radius = 7
+[25-Feb-2018 10:53:54 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[25-Feb-2018 10:53:55 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.170.228.176
+[25-Feb-2018 10:53:55 UTC] DEBUG: location to check = (48.8164, 2.4937)
+[25-Feb-2018 10:53:55 UTC] DEBUG: Diff in number of date = activated
+[25-Feb-2018 10:53:55 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:45:21 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:46:34 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:28 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:32 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:33 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:35 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:36 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:37 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:38 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:39 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:40 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:41 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:47:42 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:27 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:30 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:31 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:32 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:33 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:34 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:36 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:37 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:38 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:39 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:41 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:42 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:43 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:44 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:45 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:46 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:48 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:49 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:51:50 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[25-Feb-2018 20:53:17 UTC] PHP Warning:  gethostbyname(): Host name is too long, the limit is 255 characters in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/http.php on line 543
+[25-Feb-2018 20:53:20 UTC] PHP Notice:  Undefined index: path in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[25-Feb-2018 20:53:20 UTC] PHP Notice:  Undefined index: path in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 570
+[25-Feb-2018 20:56:21 UTC] PHP Notice:  Undefined index: login in /home/evaflor/www/evaflor_vac/wordpress/wp-login.php on line 573
+[25-Feb-2018 20:56:21 UTC] PHP Notice:  Array to string conversion in /home/evaflor/www/evaflor_vac/wordpress/wp-login.php on line 573
+[25-Feb-2018 20:56:22 UTC] PHP Notice:  Undefined index: login in /home/evaflor/www/evaflor_vac/wordpress/wp-login.php on line 573
+[25-Feb-2018 20:56:22 UTC] PHP Notice:  Array to string conversion in /home/evaflor/www/evaflor_vac/wordpress/wp-login.php on line 573
+[26-Feb-2018 15:47:45 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[26-Feb-2018 15:47:45 UTC] 000000004D5E1011134F2C
+[26-Feb-2018 15:47:45 UTC] DEBUG: productUid = 4D5E1011134F2C
+[26-Feb-2018 15:47:45 UTC] DEBUG: postName = eau-de-toilette2
+[26-Feb-2018 15:47:45 UTC] DEBUG: postId = 62
+[26-Feb-2018 15:47:45 UTC] DEBUG: isUserLocSaved = 
+[26-Feb-2018 15:47:45 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[26-Feb-2018 15:47:45 UTC] DEBUG: accuracy radius = 7
+[26-Feb-2018 15:47:45 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.70.75
+[26-Feb-2018 15:47:45 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[26-Feb-2018 15:47:45 UTC] DEBUG: Diff in number of date = activated
+[26-Feb-2018 15:47:45 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[26-Feb-2018 15:47:46 UTC] DEBUG: User's location from browser = {"lat":48.712635360033815,"lon":2.194222977158844}
+[26-Feb-2018 15:47:48 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[26-Feb-2018 15:47:48 UTC] 000000004D5E1011134F2C
+[26-Feb-2018 15:47:48 UTC] DEBUG: productUid = 4D5E1011134F2C
+[26-Feb-2018 15:47:48 UTC] DEBUG: postName = eau-de-toilette2
+[26-Feb-2018 15:47:48 UTC] DEBUG: postId = 62
+[26-Feb-2018 15:47:48 UTC] DEBUG: isUserLocSaved = 
+[26-Feb-2018 15:47:48 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[26-Feb-2018 15:47:48 UTC] DEBUG: accuracy radius = 7
+[26-Feb-2018 15:47:49 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.70.75
+[26-Feb-2018 15:47:49 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[26-Feb-2018 15:47:49 UTC] DEBUG: Diff in number of date = activated
+[26-Feb-2018 15:47:49 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[26-Feb-2018 17:30:33 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[26-Feb-2018 17:30:34 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[26-Feb-2018 17:30:34 UTC] 000000004D5E1011134F2C
+[26-Feb-2018 17:30:34 UTC] DEBUG: productUid = 4D5E1011134F2C
+[26-Feb-2018 17:30:34 UTC] DEBUG: postName = eau-de-toilette2
+[26-Feb-2018 17:30:34 UTC] DEBUG: postId = 62
+[26-Feb-2018 17:30:34 UTC] DEBUG: isUserLocSaved = 
+[26-Feb-2018 17:30:34 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[26-Feb-2018 17:30:34 UTC] DEBUG: accuracy radius = 7
+[26-Feb-2018 17:30:34 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.134.214
+[26-Feb-2018 17:30:34 UTC] DEBUG: location to check = (48.8534, 2.3488)
+[26-Feb-2018 17:30:34 UTC] DEBUG: Diff in number of date = activated
+[26-Feb-2018 17:30:34 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[26-Feb-2018 19:24:33 UTC] DEBUG parsed Url = 433
+[26-Feb-2018 19:24:33 UTC] DEBUG: isUserLocSaved = 
+[26-Feb-2018 19:24:33 UTC] isLocationSaved = succes
+[27-Feb-2018 07:30:29 UTC] DEBUG parsed Url = 
+[27-Feb-2018 07:46:53 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[27-Feb-2018 07:46:53 UTC] 000000004D5E1011134F2C
+[27-Feb-2018 07:46:53 UTC] DEBUG: productUid = 4D5E1011134F2C
+[27-Feb-2018 07:46:53 UTC] DEBUG: postName = eau-de-toilette2
+[27-Feb-2018 07:46:53 UTC] DEBUG: postId = 62
+[27-Feb-2018 07:46:53 UTC] DEBUG: isUserLocSaved = 
+[27-Feb-2018 07:46:53 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[27-Feb-2018 07:46:53 UTC] DEBUG: accuracy radius = 7
+[27-Feb-2018 07:46:54 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.142.44.107
+[27-Feb-2018 07:46:54 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[27-Feb-2018 07:46:54 UTC] DEBUG: Diff in number of date = activated
+[27-Feb-2018 07:46:54 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[27-Feb-2018 18:05:32 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[27-Feb-2018 18:20:23 UTC] DEBUG parsed Url = 
+[27-Feb-2018 18:20:28 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[27-Feb-2018 18:20:38 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"176.175.87.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"176.175.87.0"},"events":"1 events trimmed."}}
+[27-Feb-2018 18:20:50 UTC] DEBUG parsed Url = hello-world/
+[27-Feb-2018 18:20:50 UTC] DEBUG: isUserLocSaved = 
+[27-Feb-2018 18:20:50 UTC] isLocationSaved = succes
+[27-Feb-2018 18:20:50 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[27-Feb-2018 18:21:31 UTC] DEBUG parsed Url = 
+[27-Feb-2018 18:21:31 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[27-Feb-2018 18:23:21 UTC] DEBUG parsed Url = #
+[27-Feb-2018 18:23:21 UTC] DEBUG: isUserLocSaved = 
+[27-Feb-2018 18:23:21 UTC] isLocationSaved = succes
+[27-Feb-2018 18:23:21 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[27-Feb-2018 18:24:35 UTC] DEBUG parsed Url = quiz/which-wisky-man-are-you/
+[27-Feb-2018 18:24:35 UTC] DEBUG: isUserLocSaved = 
+[27-Feb-2018 18:24:35 UTC] isLocationSaved = succes
+[27-Feb-2018 18:24:35 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[27-Feb-2018 18:24:47 UTC] DEBUG parsed Url = quiz/which-wisky-man-are-you/
+[27-Feb-2018 18:24:47 UTC] DEBUG: isUserLocSaved = 
+[27-Feb-2018 18:24:47 UTC] isLocationSaved = succes
+[27-Feb-2018 18:24:47 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[27-Feb-2018 18:41:02 UTC] DEBUG parsed Url = 
+[27-Feb-2018 18:41:02 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[27-Feb-2018 18:41:06 UTC] DEBUG parsed Url = 
+[27-Feb-2018 18:41:06 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[27-Feb-2018 18:41:27 UTC] DEBUG parsed Url = 
+[27-Feb-2018 18:41:27 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 11:27:19 UTC] DEBUG parsed Url = 
+[28-Feb-2018 11:27:22 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 11:27:46 UTC] DEBUG parsed Url = 
+[28-Feb-2018 11:27:46 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 11:46:07 UTC] DEBUG parsed Url = 
+[28-Feb-2018 11:46:07 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 11:46:07 UTC] DEBUG parsed Url = 
+[28-Feb-2018 11:46:07 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 11:47:54 UTC] PHP Notice:  Array to string conversion in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 142
+[28-Feb-2018 11:47:54 UTC] DEBUG: LotteryValues = Array
+[28-Feb-2018 11:48:01 UTC] DEBUG parsed Url = #
+[28-Feb-2018 11:48:01 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 11:48:01 UTC] isLocationSaved = succes
+[28-Feb-2018 11:48:01 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 11:48:01 UTC] DEBUG parsed Url = #
+[28-Feb-2018 11:48:01 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 11:48:01 UTC] isLocationSaved = succes
+[28-Feb-2018 11:48:01 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 11:48:33 UTC] DEBUG parsed Url = 
+[28-Feb-2018 11:48:33 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 11:48:34 UTC] DEBUG parsed Url = 
+[28-Feb-2018 11:48:34 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 13:43:05 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 13:43:11 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 13:43:11 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 13:43:11 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 13:43:11 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 13:43:11 UTC] DEBUG: postId = 62
+[28-Feb-2018 13:43:11 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 13:43:11 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 13:43:11 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 13:43:11 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/165.225.76.162
+[28-Feb-2018 13:43:12 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[28-Feb-2018 13:43:12 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 13:43:12 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 13:43:13 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 13:43:16 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 13:43:19 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 13:43:19 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 13:43:19 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 13:43:19 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 13:43:19 UTC] DEBUG: postId = 62
+[28-Feb-2018 13:43:19 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 13:43:19 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 13:43:19 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 13:43:19 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 13:43:19 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/165.225.76.162
+[28-Feb-2018 13:43:19 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[28-Feb-2018 13:43:19 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 13:43:19 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 13:43:31 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 13:43:31 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 13:43:31 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 13:43:31 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 13:43:31 UTC] DEBUG: postId = 62
+[28-Feb-2018 13:43:31 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 13:43:31 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 13:43:31 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 13:43:31 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 13:43:31 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/165.225.76.162
+[28-Feb-2018 13:43:31 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[28-Feb-2018 13:43:31 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 13:43:31 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 13:43:35 UTC] DEBUG parsed Url = 
+[28-Feb-2018 13:43:35 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 13:43:38 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 13:43:38 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 13:43:38 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 13:43:38 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 13:43:38 UTC] DEBUG: postId = 62
+[28-Feb-2018 13:43:38 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 13:43:38 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 13:43:38 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 13:43:38 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 13:43:38 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/165.225.76.162
+[28-Feb-2018 13:43:38 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[28-Feb-2018 13:43:38 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 13:43:38 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 14:03:52 UTC] DEBUG parsed Url = 
+[28-Feb-2018 14:03:52 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 14:04:05 UTC] DEBUG parsed Url = 
+[28-Feb-2018 14:04:06 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 14:14:10 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 14:14:10 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 14:14:10 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 14:14:10 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 14:14:10 UTC] DEBUG: postId = 62
+[28-Feb-2018 14:14:10 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 14:14:10 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 14:14:10 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 14:14:10 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 14:14:11 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/132.166.177.50
+[28-Feb-2018 14:14:11 UTC] DEBUG: location to check = (48.7038, 2.3391)
+[28-Feb-2018 14:14:11 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 14:14:11 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 14:14:14 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 14:14:14 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 14:14:14 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 14:14:14 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 14:14:14 UTC] DEBUG: postId = 62
+[28-Feb-2018 14:14:14 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 14:14:14 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 14:14:14 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 14:14:14 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 14:14:14 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/132.166.177.50
+[28-Feb-2018 14:14:14 UTC] DEBUG: location to check = (48.7038, 2.3391)
+[28-Feb-2018 14:14:14 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 14:14:14 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 14:14:39 UTC] DEBUG parsed Url = 
+[28-Feb-2018 14:17:37 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"132.166.177.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"132.166.177.0"},"events":"1 events trimmed."}}
+[28-Feb-2018 14:29:40 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 14:29:40 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 14:29:40 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 14:29:40 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 14:29:40 UTC] DEBUG: postId = 62
+[28-Feb-2018 14:29:40 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 14:29:40 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 14:29:40 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 14:29:40 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 14:29:40 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/165.225.76.162
+[28-Feb-2018 14:29:40 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[28-Feb-2018 14:29:40 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 14:29:40 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 14:29:43 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 14:29:43 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 14:29:43 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 14:29:43 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 14:29:43 UTC] DEBUG: postId = 62
+[28-Feb-2018 14:29:43 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 14:29:43 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 14:29:43 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 14:29:43 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 14:29:43 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/165.225.76.162
+[28-Feb-2018 14:29:44 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[28-Feb-2018 14:29:44 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 14:29:44 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 15:50:47 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 15:50:47 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 15:50:47 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 15:50:47 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 15:50:47 UTC] DEBUG: postId = 62
+[28-Feb-2018 15:50:47 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 15:50:47 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 15:50:47 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 15:50:48 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/165.225.76.162
+[28-Feb-2018 15:50:48 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[28-Feb-2018 15:50:48 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 15:50:48 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 15:50:50 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 15:50:57 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 15:50:57 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 15:50:57 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 15:50:57 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 15:50:57 UTC] DEBUG: postId = 62
+[28-Feb-2018 15:50:57 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 15:50:57 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 15:50:57 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 15:50:57 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/165.225.76.162
+[28-Feb-2018 15:50:57 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[28-Feb-2018 15:50:57 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 15:50:57 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 15:51:01 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 15:53:53 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 15:53:53 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 15:53:53 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 15:53:53 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 15:53:53 UTC] DEBUG: postId = 62
+[28-Feb-2018 15:53:53 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 15:53:53 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 15:53:53 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 15:53:53 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/165.225.76.162
+[28-Feb-2018 15:53:54 UTC] DEBUG: location to check = (48.8628, 2.3292)
+[28-Feb-2018 15:53:54 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 15:53:54 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 15:54:20 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 15:54:21 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 15:54:21 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 15:54:21 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 15:54:21 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 15:54:21 UTC] DEBUG: postId = 62
+[28-Feb-2018 15:54:21 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 15:54:21 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 15:54:21 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 15:54:21 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.200.154
+[28-Feb-2018 15:54:21 UTC] DEBUG: location to check = (48.6768, 2.3484)
+[28-Feb-2018 15:54:21 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 15:54:21 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 15:57:05 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 15:57:05 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 15:57:05 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 15:57:05 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 15:57:05 UTC] DEBUG: postId = 62
+[28-Feb-2018 15:57:05 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 15:57:05 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 15:57:05 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 15:57:05 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/132.166.177.50
+[28-Feb-2018 15:57:05 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 15:57:05 UTC] DEBUG: location to check = (48.7038, 2.3391)
+[28-Feb-2018 15:57:05 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 15:57:05 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 15:57:09 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 15:57:09 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 15:57:09 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 15:57:09 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 15:57:09 UTC] DEBUG: postId = 62
+[28-Feb-2018 15:57:09 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 15:57:09 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 15:57:09 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 15:57:09 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 15:57:09 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/132.166.177.50
+[28-Feb-2018 15:57:09 UTC] DEBUG: location to check = (48.7038, 2.3391)
+[28-Feb-2018 15:57:09 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 15:57:09 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 16:27:21 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[28-Feb-2018 16:27:21 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[28-Feb-2018 16:27:21 UTC] 000000004D5E1011134F2C
+[28-Feb-2018 16:27:21 UTC] DEBUG: productUid = 4D5E1011134F2C
+[28-Feb-2018 16:27:21 UTC] DEBUG: postName = eau-de-toilette2
+[28-Feb-2018 16:27:21 UTC] DEBUG: postId = 62
+[28-Feb-2018 16:27:21 UTC] DEBUG: isUserLocSaved = 
+[28-Feb-2018 16:27:21 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[28-Feb-2018 16:27:21 UTC] DEBUG: accuracy radius = 7
+[28-Feb-2018 16:27:21 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/80.215.200.154
+[28-Feb-2018 16:27:21 UTC] DEBUG: location to check = (48.6768, 2.3484)
+[28-Feb-2018 16:27:21 UTC] DEBUG: Diff in number of date = activated
+[28-Feb-2018 16:27:21 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[28-Feb-2018 16:31:04 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[01-Mar-2018 08:16:06 UTC] DEBUG parsed Url = 
+[01-Mar-2018 08:16:06 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[01-Mar-2018 08:16:17 UTC] DEBUG parsed Url = 
+[01-Mar-2018 08:16:17 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[01-Mar-2018 09:35:05 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[01-Mar-2018 09:35:06 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[01-Mar-2018 09:35:06 UTC] 000000004D5E1011134F2C
+[01-Mar-2018 09:35:06 UTC] DEBUG: productUid = 4D5E1011134F2C
+[01-Mar-2018 09:35:06 UTC] DEBUG: postName = eau-de-toilette2
+[01-Mar-2018 09:35:06 UTC] DEBUG: postId = 62
+[01-Mar-2018 09:35:06 UTC] DEBUG: isUserLocSaved = 
+[01-Mar-2018 09:35:06 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[01-Mar-2018 09:35:06 UTC] DEBUG: accuracy radius = 7
+[01-Mar-2018 09:35:07 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/132.166.177.50
+[01-Mar-2018 09:35:07 UTC] DEBUG: location to check = (48.7038, 2.3391)
+[01-Mar-2018 09:35:07 UTC] DEBUG: Diff in number of date = activated
+[01-Mar-2018 09:35:07 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[01-Mar-2018 10:21:36 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"132.166.177.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"132.166.177.0"},"events":"1 events trimmed."}}
+[01-Mar-2018 13:44:50 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[01-Mar-2018 13:44:50 UTC] 000000004D5E1011134F2C
+[01-Mar-2018 13:44:50 UTC] DEBUG: productUid = 4D5E1011134F2C
+[01-Mar-2018 13:44:50 UTC] DEBUG: postName = eau-de-toilette2
+[01-Mar-2018 13:44:50 UTC] DEBUG: postId = 62
+[01-Mar-2018 13:44:50 UTC] DEBUG: isUserLocSaved = 
+[01-Mar-2018 13:44:50 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[01-Mar-2018 13:44:50 UTC] DEBUG: accuracy radius = 7
+[01-Mar-2018 13:44:50 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[01-Mar-2018 13:44:50 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/132.166.177.50
+[01-Mar-2018 13:44:50 UTC] DEBUG: location to check = (48.7038, 2.3391)
+[01-Mar-2018 13:44:50 UTC] DEBUG: Diff in number of date = activated
+[01-Mar-2018 13:44:50 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[01-Mar-2018 13:44:54 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[01-Mar-2018 13:44:54 UTC] 000000004D5E1011134F2C
+[01-Mar-2018 13:44:54 UTC] DEBUG: productUid = 4D5E1011134F2C
+[01-Mar-2018 13:44:54 UTC] DEBUG: postName = eau-de-toilette2
+[01-Mar-2018 13:44:54 UTC] DEBUG: postId = 62
+[01-Mar-2018 13:44:54 UTC] DEBUG: isUserLocSaved = 
+[01-Mar-2018 13:44:54 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[01-Mar-2018 13:44:54 UTC] DEBUG: accuracy radius = 7
+[01-Mar-2018 13:44:54 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[01-Mar-2018 13:44:55 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/132.166.177.50
+[01-Mar-2018 13:44:55 UTC] DEBUG: location to check = (48.7038, 2.3391)
+[01-Mar-2018 13:44:55 UTC] DEBUG: Diff in number of date = activated
+[01-Mar-2018 13:44:55 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[01-Mar-2018 13:56:13 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[01-Mar-2018 13:56:13 UTC] 000000004D5E1011134F2C
+[01-Mar-2018 13:56:13 UTC] DEBUG: productUid = 4D5E1011134F2C
+[01-Mar-2018 13:56:13 UTC] DEBUG: postName = eau-de-toilette2
+[01-Mar-2018 13:56:13 UTC] DEBUG: postId = 62
+[01-Mar-2018 13:56:13 UTC] DEBUG: isUserLocSaved = 
+[01-Mar-2018 13:56:13 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[01-Mar-2018 13:56:13 UTC] DEBUG: accuracy radius = 7
+[01-Mar-2018 13:56:14 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[01-Mar-2018 13:56:14 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/132.166.177.50
+[01-Mar-2018 13:56:14 UTC] DEBUG: location to check = (48.7038, 2.3391)
+[01-Mar-2018 13:56:14 UTC] DEBUG: Diff in number of date = activated
+[01-Mar-2018 13:56:14 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[01-Mar-2018 13:56:17 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[01-Mar-2018 13:56:17 UTC] 000000004D5E1011134F2C
+[01-Mar-2018 13:56:17 UTC] DEBUG: productUid = 4D5E1011134F2C
+[01-Mar-2018 13:56:17 UTC] DEBUG: postName = eau-de-toilette2
+[01-Mar-2018 13:56:17 UTC] DEBUG: postId = 62
+[01-Mar-2018 13:56:17 UTC] DEBUG: isUserLocSaved = 
+[01-Mar-2018 13:56:17 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[01-Mar-2018 13:56:17 UTC] DEBUG: accuracy radius = 7
+[01-Mar-2018 13:56:17 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[01-Mar-2018 13:56:17 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/132.166.177.50
+[01-Mar-2018 13:56:17 UTC] DEBUG: location to check = (48.7038, 2.3391)
+[01-Mar-2018 13:56:17 UTC] DEBUG: Diff in number of date = activated
+[01-Mar-2018 13:56:17 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[01-Mar-2018 14:16:33 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[01-Mar-2018 14:16:33 UTC] 000000004D5E1011134F2C
+[01-Mar-2018 14:16:33 UTC] DEBUG: productUid = 4D5E1011134F2C
+[01-Mar-2018 14:16:33 UTC] DEBUG: postName = eau-de-toilette2
+[01-Mar-2018 14:16:33 UTC] DEBUG: postId = 62
+[01-Mar-2018 14:16:33 UTC] DEBUG: isUserLocSaved = 
+[01-Mar-2018 14:16:33 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[01-Mar-2018 14:16:33 UTC] DEBUG: accuracy radius = 7
+[01-Mar-2018 14:16:33 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[01-Mar-2018 14:16:33 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/132.166.177.50
+[01-Mar-2018 14:16:33 UTC] DEBUG: location to check = (48.7038, 2.3391)
+[01-Mar-2018 14:16:33 UTC] DEBUG: Diff in number of date = activated
+[01-Mar-2018 14:16:33 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[01-Mar-2018 19:56:22 UTC] DEBUG parsed Url = 
+[01-Mar-2018 19:56:25 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[01-Mar-2018 19:56:36 UTC] DEBUG parsed Url = 
+[01-Mar-2018 19:56:36 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[01-Mar-2018 19:57:06 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"176.175.87.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"176.175.87.0"},"events":"1 events trimmed."}}
+[02-Mar-2018 22:17:52 UTC] DEBUG parsed Url = 
+[02-Mar-2018 22:17:53 UTC] DEBUG: User's location from browser = {"lat":48.7422726,"lon":2.2840868999999997}
+[02-Mar-2018 22:17:56 UTC] DEBUG parsed Url = 
+[02-Mar-2018 22:17:56 UTC] DEBUG: User's location from browser = {"lat":48.7422726,"lon":2.2840868999999997}
+[02-Mar-2018 22:18:19 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"85.171.233.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"85.171.233.0"},"events":"0 events trimmed."}}
+[02-Mar-2018 22:20:07 UTC] DEBUG parsed Url = 
+[02-Mar-2018 22:20:07 UTC] DEBUG: User's location from browser = {"lat":48.7422687,"lon":2.2840651}
+[02-Mar-2018 22:20:10 UTC] DEBUG parsed Url = 
+[02-Mar-2018 22:20:10 UTC] DEBUG: User's location from browser = {"lat":48.7422687,"lon":2.2840651}
+[02-Mar-2018 22:55:24 UTC] DEBUG parsed Url = 
+[02-Mar-2018 22:55:24 UTC] DEBUG: User's location from browser = {"lat":48.7422812,"lon":2.2840651999999997}
+[02-Mar-2018 23:03:10 UTC] DEBUG: User's location from browser = {"lat":48.742298899999994,"lon":2.2840878}
+[02-Mar-2018 23:03:13 UTC] DEBUG: User's location from browser = {"lat":48.742298899999994,"lon":2.2840878}
+[02-Mar-2018 23:10:11 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[02-Mar-2018 23:10:11 UTC] 000000004D5E1011134F2C
+[02-Mar-2018 23:10:11 UTC] DEBUG: productUid = 4D5E1011134F2C
+[02-Mar-2018 23:10:11 UTC] DEBUG: postName = eau-de-toilette2
+[02-Mar-2018 23:10:11 UTC] DEBUG: postId = 62
+[02-Mar-2018 23:10:11 UTC] DEBUG: isUserLocSaved = 
+[02-Mar-2018 23:10:11 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[02-Mar-2018 23:10:11 UTC] DEBUG: accuracy radius = 7
+[02-Mar-2018 23:10:12 UTC] DEBUG: User's location from browser = {"lat":48.742263,"lon":2.2840816}
+[02-Mar-2018 23:10:12 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.171.233.237
+[02-Mar-2018 23:10:12 UTC] DEBUG: location to check = (48.803, 2.2669)
+[02-Mar-2018 23:10:12 UTC] DEBUG: Diff in number of date = activated
+[02-Mar-2018 23:10:12 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 07:53:14 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 07:53:14 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 07:53:14 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 07:53:14 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 07:53:14 UTC] DEBUG: postId = 62
+[03-Mar-2018 07:53:14 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 07:53:14 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 07:53:14 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 07:53:14 UTC] DEBUG: User's location from browser = {"lat":48.7422731,"lon":2.2839849}
+[03-Mar-2018 07:53:14 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.171.233.237
+[03-Mar-2018 07:53:14 UTC] DEBUG: location to check = (48.803, 2.2669)
+[03-Mar-2018 07:53:14 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 07:53:14 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 07:54:28 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 07:54:28 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 07:54:28 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 07:54:28 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 07:54:28 UTC] DEBUG: postId = 62
+[03-Mar-2018 07:54:28 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 07:54:28 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 07:54:28 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 07:54:28 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/85.171.233.237
+[03-Mar-2018 07:54:28 UTC] DEBUG: location to check = (48.803, 2.2669)
+[03-Mar-2018 07:54:28 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 07:54:28 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 07:54:28 UTC] DEBUG: User's location from browser = {"lat":48.742253700000006,"lon":2.2840023}
+[03-Mar-2018 08:05:24 UTC] DEBUG parsed Url = 
+[03-Mar-2018 08:05:24 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:05:41 UTC] DEBUG parsed Url = 
+[03-Mar-2018 08:05:41 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:07:12 UTC] DEBUG parsed Url = 
+[03-Mar-2018 08:07:17 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:07:17 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:07:17 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:07:17 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:07:17 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:07:17 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:07:17 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:07:17 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:07:17 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:07:17 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:07:17 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:07:17 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:07:17 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:07:23 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:07:23 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:07:23 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:07:23 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:07:23 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:07:23 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:07:23 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:07:23 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:07:23 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:07:23 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:07:23 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:07:23 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:07:23 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:12:11 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"176.175.87.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"176.175.87.0"},"events":"1 events trimmed."}}
+[03-Mar-2018 08:13:09 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:13:09 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:13:09 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:13:09 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:13:09 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:13:09 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:13:09 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:13:09 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:13:09 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:13:09 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:13:09 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:13:09 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:13:09 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:13:12 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:13:12 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:13:12 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:13:12 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:13:12 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:13:12 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:13:12 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:13:12 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:13:12 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:13:12 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:13:13 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:13:13 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:13:13 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:13:42 UTC] DEBUG parsed Url = quiz/which-wisky-man-are-you/
+[03-Mar-2018 08:13:42 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:13:42 UTC] isLocationSaved = succes
+[03-Mar-2018 08:13:42 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:13:58 UTC] DEBUG parsed Url = quiz/which-wisky-man-are-you/
+[03-Mar-2018 08:13:58 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:13:58 UTC] isLocationSaved = succes
+[03-Mar-2018 08:13:58 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:19:47 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:19:47 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:19:47 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:19:47 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:19:47 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:19:47 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:19:47 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:19:47 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:19:47 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:19:47 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:19:47 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:19:47 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:19:47 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:20:04 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:20:04 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:20:04 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:20:04 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:20:04 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:20:04 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:20:04 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:20:04 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:20:04 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:20:04 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:20:04 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:20:04 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:20:04 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:20:09 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:20:09 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:20:09 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:20:09 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:20:09 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:20:09 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:20:09 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:20:09 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:20:09 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:20:09 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:20:09 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:20:09 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:20:09 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:28:38 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:28:38 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:28:38 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:28:38 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:28:38 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:28:38 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:28:38 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:28:38 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:28:38 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:28:38 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:28:38 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:28:38 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:28:38 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:33:54 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:33:54 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:33:54 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:33:54 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:33:54 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:33:54 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:33:54 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:33:54 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:33:55 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:33:55 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:33:55 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:33:55 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:33:55 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:42:55 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:42:55 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:42:55 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:42:55 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:42:55 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:42:55 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:42:55 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:42:55 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:42:55 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:42:55 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:42:55 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:42:55 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:42:55 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:45:04 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:45:04 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:45:04 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:45:04 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:45:04 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:45:04 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:45:04 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:45:04 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:45:04 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:45:04 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:45:04 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:45:04 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:45:04 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:46:51 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:46:51 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:46:51 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:46:51 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:46:51 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:46:51 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:46:51 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:46:51 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:46:51 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:46:51 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:46:52 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:46:52 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:46:52 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 08:53:10 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 08:53:10 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 08:53:10 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 08:53:10 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 08:53:10 UTC] DEBUG: postId = 62
+[03-Mar-2018 08:53:10 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 08:53:10 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 08:53:10 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 08:53:10 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 08:53:11 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 08:53:11 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 08:53:11 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 08:53:11 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 09:02:44 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 09:02:44 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 09:02:44 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 09:02:44 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 09:02:44 UTC] DEBUG: postId = 62
+[03-Mar-2018 09:02:44 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 09:02:44 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 09:02:44 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 09:02:45 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 09:02:45 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:02:45 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 09:02:45 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 09:02:45 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 09:03:34 UTC] DEBUG parsed Url = ?customize_changeset_uuid=236b7bbd-03c7-4a5e-9c78-e8a793473335&customize_theme=evaflorvac_mobile-3&customize_messenger_channel=preview-0
+[03-Mar-2018 09:03:34 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 09:03:34 UTC] isLocationSaved = succes
+[03-Mar-2018 09:03:34 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:03:44 UTC] DEBUG parsed Url = ?customize_changeset_uuid=236b7bbd-03c7-4a5e-9c78-e8a793473335&customize_theme=evaflorvac_mobile-3&customize_messenger_channel=preview-0
+[03-Mar-2018 09:03:44 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 09:03:44 UTC] isLocationSaved = succes
+[03-Mar-2018 09:03:44 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:04:08 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 09:04:08 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 09:04:08 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 09:04:08 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 09:04:08 UTC] DEBUG: postId = 62
+[03-Mar-2018 09:04:08 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 09:04:08 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 09:04:08 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 09:04:08 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:04:08 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 09:04:09 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 09:04:09 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 09:04:09 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 09:05:12 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 09:05:12 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 09:05:12 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 09:05:12 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 09:05:12 UTC] DEBUG: postId = 62
+[03-Mar-2018 09:05:12 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 09:05:12 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 09:05:12 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 09:05:12 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 09:05:12 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:05:12 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 09:05:12 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 09:05:12 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 09:09:45 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 09:09:45 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 09:09:45 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 09:09:45 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 09:09:45 UTC] DEBUG: postId = 62
+[03-Mar-2018 09:09:45 UTC] DEBUG: isUserLocSaved = 
+[03-Mar-2018 09:09:45 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 09:09:45 UTC] DEBUG: accuracy radius = 7
+[03-Mar-2018 09:09:46 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:09:46 UTC] DEBUG: Url for searching visitor location = https://geoip.nekudo.com/api/176.175.87.186
+[03-Mar-2018 09:09:46 UTC] DEBUG: location to check = (48.8412, 2.3003)
+[03-Mar-2018 09:09:46 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 09:09:46 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 09:10:53 UTC] DEBUG parsed Url = 
+[03-Mar-2018 09:10:53 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:12:48 UTC] DEBUG parsed Url = 
+[03-Mar-2018 09:12:48 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:14:41 UTC] DEBUG parsed Url = 
+[03-Mar-2018 09:14:41 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:15:18 UTC] DEBUG parsed Url = 
+[03-Mar-2018 09:15:18 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:17:01 UTC] DEBUG parsed Url = 
+[03-Mar-2018 09:17:01 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:19:01 UTC] DEBUG parsed Url = 
+[03-Mar-2018 09:19:01 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:20:22 UTC] DEBUG parsed Url = 
+[03-Mar-2018 09:20:22 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:22:15 UTC] DEBUG parsed Url = 
+[03-Mar-2018 09:22:15 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 09:24:15 UTC] DEBUG parsed Url = 
+[03-Mar-2018 09:24:15 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[03-Mar-2018 23:08:09 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/evaflor/www/evaflor_vac/wordpress/wp-content/themes/evaflorvac_mobile _prod): failed to open dir: No such file or directory' in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/download-plugins-dashboard/includes/class-alg-download-plugins-core.php:99
+Stack trace:
+#0 /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/download-plugins-dashboard/includes/class-alg-download-plugins-core.php(99): RecursiveDirectoryIterator->__construct('/home/evaflor/w...')
+#1 /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/download-plugins-dashboard/includes/class-alg-download-plugins-core.php(47): Alg_Download_Plugins_Core->download_plugin_or_theme('/home/evaflor/w...', 'evaflorvac_mobi...', '', true)
+#2 [internal function]: Alg_Download_Plugins_Core->download_theme('')
+#3 /home/evaflor/www/evaflor_vac/wordpress/wp-includes/class-wp-hook.php(298): call_user_func_array(Array, Array)
+#4 /home/evaf in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/download-plugins-dashboard/includes/class-alg-download-plugins-core.php on line 99
+[03-Mar-2018 23:12:34 UTC] DEBUG parsed Url = 
+[03-Mar-2018 23:12:34 UTC] DEBUG: User's location from browser = {"lat":48.7422896,"lon":2.2841266}
+[03-Mar-2018 23:12:34 UTC] DEBUG parsed Url = 
+[03-Mar-2018 23:12:35 UTC] DEBUG: User's location from browser = {"lat":48.742285599999995,"lon":2.2841221}
+[03-Mar-2018 23:13:01 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 23:13:01 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 23:13:01 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 23:13:01 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 23:13:01 UTC] DEBUG: postId = 62
+[03-Mar-2018 23:13:01 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[03-Mar-2018 23:13:01 UTC] DEBUG: temporal location from sessionID = error
+[03-Mar-2018 23:13:01 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 365
+[03-Mar-2018 23:13:01 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 23:13:01 UTC] DEBUG: accuracy radius = 0.5
+[03-Mar-2018 23:13:02 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[03-Mar-2018 23:13:02 UTC] DEBUG: visitorLocation from browser: error
+[03-Mar-2018 23:13:02 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 435
+[03-Mar-2018 23:13:02 UTC] DEBUG: location to check = (error, )
+[03-Mar-2018 23:13:02 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[03-Mar-2018 23:13:02 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[03-Mar-2018 23:13:02 UTC] DEBUG: distance = 5449.1444216055
+[03-Mar-2018 23:13:02 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[03-Mar-2018 23:13:02 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[03-Mar-2018 23:13:02 UTC] DEBUG: countdow period = 90
+[03-Mar-2018 23:13:02 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 23:13:02 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 23:13:02 UTC] DEBUG: User's location from browser = {"lat":48.74229,"lon":2.2841011}
+[03-Mar-2018 23:13:42 UTC] DEBUG parsed Url = fsdf
+[03-Mar-2018 23:13:42 UTC] isLocationSaved = succes
+[03-Mar-2018 23:13:42 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[03-Mar-2018 23:13:42 UTC] DEBUG: temporal location from sessionID = error
+[03-Mar-2018 23:13:42 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 365
+[03-Mar-2018 23:13:42 UTC] DEBUG: User's location from browser = {"lat":48.7422672,"lon":2.284093}
+[03-Mar-2018 23:16:46 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"85.171.233.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"85.171.233.0"},"events":"0 events trimmed."}}
+[03-Mar-2018 23:20:24 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 23:20:24 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 23:20:24 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 23:20:24 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 23:20:24 UTC] DEBUG: postId = 62
+[03-Mar-2018 23:20:24 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[03-Mar-2018 23:20:24 UTC] DEBUG: temporal location from sessionID = 
+[03-Mar-2018 23:20:24 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 365
+[03-Mar-2018 23:20:24 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 23:20:24 UTC] DEBUG: accuracy radius = 0.5
+[03-Mar-2018 23:20:25 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[03-Mar-2018 23:20:25 UTC] DEBUG: visitorLocation from browser: 
+[03-Mar-2018 23:20:25 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 435
+[03-Mar-2018 23:20:25 UTC] DEBUG: location to check = (, )
+[03-Mar-2018 23:20:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[03-Mar-2018 23:20:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[03-Mar-2018 23:20:25 UTC] DEBUG: distance = 5449.1444216055
+[03-Mar-2018 23:20:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[03-Mar-2018 23:20:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[03-Mar-2018 23:20:25 UTC] DEBUG: countdow period = 90
+[03-Mar-2018 23:20:25 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 23:20:25 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 23:20:25 UTC] DEBUG: User's location from browser = {"lat":48.742277200000004,"lon":2.2841632}
+[03-Mar-2018 23:27:18 UTC] DEBUG parsed Url = fsdfsdsf
+[03-Mar-2018 23:27:18 UTC] isLocationSaved = succes
+[03-Mar-2018 23:27:18 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[03-Mar-2018 23:27:18 UTC] DEBUG: temporal location from sessionID = 48.7422772:2.2841632
+[03-Mar-2018 23:27:18 UTC] DEBUG: saving user's location result = success
+[03-Mar-2018 23:27:18 UTC] DEBUG: User's location from browser = {"lat":48.7422914,"lon":2.2840807}
+[03-Mar-2018 23:27:44 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 23:27:44 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 23:27:44 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 23:27:44 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 23:27:44 UTC] DEBUG: postId = 62
+[03-Mar-2018 23:27:44 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[03-Mar-2018 23:27:44 UTC] DEBUG: temporal location from sessionID = 48.7422914:2.2840807
+[03-Mar-2018 23:27:44 UTC] DEBUG: saving user's location result = success
+[03-Mar-2018 23:27:44 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 23:27:44 UTC] DEBUG: accuracy radius = 0.5
+[03-Mar-2018 23:27:44 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[03-Mar-2018 23:27:44 UTC] DEBUG: visitorLocation from browser: 48.7422914:2.2840807
+[03-Mar-2018 23:27:44 UTC] DEBUG: location to check = (48.7422914, 2.2840807)
+[03-Mar-2018 23:27:44 UTC] DEBUG: distance = 26.109911064123
+[03-Mar-2018 23:27:44 UTC] DEBUG: countdow period = 90
+[03-Mar-2018 23:27:44 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 23:27:44 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 23:27:44 UTC] DEBUG: User's location from browser = {"lat":48.7422955,"lon":2.2840952}
+[03-Mar-2018 23:28:44 UTC] DEBUG parsed Url = 04D1DC910ED3ED
+[03-Mar-2018 23:28:44 UTC] isLocationSaved = succes
+[03-Mar-2018 23:28:44 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[03-Mar-2018 23:28:44 UTC] DEBUG: temporal location from sessionID = 48.7422955:2.2840952
+[03-Mar-2018 23:28:44 UTC] DEBUG: saving user's location result = success
+[03-Mar-2018 23:28:44 UTC] DEBUG: User's location from browser = {"lat":48.742275600000006,"lon":2.2840841}
+[03-Mar-2018 23:28:46 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 23:28:46 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 23:28:46 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 23:28:46 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 23:28:46 UTC] DEBUG: postId = 62
+[03-Mar-2018 23:28:46 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[03-Mar-2018 23:28:46 UTC] DEBUG: temporal location from sessionID = 48.7422756:2.2840841
+[03-Mar-2018 23:28:46 UTC] DEBUG: saving user's location result = success
+[03-Mar-2018 23:28:46 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 23:28:46 UTC] DEBUG: accuracy radius = 0.5
+[03-Mar-2018 23:28:46 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[03-Mar-2018 23:28:46 UTC] DEBUG: visitorLocation from browser: 48.7422756:2.2840841
+[03-Mar-2018 23:28:46 UTC] DEBUG: location to check = (48.7422756, 2.2840841)
+[03-Mar-2018 23:28:46 UTC] DEBUG: distance = 26.111486989838
+[03-Mar-2018 23:28:46 UTC] DEBUG: countdow period = 90
+[03-Mar-2018 23:28:46 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 23:28:46 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 23:28:46 UTC] DEBUG: User's location from browser = {"lat":48.742275600000006,"lon":2.2840841}
+[03-Mar-2018 23:28:52 UTC] DEBUG parsed Url = 0000000004D1DC910ED3ED
+[03-Mar-2018 23:28:52 UTC] 0000000004D1DC910ED3ED
+[03-Mar-2018 23:28:52 UTC] DEBUG: productUid = 04D1DC910ED3ED
+[03-Mar-2018 23:28:52 UTC] DEBUG: postName = 347dc59c-5786-418f-9399-6da4fb5148da
+[03-Mar-2018 23:28:52 UTC] DEBUG: postId = 55
+[03-Mar-2018 23:28:52 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[03-Mar-2018 23:28:52 UTC] DEBUG: temporal location from sessionID = 48.7422756:2.2840841
+[03-Mar-2018 23:28:52 UTC] DEBUG: saving user's location result = success
+[03-Mar-2018 23:28:52 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 23:28:52 UTC] DEBUG: accuracy radius = 0.5
+[03-Mar-2018 23:28:52 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[03-Mar-2018 23:28:52 UTC] DEBUG: visitorLocation from browser: 48.7422756:2.2840841
+[03-Mar-2018 23:28:52 UTC] DEBUG: location to check = (48.7422756, 2.2840841)
+[03-Mar-2018 23:28:52 UTC] DEBUG: distance = 26.111486989838
+[03-Mar-2018 23:28:52 UTC] DEBUG: countdow period = 90
+[03-Mar-2018 23:28:52 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 23:28:52 UTC] Product with id = 04D1DC910ED3ED is activated and still valid
+[03-Mar-2018 23:28:52 UTC] DEBUG: User's location from browser = {"lat":48.742249799999996,"lon":2.284087}
+[03-Mar-2018 23:29:43 UTC] DEBUG parsed Url = 0000000004D1DC910ED3ED
+[03-Mar-2018 23:29:43 UTC] 0000000004D1DC910ED3ED
+[03-Mar-2018 23:29:43 UTC] DEBUG: productUid = 04D1DC910ED3ED
+[03-Mar-2018 23:29:43 UTC] DEBUG: postName = 347dc59c-5786-418f-9399-6da4fb5148da
+[03-Mar-2018 23:29:43 UTC] DEBUG: postId = 55
+[03-Mar-2018 23:29:43 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[03-Mar-2018 23:29:43 UTC] DEBUG: temporal location from sessionID = 48.7422498:2.284087
+[03-Mar-2018 23:29:43 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 23:29:43 UTC] DEBUG: accuracy radius = 0.5
+[03-Mar-2018 23:29:44 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[03-Mar-2018 23:29:44 UTC] DEBUG: visitorLocation from browser: 48.7422756:2.2840841
+[03-Mar-2018 23:29:44 UTC] DEBUG: location to check = (48.7422756, 2.2840841)
+[03-Mar-2018 23:29:44 UTC] DEBUG: distance = 26.111486989838
+[03-Mar-2018 23:29:44 UTC] DEBUG: countdow period = 90
+[03-Mar-2018 23:29:44 UTC] DEBUG: Diff in number of date = invalid
+[03-Mar-2018 23:29:44 UTC] Product with id = 04D1DC910ED3ED is activated and now invalid
+[03-Mar-2018 23:29:44 UTC] DEBUG: User's location from browser = {"lat":48.7422544,"lon":2.2840716}
+[03-Mar-2018 23:30:36 UTC] PHP Notice:  Array to string conversion in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 149
+[03-Mar-2018 23:30:36 UTC] DEBUG: LotteryValues = Array
+[03-Mar-2018 23:31:11 UTC] DEBUG: User's location from browser = {"lat":48.7422933,"lon":2.2841107}
+[03-Mar-2018 23:37:27 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[03-Mar-2018 23:37:27 UTC] 000000004D5E1011134F2C
+[03-Mar-2018 23:37:27 UTC] DEBUG: productUid = 4D5E1011134F2C
+[03-Mar-2018 23:37:27 UTC] DEBUG: postName = eau-de-toilette2
+[03-Mar-2018 23:37:27 UTC] DEBUG: postId = 62
+[03-Mar-2018 23:37:27 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[03-Mar-2018 23:37:27 UTC] DEBUG: temporal location from sessionID = 48.7422933:2.2841107
+[03-Mar-2018 23:37:28 UTC] DEBUG: saving user's location result = success
+[03-Mar-2018 23:37:28 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[03-Mar-2018 23:37:28 UTC] DEBUG: accuracy radius = 0.5
+[03-Mar-2018 23:37:28 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[03-Mar-2018 23:37:28 UTC] DEBUG: visitorLocation from browser: 48.7422933:2.2841107
+[03-Mar-2018 23:37:28 UTC] DEBUG: location to check = (48.7422933, 2.2841107)
+[03-Mar-2018 23:37:28 UTC] DEBUG: distance = 26.108985321301
+[03-Mar-2018 23:37:28 UTC] DEBUG: countdow period = 90
+[03-Mar-2018 23:37:28 UTC] DEBUG: Diff in number of date = activated
+[03-Mar-2018 23:37:28 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[03-Mar-2018 23:37:28 UTC] DEBUG: User's location from browser = {"lat":48.742261,"lon":2.2840623}
+[03-Mar-2018 23:39:22 UTC] DEBUG parsed Url = 
+[03-Mar-2018 23:39:22 UTC] DEBUG: User's location from browser = {"lat":48.7422666,"lon":2.2841245999999997}
+[04-Mar-2018 07:42:39 UTC] DEBUG parsed Url = 
+[04-Mar-2018 07:42:39 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 07:42:56 UTC] DEBUG parsed Url = 
+[04-Mar-2018 07:42:56 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 08:36:58 UTC] DEBUG parsed Url = 
+[04-Mar-2018 08:37:27 UTC] DEBUG: User's location from browser = {"lat":48.7422951,"lon":2.2840685}
+[04-Mar-2018 08:38:38 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 08:38:38 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 08:38:38 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 08:38:38 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 08:38:38 UTC] DEBUG: postId = 62
+[04-Mar-2018 08:38:38 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[04-Mar-2018 08:38:38 UTC] DEBUG: temporal location from sessionID = 48.7422951:2.2840685
+[04-Mar-2018 08:38:38 UTC] DEBUG: saving user's location result = success
+[04-Mar-2018 08:38:38 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[04-Mar-2018 08:38:38 UTC] DEBUG: accuracy radius = 0.5
+[04-Mar-2018 08:38:39 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[04-Mar-2018 08:38:39 UTC] DEBUG: visitorLocation from browser: 48.7422951:2.2840685
+[04-Mar-2018 08:38:39 UTC] DEBUG: location to check = (48.7422951, 2.2840685)
+[04-Mar-2018 08:38:39 UTC] DEBUG: distance = 26.109818167358
+[04-Mar-2018 08:38:39 UTC] DEBUG: countdow period = 90
+[04-Mar-2018 08:38:39 UTC] DEBUG: Diff in number of date = activated
+[04-Mar-2018 08:38:39 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[04-Mar-2018 08:38:39 UTC] DEBUG: User's location from browser = {"lat":48.742289,"lon":2.2840857}
+[04-Mar-2018 08:40:50 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 08:40:50 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 08:40:50 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 08:40:50 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 08:40:50 UTC] DEBUG: postId = 62
+[04-Mar-2018 08:40:50 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[04-Mar-2018 08:40:50 UTC] DEBUG: temporal location from sessionID = 48.742289:2.2840857
+[04-Mar-2018 08:40:50 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[04-Mar-2018 08:40:50 UTC] DEBUG: accuracy radius = 0.5
+[04-Mar-2018 08:40:51 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[04-Mar-2018 08:40:51 UTC] DEBUG: visitorLocation from browser: 48.7422951:2.2840685
+[04-Mar-2018 08:40:51 UTC] DEBUG: location to check = (48.7422951, 2.2840685)
+[04-Mar-2018 08:40:51 UTC] DEBUG: distance = 26.109818167358
+[04-Mar-2018 08:40:51 UTC] DEBUG: countdow period = 90
+[04-Mar-2018 08:40:51 UTC] DEBUG: Diff in number of date = activated
+[04-Mar-2018 08:40:51 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[04-Mar-2018 08:40:51 UTC] DEBUG: User's location from browser = {"lat":48.7422666,"lon":2.2840878}
+[04-Mar-2018 08:43:28 UTC] PHP Notice:  Array to string conversion in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 149
+[04-Mar-2018 08:43:28 UTC] DEBUG: LotteryValues = Array
+[04-Mar-2018 08:47:17 UTC] DEBUG: User's location from browser = {"lat":48.7422794,"lon":2.2840866}
+[04-Mar-2018 08:50:22 UTC] DEBUG parsed Url = wp-content/themes/evaflorvac_mobile/server_upload.php
+[04-Mar-2018 08:50:22 UTC] isLocationSaved = succes
+[04-Mar-2018 08:50:22 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[04-Mar-2018 08:50:22 UTC] DEBUG: temporal location from sessionID = 48.7422794:2.2840866
+[04-Mar-2018 08:50:22 UTC] DEBUG: saving user's location result = success
+[04-Mar-2018 08:50:22 UTC] DEBUG: User's location from browser = {"lat":48.7422967,"lon":2.2841043}
+[04-Mar-2018 08:50:26 UTC] DEBUG parsed Url = wp-content/themes/evaflorvac_mobile/server_upload.php
+[04-Mar-2018 08:50:26 UTC] isLocationSaved = succes
+[04-Mar-2018 08:50:26 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[04-Mar-2018 08:50:26 UTC] DEBUG: temporal location from sessionID = 48.7422967:2.2841043
+[04-Mar-2018 08:50:26 UTC] DEBUG: User's location from browser = {"lat":48.74229630000001,"lon":2.2840997}
+[04-Mar-2018 08:53:51 UTC] DEBUG parsed Url = wp-content/themes/evaflorvac_mobile/server_upload.php
+[04-Mar-2018 08:53:51 UTC] isLocationSaved = succes
+[04-Mar-2018 08:53:51 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[04-Mar-2018 08:53:51 UTC] DEBUG: temporal location from sessionID = 48.7422963:2.2840997
+[04-Mar-2018 08:53:51 UTC] DEBUG: saving user's location result = success
+[04-Mar-2018 08:53:51 UTC] DEBUG: User's location from browser = {"lat":48.7422901,"lon":2.2841073}
+[04-Mar-2018 09:00:04 UTC] DEBUG parsed Url = dfdfdf
+[04-Mar-2018 09:00:04 UTC] isLocationSaved = succes
+[04-Mar-2018 09:00:04 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[04-Mar-2018 09:00:04 UTC] DEBUG: temporal location from sessionID = 48.7422901:2.2841073
+[04-Mar-2018 09:00:04 UTC] DEBUG: saving user's location result = success
+[04-Mar-2018 09:00:05 UTC] DEBUG: User's location from browser = {"lat":48.742276600000004,"lon":2.2840227}
+[04-Mar-2018 09:01:54 UTC] DEBUG parsed Url = dfdfdf
+[04-Mar-2018 09:01:54 UTC] isLocationSaved = succes
+[04-Mar-2018 09:01:54 UTC] DEBUG: sessionID = 2iitelqt1q215mothkedjp3625
+[04-Mar-2018 09:01:54 UTC] DEBUG: temporal location from sessionID = 48.7422766:2.2840227
+[04-Mar-2018 09:01:54 UTC] DEBUG: saving user's location result = success
+[04-Mar-2018 09:01:55 UTC] DEBUG: User's location from browser = {"lat":48.742286899999996,"lon":2.284112}
+[04-Mar-2018 09:03:51 UTC] DEBUG parsed Url = dfdfdf
+[04-Mar-2018 09:03:51 UTC] isLocationSaved = succes
+[04-Mar-2018 09:03:51 UTC] DEBUG: sessionID = 3se68lb9gjcg5au28i2cbdo796
+[04-Mar-2018 09:03:51 UTC] DEBUG: temporal location from sessionID = 
+[04-Mar-2018 09:03:51 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 365
+[04-Mar-2018 09:03:59 UTC] DEBUG parsed Url = dfdfdf
+[04-Mar-2018 09:03:59 UTC] isLocationSaved = succes
+[04-Mar-2018 09:03:59 UTC] DEBUG: sessionID = 3se68lb9gjcg5au28i2cbdo796
+[04-Mar-2018 09:03:59 UTC] DEBUG: temporal location from sessionID = 
+[04-Mar-2018 09:03:59 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 365
+[04-Mar-2018 09:04:33 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 09:04:38 UTC] DEBUG parsed Url = dfdfdf
+[04-Mar-2018 09:04:38 UTC] DEBUG: user deined to share location
+[04-Mar-2018 09:04:38 UTC] isLocationSaved = error
+[04-Mar-2018 09:04:38 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 09:07:02 UTC] DEBUG: in saveLocationScanInvalid: city = PARIS : country = FRANCE
+[04-Mar-2018 09:13:45 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"85.171.230.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"85.171.230.0"},"events":"1 events trimmed."}}
+[04-Mar-2018 09:18:30 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 09:18:30 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 09:18:30 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 09:18:30 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 09:18:30 UTC] DEBUG: postId = 62
+[04-Mar-2018 09:18:30 UTC] DEBUG: user deined to share location
+[04-Mar-2018 09:18:30 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[04-Mar-2018 09:18:34 UTC] DEBUG: User's location from browser = {"lat":48.742276399999994,"lon":2.2840682}
+[04-Mar-2018 09:21:15 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 09:21:15 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 09:21:15 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 09:21:15 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 09:21:15 UTC] DEBUG: postId = 62
+[04-Mar-2018 09:21:15 UTC] DEBUG: sessionID = ickm25im6hor81cpnj36mmjku6
+[04-Mar-2018 09:21:15 UTC] DEBUG: temporal location from sessionID = 48.7422764:2.2840682
+[04-Mar-2018 09:21:16 UTC] DEBUG: saving user's location result = success
+[04-Mar-2018 09:21:16 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[04-Mar-2018 09:21:16 UTC] DEBUG: accuracy radius = 0.5
+[04-Mar-2018 09:21:16 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[04-Mar-2018 09:21:16 UTC] DEBUG: visitorLocation from browser: 48.7422764:2.2840682
+[04-Mar-2018 09:21:16 UTC] DEBUG: location to check = (48.7422764, 2.2840682)
+[04-Mar-2018 09:21:16 UTC] DEBUG: distance = 26.111788015354
+[04-Mar-2018 09:21:16 UTC] DEBUG: countdow period = 90
+[04-Mar-2018 09:21:16 UTC] DEBUG: Diff in number of date = activated
+[04-Mar-2018 09:21:16 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[04-Mar-2018 09:21:16 UTC] DEBUG: User's location from browser = {"lat":48.7422829,"lon":2.2840492}
+[04-Mar-2018 09:29:27 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 09:29:27 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 09:29:27 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 09:29:27 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 09:29:27 UTC] DEBUG: postId = 62
+[04-Mar-2018 09:29:27 UTC] DEBUG: sessionID = ickm25im6hor81cpnj36mmjku6
+[04-Mar-2018 09:29:27 UTC] DEBUG: temporal location from sessionID = 48.7422829:2.2840492
+[04-Mar-2018 09:29:27 UTC] DEBUG: saving user's location result = success
+[04-Mar-2018 09:29:27 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[04-Mar-2018 09:29:27 UTC] DEBUG: accuracy radius = 0.5
+[04-Mar-2018 09:29:27 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[04-Mar-2018 09:29:27 UTC] DEBUG: visitorLocation from browser: 48.7422829:2.2840492
+[04-Mar-2018 09:29:27 UTC] DEBUG: location to check = (48.7422829, 2.2840492)
+[04-Mar-2018 09:29:27 UTC] DEBUG: distance = 26.111565952973
+[04-Mar-2018 09:29:27 UTC] DEBUG: countdow period = 90
+[04-Mar-2018 09:29:27 UTC] DEBUG: Diff in number of date = activated
+[04-Mar-2018 09:29:27 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[04-Mar-2018 09:29:27 UTC] DEBUG: User's location from browser = {"lat":48.7422598,"lon":2.2840568}
+[04-Mar-2018 09:39:11 UTC] DEBUG parsed Url = 
+[04-Mar-2018 09:39:11 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 09:39:21 UTC] DEBUG parsed Url = 
+[04-Mar-2018 09:39:21 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 10:11:05 UTC] DEBUG parsed Url = 
+[04-Mar-2018 19:16:26 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"85.170.228.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"85.170.228.0"},"events":"1 events trimmed."}}
+[04-Mar-2018 19:16:36 UTC] DEBUG parsed Url = 
+[04-Mar-2018 19:16:37 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 19:16:42 UTC] DEBUG parsed Url = 
+[04-Mar-2018 19:16:42 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 19:16:51 UTC] DEBUG parsed Url = 
+[04-Mar-2018 19:16:51 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 19:21:50 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 19:21:50 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 19:21:50 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 19:21:50 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 19:21:50 UTC] DEBUG: postId = 62
+[04-Mar-2018 19:21:50 UTC] DEBUG: user deined to share location
+[04-Mar-2018 19:21:50 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[04-Mar-2018 19:21:50 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 19:23:14 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 19:23:14 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 19:23:14 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 19:23:14 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 19:23:14 UTC] DEBUG: postId = 62
+[04-Mar-2018 19:23:14 UTC] DEBUG: user deined to share location
+[04-Mar-2018 19:23:14 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[04-Mar-2018 19:23:14 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 19:31:18 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 19:31:18 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 19:31:18 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 19:31:18 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 19:31:18 UTC] DEBUG: postId = 62
+[04-Mar-2018 19:31:18 UTC] DEBUG: user deined to share location
+[04-Mar-2018 19:31:18 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[04-Mar-2018 19:31:18 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 19:54:53 UTC] DEBUG parsed Url = 
+[04-Mar-2018 19:54:53 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 21:14:21 UTC] DEBUG parsed Url = 
+[04-Mar-2018 21:14:21 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 21:14:44 UTC] DEBUG parsed Url = https://localhost/auth.evaflor/
+[04-Mar-2018 21:14:44 UTC] DEBUG: user deined to share location
+[04-Mar-2018 21:14:44 UTC] isLocationSaved = error
+[04-Mar-2018 21:14:44 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 21:14:47 UTC] DEBUG parsed Url = https://localhost/auth.evaflor/
+[04-Mar-2018 21:14:47 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 21:14:47 UTC] DEBUG: user deined to share location
+[04-Mar-2018 21:14:47 UTC] isLocationSaved = error
+[04-Mar-2018 21:15:08 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 21:15:08 UTC] DEBUG parsed Url = https://localhost/auth.evaflor/
+[04-Mar-2018 21:15:08 UTC] DEBUG: user deined to share location
+[04-Mar-2018 21:15:08 UTC] isLocationSaved = error
+[04-Mar-2018 21:40:14 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"85.171.230.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"85.171.230.0"},"events":"1 events trimmed."}}
+[04-Mar-2018 21:40:33 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 21:40:33 UTC] DEBUG parsed Url = 
+[04-Mar-2018 21:52:31 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 21:52:31 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 21:52:31 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 21:52:31 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 21:52:31 UTC] DEBUG: postId = 62
+[04-Mar-2018 21:52:31 UTC] DEBUG: user deined to share location
+[04-Mar-2018 21:52:31 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[04-Mar-2018 21:53:34 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 22:09:36 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 22:09:39 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 22:11:25 UTC] DEBUG: User's location from browser = {"lat":48.7420711,"lon":2.2837964}
+[04-Mar-2018 22:11:36 UTC] DEBUG: User's location from browser = {"lat":48.7420711,"lon":2.2837964}
+[04-Mar-2018 22:11:43 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 22:11:43 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 22:11:43 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 22:11:43 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 22:11:43 UTC] DEBUG: postId = 62
+[04-Mar-2018 22:11:43 UTC] DEBUG: sessionID = du7athg3lrkaojb36rp9fi5466
+[04-Mar-2018 22:11:43 UTC] DEBUG: temporal location from sessionID = 48.7420711:2.2837964
+[04-Mar-2018 22:11:43 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[04-Mar-2018 22:11:43 UTC] DEBUG: accuracy radius = 0.5
+[04-Mar-2018 22:11:44 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[04-Mar-2018 22:11:44 UTC] DEBUG: visitorLocation from browser: 
+[04-Mar-2018 22:11:44 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 435
+[04-Mar-2018 22:11:44 UTC] DEBUG: location to check = (, )
+[04-Mar-2018 22:11:44 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[04-Mar-2018 22:11:44 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[04-Mar-2018 22:11:44 UTC] DEBUG: distance = 5449.1444216055
+[04-Mar-2018 22:11:44 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[04-Mar-2018 22:11:44 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[04-Mar-2018 22:11:44 UTC] DEBUG: countdow period = 90
+[04-Mar-2018 22:11:44 UTC] DEBUG: Diff in number of date = activated
+[04-Mar-2018 22:11:44 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[04-Mar-2018 22:11:44 UTC] DEBUG: User's location from browser = {"lat":48.742069799999996,"lon":2.2837967000000003}
+[04-Mar-2018 22:11:47 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 22:11:47 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 22:11:47 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 22:11:47 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 22:11:47 UTC] DEBUG: postId = 62
+[04-Mar-2018 22:11:47 UTC] DEBUG: sessionID = du7athg3lrkaojb36rp9fi5466
+[04-Mar-2018 22:11:47 UTC] DEBUG: temporal location from sessionID = 48.7420698:2.2837967
+[04-Mar-2018 22:11:47 UTC] DEBUG: saving user's location result = success
+[04-Mar-2018 22:11:47 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[04-Mar-2018 22:11:47 UTC] DEBUG: accuracy radius = 0.5
+[04-Mar-2018 22:11:47 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[04-Mar-2018 22:11:47 UTC] DEBUG: visitorLocation from browser: 48.7420698:2.2837967
+[04-Mar-2018 22:11:47 UTC] DEBUG: location to check = (48.7420698, 2.2837967)
+[04-Mar-2018 22:11:47 UTC] DEBUG: distance = 26.140047622035
+[04-Mar-2018 22:11:47 UTC] DEBUG: countdow period = 90
+[04-Mar-2018 22:11:47 UTC] DEBUG: Diff in number of date = activated
+[04-Mar-2018 22:11:47 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[04-Mar-2018 22:11:47 UTC] DEBUG: User's location from browser = {"lat":48.742069799999996,"lon":2.2837967000000003}
+[04-Mar-2018 22:16:31 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 22:16:31 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 22:16:31 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 22:16:31 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 22:16:31 UTC] DEBUG: postId = 62
+[04-Mar-2018 22:16:31 UTC] DEBUG: sessionID = ufvnao7a3metcai1l8r1lbbkr7
+[04-Mar-2018 22:16:31 UTC] DEBUG: temporal location from sessionID = denied:denied
+[04-Mar-2018 22:16:31 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[04-Mar-2018 22:16:31 UTC] DEBUG: accuracy radius = 0.5
+[04-Mar-2018 22:16:31 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[04-Mar-2018 22:16:31 UTC] DEBUG: visitorLocation from browser: 
+[04-Mar-2018 22:16:31 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 435
+[04-Mar-2018 22:16:31 UTC] DEBUG: location to check = (, )
+[04-Mar-2018 22:16:31 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[04-Mar-2018 22:16:31 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[04-Mar-2018 22:16:31 UTC] DEBUG: distance = 5449.1444216055
+[04-Mar-2018 22:16:31 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[04-Mar-2018 22:16:31 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[04-Mar-2018 22:16:31 UTC] DEBUG: countdow period = 90
+[04-Mar-2018 22:16:31 UTC] DEBUG: Diff in number of date = activated
+[04-Mar-2018 22:16:31 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[04-Mar-2018 22:16:31 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 22:16:40 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 22:16:40 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 22:16:40 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 22:16:40 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 22:16:40 UTC] DEBUG: postId = 62
+[04-Mar-2018 22:16:40 UTC] DEBUG: user deined to share location
+[04-Mar-2018 22:16:40 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[04-Mar-2018 22:16:40 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[04-Mar-2018 22:16:42 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[04-Mar-2018 22:16:42 UTC] 000000004D5E1011134F2C
+[04-Mar-2018 22:16:42 UTC] DEBUG: productUid = 4D5E1011134F2C
+[04-Mar-2018 22:16:42 UTC] DEBUG: postName = eau-de-toilette2
+[04-Mar-2018 22:16:42 UTC] DEBUG: postId = 62
+[04-Mar-2018 22:16:42 UTC] DEBUG: user deined to share location
+[04-Mar-2018 22:16:42 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[04-Mar-2018 22:16:43 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[05-Mar-2018 08:59:02 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"132.166.177.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"132.166.177.0"},"events":"1 events trimmed."}}
+[05-Mar-2018 09:00:16 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[05-Mar-2018 09:00:16 UTC] 000000004D5E1011134F2C
+[05-Mar-2018 09:00:16 UTC] DEBUG: productUid = 4D5E1011134F2C
+[05-Mar-2018 09:00:16 UTC] DEBUG: postName = eau-de-toilette2
+[05-Mar-2018 09:00:16 UTC] DEBUG: postId = 62
+[05-Mar-2018 09:00:16 UTC] DEBUG: user deined to share location
+[05-Mar-2018 09:00:16 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[05-Mar-2018 09:14:03 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[05-Mar-2018 09:14:03 UTC] 000000004D5E1011134F2C
+[05-Mar-2018 09:14:03 UTC] DEBUG: productUid = 4D5E1011134F2C
+[05-Mar-2018 09:14:03 UTC] DEBUG: postName = eau-de-toilette2
+[05-Mar-2018 09:14:03 UTC] DEBUG: postId = 62
+[05-Mar-2018 09:14:03 UTC] DEBUG: user deined to share location
+[05-Mar-2018 09:14:03 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[05-Mar-2018 09:14:03 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[05-Mar-2018 09:14:08 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[05-Mar-2018 09:14:08 UTC] 000000004D5E1011134F2C
+[05-Mar-2018 09:14:08 UTC] DEBUG: productUid = 4D5E1011134F2C
+[05-Mar-2018 09:14:08 UTC] DEBUG: postName = eau-de-toilette2
+[05-Mar-2018 09:14:08 UTC] DEBUG: postId = 62
+[05-Mar-2018 09:14:08 UTC] DEBUG: user deined to share location
+[05-Mar-2018 09:14:08 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[05-Mar-2018 09:14:08 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[05-Mar-2018 09:39:38 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[05-Mar-2018 09:39:42 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[05-Mar-2018 09:39:42 UTC] 000000004D5E1011134F2C
+[05-Mar-2018 09:39:42 UTC] DEBUG: productUid = 4D5E1011134F2C
+[05-Mar-2018 09:39:42 UTC] DEBUG: postName = eau-de-toilette2
+[05-Mar-2018 09:39:42 UTC] DEBUG: postId = 62
+[05-Mar-2018 09:39:42 UTC] DEBUG: user deined to share location
+[05-Mar-2018 09:39:42 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[05-Mar-2018 09:39:42 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[05-Mar-2018 09:39:47 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[05-Mar-2018 09:39:47 UTC] 000000004D5E1011134F2C
+[05-Mar-2018 09:39:47 UTC] DEBUG: productUid = 4D5E1011134F2C
+[05-Mar-2018 09:39:47 UTC] DEBUG: postName = eau-de-toilette2
+[05-Mar-2018 09:39:47 UTC] DEBUG: postId = 62
+[05-Mar-2018 09:39:47 UTC] DEBUG: user deined to share location
+[05-Mar-2018 09:39:47 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[05-Mar-2018 09:39:47 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[05-Mar-2018 10:04:26 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"165.225.76.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"165.225.76.0"},"events":"1 events trimmed."}}
+[05-Mar-2018 11:27:55 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[05-Mar-2018 11:27:55 UTC] 000000004D5E1011134F2C
+[05-Mar-2018 11:27:55 UTC] DEBUG: productUid = 4D5E1011134F2C
+[05-Mar-2018 11:27:55 UTC] DEBUG: postName = eau-de-toilette2
+[05-Mar-2018 11:27:55 UTC] DEBUG: postId = 62
+[05-Mar-2018 11:27:55 UTC] DEBUG: user deined to share location
+[05-Mar-2018 11:27:55 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[05-Mar-2018 11:40:40 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
