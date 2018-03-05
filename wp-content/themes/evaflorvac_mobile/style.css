@@ -625,6 +625,22 @@ div.main-bg {
   margin: 10px auto !important;
 }
 
+.quiz_navigation {
+  margin-top: 30px !important;
+  text-align: center;
+}
+
+.quiz_navigation .btn:last-child,
+.quiz_end .btn:last-child {
+  margin-left: 10px;
+}
+
+.quiz_end {
+  padding: 0 !important;
+  text-align: center;
+  margin-bottom: 20px !important;
+}
+
 /* The container */
 .qmn_mc_answer_container {
   display: block;

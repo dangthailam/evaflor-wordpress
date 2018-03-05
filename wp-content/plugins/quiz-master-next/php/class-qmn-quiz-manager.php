@@ -363,11 +363,12 @@ class QMNQuizManager {
 		global $qmn_total_questions;
 		global $mlw_qmn_section_count;
 		$question_id_list = '';
+		$question_index = 1;
 		foreach($qmn_quiz_questions as $mlw_question)
 		{
 			$question_id_list .= $mlw_question->question_id."Q";
 			$mlw_qmn_section_count = $mlw_qmn_section_count + 1;
-			$question_display .= "<div class='quiz_section question-section-id-{$mlw_question->question_id} slide{$mlw_qmn_section_count}'>";
+			$question_display .= "<div class='quiz_section quizz-question question-section-id-{$mlw_question->question_id} slide{$mlw_qmn_section_count}'>";
 
 			$question_display .= $mlwQuizMasterNext->pluginHelper->display_question($mlw_question->question_type_new, $mlw_question->question_id, $qmn_quiz_options);
 
@@ -387,6 +388,11 @@ class QMNQuizManager {
 				$question_display .= "<span title=\"" . esc_attr( htmlspecialchars_decode( $mlw_question->hints, ENT_QUOTES ) ) . "\" class='qsm_hint mlw_qmn_hint_link'>{$qmn_quiz_options->hint_text}</span>";
 				$question_display .= "<br /><br />";
 			}
+			if($question_index == 1){
+				$question_display .= "<div class='quiz_navigation' id='quiz_navigation-{$mlw_question->question_id}'><button type='button' class='quizz-navigation-btn navigation-next btn btn-primary'>Next</button></div>";
+			} elseif($question_index != count($qmn_quiz_questions))
+				$question_display .= "<div class='quiz_navigation' id='quiz_navigation-{$mlw_question->question_id}'><button type='button' class='quizz-navigation-btn navigation-prev btn btn-default'>Back</button><button type='button' class='quizz-navigation-btn navigation-next btn btn-primary'>Next</button></div>";
+			$question_index++;
 			$question_display .= "</div>";
 		}
 		$question_display .= "<input type='hidden' name='qmn_question_list' value='$question_id_list' />";
@@ -434,8 +440,9 @@ class QMNQuizManager {
 		global $mlw_qmn_section_count;
 		$section_display = '';
 		$section_display .= "<br />";
+		$last_question_index = $mlw_qmn_section_count - 1;
 		$mlw_qmn_section_count = $mlw_qmn_section_count + 1;
-		$section_display .= "<div class='quiz_section slide$mlw_qmn_section_count quiz_end'>";
+		$section_display .= "<div id='quizz_navigation-$last_question_index' class='quiz_section slide$mlw_qmn_section_count quiz_end'>";
 		if ($qmn_quiz_options->message_end_template != '')
 		{
 			$message_end = wpautop(htmlspecialchars_decode($qmn_quiz_options->message_end_template, ENT_QUOTES));
@@ -453,7 +460,7 @@ class QMNQuizManager {
 	    $section_display .= ob_get_contents();
     ob_end_clean();
 
-		$section_display .= "<input type='submit' class='qsm-btn qsm-submit-btn qmn_btn' value='".esc_attr(htmlspecialchars_decode($qmn_quiz_options->submit_button_text, ENT_QUOTES))."' />";
+		$section_display .= "<button type='button' class='quizz-navigation-btn navigation-prev btn btn-default'>Back</button><input type='submit' class='btn btn-primary' value='".esc_attr(htmlspecialchars_decode($qmn_quiz_options->submit_button_text, ENT_QUOTES))."' />";
 		$section_display .= "</div>";
 
 		return $section_display;
