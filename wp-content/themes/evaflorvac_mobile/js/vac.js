@@ -226,7 +226,7 @@ jQuery(document).ready(function ($) {
 			showCarreView();
 			showCarreLocation();
 		} else if (!response.includes(err)) {
-			if (operationId == 'wn') {
+			if (operationId === 'wn') {
 				showGagnantView();
 			} else if (response.includes(produitExpired)) {
 				showExpiredProductPage();
@@ -238,13 +238,16 @@ jQuery(document).ready(function ($) {
 				$('#produit').html(response);
 				// Writing cookies
 				writeCookies();
-				if (vac_options.enable_lottery == 1) {
-					showLotoView();
-				}
-
-				if (vac_options.enable_survey == 1) {
-					showQuizView();
-				}
+				// if (vac_options.enable_lottery == 1) {
+				// 	showLotoView();
+				// }
+				// if (vac_options.enable_survey == 1) {
+				// 	showQuizView();
+				// }
+				
+				/* set up quizz */
+				setUpPopUp(vac_options.timeout_popup);
+				
 			}
 
 			// Saving cookies in the client side: TBD
@@ -260,9 +263,37 @@ jQuery(document).ready(function ($) {
 	// Rewrite the url
 	//window.history.pushState("Evaflor", "Product Authentification", "/");	
 
-	/* set up quizz */
-	setUpQuizz();
 });
+
+
+//-----------------------------------------------------------------------------------
+// Set up popup
+//-----------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------------
+function setUpPopUp(timeout){
+	setTimeout(function(){
+		$("#popup_loto_quizz").modal({ keyboard: false, backdrop: 'static' });
+
+		$("#choose_loto_btn").click(function(){
+			$("#popup_loto_quizz").modal('hide');
+			showLotoView();
+			$("#main").animate({
+				scrollTop: $('#carre').offset().top - 50
+			}, 500);
+		});
+
+		$("#choose_quizz_btn").click(function(){
+			$("#popup_loto_quizz").modal('hide');
+			showQuizView();
+			$("#main").animate({
+				scrollTop: $('#quizz').offset().top - 50
+			}, 500);
+			
+			/* set up quizz */
+			setUpQuizz();
+		});
+	}, timeout);
+}
 
 //-----------------------------------------------------------------------------------
 // Set up Quizz

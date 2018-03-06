@@ -14,7 +14,8 @@
 			'enable_lottery' => get_option('enable_lottery'),
 			'enable_survey' => get_option('enable_survey'),
 			'choose_lottery' => get_option('choose_lottery'),
-			'validation_period' => get_option('scanCounter_period')
+			'validation_period' => get_option('scanCounter_period'),
+			'timeout_popup' => get_option('timeout_popup')
 		);
 		
 		wp_localize_script('vac', 'vac_options', $option_params);
@@ -512,6 +513,13 @@ if (!function_exists('logger')) {
 			<input type="checkbox" name="enable_survey" id="enable_survey" value="1" <?php checked( '1', get_option( 'enable_survey' ) ); ?> />
 		<?php
 	}
+	
+	function display_timeout_popup()
+	{
+		?>
+			<input type="input" name="timeout_popup" id="timeout_popup" value=<?php echo(get_option( 'timeout_popup' )); ?> />	
+		<?php
+	}
 
 	function display_lottery()
 	{
@@ -545,11 +553,13 @@ if (!function_exists('logger')) {
 		add_settings_field("enable_lottery", "Activer Loto", "display_lottery", "theme-options", "section");
 		add_settings_field("choose_lottery", "Date de tirage au sorte", "display_lottery_date", "theme-options", "section");
 		add_settings_field("lottery_number", "Numéro gagnant", "display_lottery_winner", "theme-options", "section");
+		add_settings_field("timeout_popup", "Timeout Popup", "display_timeout_popup", "theme-options", "section");
 
 		register_setting("section", "enable_survey");
 		register_setting("section", "enable_lottery");
 		register_setting("section", "choose_lottery");
 		register_setting("section", "lottery_number");
+		register_setting("section", "timeout_popup");
 		
 		//save profile image
 		$image = get_bloginfo('template_directory') . "/images/coffret_men.png";
