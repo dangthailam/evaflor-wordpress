@@ -281,17 +281,22 @@ function setUpQuizz() {
 
 	$('.quizz-navigation-btn').click(function (e) {
 		var questionId = $(this).parent().attr("id").split('-')[1];
-		console.log(questionId);
 		questionId = parseInt(questionId);
 		$quizzForm.find('.quizz-question').hide();
+		var destinationQuestionId = 0;
 		if ($(this).hasClass('navigation-prev')) {
-			$quizzForm.find('.question-section-id-' + (questionId - 1)).show();
+			destinationQuestionId = questionId - 1;
 			$quizzForm.find('.quiz_end').hide();
 		} else {
-			$quizzForm.find('.question-section-id-' + (questionId + 1)).show();
+			destinationQuestionId = questionId + 1;
 			if (questionId + 1 === questionCount)
 				$quizzForm.find('.quiz_end').show();
 		}
+		$quizzForm.find('.question-section-id-' + destinationQuestionId).show();
+		var main = document.getElementById('main');
+		$("#main").animate({
+			scrollTop: main.scrollHeight - window.innerHeight + $('.quiz_begin').offset().top
+		}, 500);
 	});
 }
 
