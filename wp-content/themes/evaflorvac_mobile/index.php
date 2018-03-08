@@ -9,11 +9,8 @@ get_header(); ?>
         <h4 class="modal-title">Voulez-vous un cadeau?</h4>
       </div>
       <div class="modal-body">
-        <p>En participant un tirage au sort ou un petit quizz</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn" id="choose_loto_btn">Tirage au sort</button>
-        <button type="button" class="btn" id="choose_quizz_btn">Quizz Produit</button>
+        <button type="button" class="btn" id="accept_btn">Je participe</button>
+        <button type="button" class="btn" id="deny_btn">Non, merci</button>
       </div>
     </div>
   </div>

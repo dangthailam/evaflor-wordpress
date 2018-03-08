@@ -563,7 +563,7 @@ if (!function_exists('logger')) {
 		
 		//save profile image
 		$image = get_bloginfo('template_directory') . "/images/coffret_men.png";
-		update_option( 'winner_photo', $image );
+		//update_option( 'winner_photo', $image );
 	}
 
 	add_action("admin_init", "display_theme_panel_fields");

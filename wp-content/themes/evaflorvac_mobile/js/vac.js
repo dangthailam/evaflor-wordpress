@@ -238,16 +238,19 @@ jQuery(document).ready(function ($) {
 				$('#produit').html(response);
 				// Writing cookies
 				writeCookies();
-				// if (vac_options.enable_lottery == 1) {
-				// 	showLotoView();
-				// }
-				// if (vac_options.enable_survey == 1) {
-				// 	showQuizView();
-				// }
-				
+
+				var event = null;
+
+				if (vac_options.enable_lottery == 1) {
+					event = 'loto';
+				}
+				if (vac_options.enable_survey == 1) {
+					event = 'quiz';
+				}
+
 				/* set up quizz */
-				setUpPopUp(vac_options.timeout_popup);
-				
+				setUpPopUp(vac_options.timeout_popup, event);
+
 			}
 
 			// Saving cookies in the client side: TBD
@@ -270,27 +273,30 @@ jQuery(document).ready(function ($) {
 // Set up popup
 //-----------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------
-function setUpPopUp(timeout){
-	setTimeout(function(){
-		$("#popup_loto_quizz").modal({ keyboard: false, backdrop: 'static' });
-
-		$("#choose_loto_btn").click(function(){
-			$("#popup_loto_quizz").modal('hide');
-			showLotoView();
-			$("#main").animate({
-				scrollTop: $('#carre').offset().top - 50
-			}, 500);
+function setUpPopUp(timeout, event) {
+	setTimeout(function () {
+		$("#popup_loto_quizz").modal({
+			keyboard: false,
+			backdrop: 'static'
 		});
 
-		$("#choose_quizz_btn").click(function(){
+		$("#accept_btn").click(function () {
 			$("#popup_loto_quizz").modal('hide');
-			showQuizView();
-			$("#main").animate({
-				scrollTop: $('#quizz').offset().top - 50
-			}, 500);
-			
-			/* set up quizz */
-			setUpQuizz();
+
+			if (event === 'loto') {
+				showLotoView();
+				$("#main").animate({
+					scrollTop: $('#carre').offset().top - 50
+				}, 500);
+			} else if (event === 'quiz') {
+				showQuizView();
+				$("#main").animate({
+					scrollTop: $('#quizz').offset().top - 50
+				}, 500);
+
+				/* set up quizz */
+				setUpQuizz();
+			}
 		});
 	}, timeout);
 }
@@ -349,11 +355,81 @@ function getLotteryPopup() {
 	return false;
 }
 
+function displayEditInfo() {
+	var isDisplay = $('#editInfoId').css('display');
+	$('#editButtId').css('display', 'none');
+	console.log(isDisplay);
+
+	$('#winnerimage').click(function() {
+		console.log('choosing image file');
+		$("#chooseFile").click();
+	});
+	
+	$("#chooseFile").change(function(e) {
+		var input = this;
+		if(fileSize(input)){
+			readURL(input);
+		}
+		//$("#submitImage").submit();
+	});
+
+	function fileSize(input) {
+		if(input.files && input.files[0]) {
+			var size = ((input.files[0].size/1024)/1024).toFixed(4); // MB
+
+			if(size > 2) {
+				alert('file size is bigger than 2Mo');
+				return false;
+			}
+		}
+		return true;
+	}
+	function readURL(input) {
+		if (input.files && input.files[0]) {
+			var reader = new FileReader();
+			reader.onload = function(e) {
+				$('#winnerimage').attr('src', e.target.result);
+			}
+			reader.readAsDataURL(input.files[0]);
+		}
+	}
+
+	if(isDisplay === 'none') {
+		$('#editInfoId').css('display', '');
+		return false;
+	}
+	$('#editInfoId').css('display', 'none');
+
+	return false;
+}
+
+function submitWinnerInfo() {
+	var input = document.getElementById('chooseFile');
+	
+	//submit email, address
+	var email = document.getElementsByName("lmail")[0].value;
+	var address = document.getElementsByName("ladresse")[0].value;
+
+	var xmlhttp = new XMLHttpRequest();
+	var url = "http://localhost/wordpress/" +"wp-json/api/winner";
+	xmlhttp.open("POST", url);
+
+	xmlhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+	xmlhttp.onreadystatechange = function() {
+		console.log(xmlhttp.response);
+	};
+	xmlhttp.send(JSON.stringify({email: email, address: address}));
+
+	if(input.files && input.files[0]){
+		$("#submitImage").submit();
+	}
+	$('#editInfoId').css('display', 'none');
+}
+
 function getLotteryFormula() {
 	document.getElementById("btnParticiple").style.display = 'none';
 	$('#lotteryPopup').modal('hide');
 	document.getElementById("formulaire").style.display = '';
-	window.location.hash = '#formulaire';
 	return false;
 }
 
