@@ -5,3 +5,11 @@
 [21-Jan-2018 08:55:43 UTC] DEBUG parsed Url = dfqsfqsdf
 [21-Jan-2018 08:55:43 UTC] PHP Warning:  require_once(/home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/visitorGeolocation.php): failed to open stream: No such file or directory in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 284
 [21-Jan-2018 08:55:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/visitorGeolocation.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 284
+[11-Mar-2018 11:53:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\geoip-detect\lib\geonames\geonames-country-info.php on line 22
+[11-Mar-2018 11:55:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\duplicator\classes\class.logging.php on line 2
+[11-Mar-2018 11:57:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\geoip-detect\vendor\autoload.php on line 5
+[11-Mar-2018 12:01:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\geoip-detect\data-sources\registry.php on line 23
+[11-Mar-2018 12:03:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\geoip-detect\vendor\composer\ClassLoader.php on line 384
+[11-Mar-2018 12:05:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\duplicator\ctrls\ctrl.tools.php on line 2
+[11-Mar-2018 12:07:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\duplicator\lib\forceutf8\Encoding.php on line 41
+[11-Mar-2018 12:11:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\duplicator\classes\class.settings.php on line 2
