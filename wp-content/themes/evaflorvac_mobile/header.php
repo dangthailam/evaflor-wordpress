@@ -54,6 +54,17 @@
             <li class="nav-item">
                 <a class="nav-link wordings wordings-navbar-allproducts" href="#">Our products</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link wordings wordings-navbar-allproducts" href="#">Our products</a>
+            </li>
+            <li class="nav-item language-select-li">
+                <a href="javascript:setDefaultLanguage('fr')">
+                    <img src="<?php echo get_bloginfo('template_directory'); ?>/images/french.png">
+                </a>
+                <a class="active" href="javascript:setDefaultLanguage('en')">
+                    <img src="<?php echo get_bloginfo('template_directory'); ?>/images/english.png">
+                </a>
+            </li>
             <li class="nav-item social-icons">
                 <a href="https://www.facebook.com/evaflor.paris">
                     <img src="<?php echo get_bloginfo('template_directory'); ?>/images/facebook.png">

@@ -10,6 +10,7 @@ get_header(); ?>
       </div>
       <div class="modal-body">
         <button type="button" class="btn" id="accept_btn">Je participe</button>
+        <button type="button" class="btn" id="refuse_btn">Non plus tard</button>
       </div>
     </div>
   </div>

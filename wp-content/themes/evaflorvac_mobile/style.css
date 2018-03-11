@@ -18,6 +18,20 @@ Use it to make something cool, have fun, and share what you've learned with othe
 Disable the admin bar of wordpress
 */
 
+@media screen and (max-width: 320px) {
+  a.language-select {
+    display: none;
+  }
+
+  .language-select-li {
+    display: block !important;
+  }
+}
+
+.language-select-li {
+  display: none;
+}
+
 #wpadminbar {
   display: none;
 }
@@ -87,12 +101,18 @@ Disable the admin bar of wordpress
   padding: 20px;
 }
 
-#openProductDescriptionBtn a {
-  display: block;
+#openProductDescriptionBtn button {
+  width: 100%;
   padding: 5px;
   border: 1px solid #fff;
   color: #fff;
   border-radius: 20px;
+  background: transparent;
+  outline: none;
+}
+
+.hide {
+  display: none;
 }
 
 #photo {
