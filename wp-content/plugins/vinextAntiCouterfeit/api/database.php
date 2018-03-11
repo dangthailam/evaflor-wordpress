@@ -5,11 +5,11 @@
         
 		
 		private $host = "localhost";
-        /*
-		private $db_name = "wordpress_db";
+        
+		/*private $db_name = "wordpress_db";
         private $username = "root";
-        private $password = "";
-		*/
+        private $password = "";*/
+		
 		
 		private $db_name = "wordpress_vac";
 		private $username = "wpvacsuser";

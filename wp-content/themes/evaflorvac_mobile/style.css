@@ -22,6 +22,11 @@ Disable the admin bar of wordpress
   display: none;
 }
 
+.row {
+  margin-right: 0;
+  margin-left: 0;
+}
+
 .notFoundPage {
   height: calc(100vh - 56px);
   padding: 40px;
@@ -251,6 +256,7 @@ Disable the admin bar of wordpress
 .main-gagnant .prize img {
   width: 130px;
 }
+
 #jackpot {
   padding: 0 20px;
 }

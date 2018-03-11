@@ -10,7 +10,6 @@ get_header(); ?>
       </div>
       <div class="modal-body">
         <button type="button" class="btn" id="accept_btn">Je participe</button>
-        <button type="button" class="btn" id="deny_btn">Non, merci</button>
       </div>
     </div>
   </div>
@@ -41,22 +40,25 @@ get_header(); ?>
 <?php
 
 //get_template_part('view/fr/laune');
+// Get user-defined language
+$lang = 'fr';
+$prefix = 'view/' . $lang . '/';
 
-get_template_part('view/fr/authentic');
+get_template_part($prefix . 'authentic');
 
-get_template_part('view/fr/not_authentic');
+get_template_part($prefix . 'not_authentic');
 
-get_template_part('view/fr/404');
+get_template_part($prefix . '404');
 
-get_template_part('view/fr/tirage');
+get_template_part($prefix . 'tirage');
 
-get_template_part('view/fr/loto');
+get_template_part($prefix . 'loto');
 
-get_template_part('view/fr/quiz');
+get_template_part($prefix . 'quiz');
 
-get_template_part('view/fr/gagnant');
+get_template_part($prefix . 'gagnant');
 
-get_template_part('view/fr/invalid_location');
+get_template_part($prefix . 'invalid_location');
 
 ?>
 
@@ -64,4 +66,3 @@ get_template_part('view/fr/invalid_location');
 
 <?php
 get_footer();
-?>

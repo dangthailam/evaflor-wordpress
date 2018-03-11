@@ -40,7 +40,7 @@ function qmn_multiple_choice_display($id, $question, $answers)
       if ($answer[0] != "")
       {
 				$question_display .= "<div class='qmn_mc_answer_wrap' id='question".$id."-".esc_attr($answer[0])."'>";
-        $question_display .= "<label class='qmn_mc_answer_container' for='question".$id."_".$mlw_answer_total."'>".htmlspecialchars_decode($answer[0], ENT_QUOTES)."<input type='radio' class='qmn_quiz_radio' name='question".$id."' id='question".$id."_".$mlw_answer_total."' value='".htmlentities(esc_attr($answer[0]))."' /> <span class='checkmark'></span></label>";
+        $question_display .= "<input type='radio' class='qmn_quiz_radio' name='question".$id."' id='question".$id."_".$mlw_answer_total."' value='".htmlentities(esc_attr($answer[0]))."' /> <label for='question".$id."_".$mlw_answer_total."'>".htmlspecialchars_decode($answer[0], ENT_QUOTES)."</label>";
 				$question_display .= "</div>";
       }
     }

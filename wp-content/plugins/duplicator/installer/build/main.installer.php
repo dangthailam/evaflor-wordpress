@@ -144,7 +144,7 @@ define("DUPLICATOR_SSDIR_NAME", 'wp-snapshots');  //This should match DUPLICATOR
 $_POST['action_step'] = isset($_POST['action_step']) ? $_POST['action_step'] : "1";
 
 /** Host has several combinations :
-localhost | localhost:55 | localhost: | http://localhost:8081 | http://localhost:8081:55 */
+localhost | localhost:55 | localhost: | http://localhost | http://localhost:55 */
 $_POST['dbhost']	= isset($_POST['dbhost']) ? trim($_POST['dbhost']) : null;
 $_POST['dbport']    = isset($_POST['dbport']) ? trim($_POST['dbport']) : 3306;
 $_POST['dbuser']	= isset($_POST['dbuser']) ? trim($_POST['dbuser']) : null;

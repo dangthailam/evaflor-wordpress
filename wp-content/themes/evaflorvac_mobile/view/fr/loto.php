@@ -14,7 +14,7 @@
 			<input type="text" class="form-control" id="formEmail" name="emailLottery" placeholder="Email">
 		</div>
 		<div class="form-group">
-			<input type="text" class="form-control" id="formPostalCode" name="zipCodeLottery" placeholder="Code postal">
+			<input type="text" class="form-control" id="formPostalCode" name="zipCodeLottery" placeholder="Ville / Pays">
 		</div>
 		<div class="text-center">
 			<button type="submit" class="btn" onclick="return saveLotteryClientInfo()">JE PARTICIPE*</button>

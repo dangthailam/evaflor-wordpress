@@ -30,10 +30,10 @@
         <img src="<?php echo get_bloginfo('template_directory'); ?>/images/evaflor-logo-white.png" alt="">
     </a>
     <div class="languages-container">
-        <a href="#" id="en" class="language-select">
+        <a href="javascript:setDefaultLanguage('en')" id="en" class="language-select">
             <img src="<?php echo get_bloginfo('template_directory'); ?>/images/english.png">
         </a>
-        <a href="#" id="fr" class="language-select active">
+        <a href="javascript:setDefaultLanguage('fr')" id="fr" class="language-select active">
             <img src="<?php echo get_bloginfo('template_directory'); ?>/images/french.png">
         </a>
     </div>

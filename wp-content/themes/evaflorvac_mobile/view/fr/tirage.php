@@ -17,7 +17,7 @@
         </div>
     </div>
 
-    <h5>
+    <h5 id="dateLoto">
         <span>TIRAGE AU SORT</span>
         <br/> le : <?php echo(get_option( 'choose_lottery' )); ?>
     </h5>

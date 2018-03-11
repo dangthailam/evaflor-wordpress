@@ -2118,3 +2118,1348 @@ Stack trace:
 [05-Mar-2018 11:27:55 UTC] DEBUG: user deined to share location
 [05-Mar-2018 11:27:55 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
 [05-Mar-2018 11:40:40 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[05-Mar-2018 19:56:14 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[05-Mar-2018 19:56:14 UTC] 000000004D5E1011134F2C
+[05-Mar-2018 19:56:14 UTC] DEBUG: productUid = 4D5E1011134F2C
+[05-Mar-2018 19:56:14 UTC] DEBUG: postName = eau-de-toilette2
+[05-Mar-2018 19:56:14 UTC] DEBUG: postId = 62
+[05-Mar-2018 19:56:14 UTC] DEBUG: user deined to share location
+[05-Mar-2018 19:56:14 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[05-Mar-2018 19:56:38 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[05-Mar-2018 19:56:38 UTC] 000000004D5E1011134F2C
+[05-Mar-2018 19:56:38 UTC] DEBUG: productUid = 4D5E1011134F2C
+[05-Mar-2018 19:56:38 UTC] DEBUG: postName = eau-de-toilette2
+[05-Mar-2018 19:56:38 UTC] DEBUG: postId = 62
+[05-Mar-2018 19:56:38 UTC] DEBUG: user deined to share location
+[05-Mar-2018 19:56:38 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[05-Mar-2018 20:05:53 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[05-Mar-2018 20:07:35 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[05-Mar-2018 20:07:49 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[06-Mar-2018 20:47:30 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"85.171.233.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"85.171.233.0"},"events":"0 events trimmed."}}
+[06-Mar-2018 20:47:32 UTC] DEBUG parsed Url = 
+[06-Mar-2018 20:47:33 UTC] DEBUG: User's location from browser = {"lat":48.7422809,"lon":2.2840647000000005}
+[06-Mar-2018 20:47:40 UTC] DEBUG parsed Url = 
+[06-Mar-2018 20:47:41 UTC] DEBUG: User's location from browser = {"lat":48.7422809,"lon":2.2840647000000005}
+[06-Mar-2018 20:48:12 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[06-Mar-2018 20:48:12 UTC] 000000004D5E1011134F2C
+[06-Mar-2018 20:48:12 UTC] DEBUG: productUid = 4D5E1011134F2C
+[06-Mar-2018 20:48:12 UTC] DEBUG: postName = eau-de-toilette2
+[06-Mar-2018 20:48:12 UTC] DEBUG: postId = 62
+[06-Mar-2018 20:48:12 UTC] DEBUG: sessionID = 4h10ig2h6040l6fbhs3dq1gpb5
+[06-Mar-2018 20:48:12 UTC] DEBUG: temporal location from sessionID = 48.7422809:2.2840647
+[06-Mar-2018 20:48:13 UTC] DEBUG: saving user's location result = success
+[06-Mar-2018 20:48:13 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[06-Mar-2018 20:48:13 UTC] DEBUG: accuracy radius = 0.5
+[06-Mar-2018 20:48:13 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[06-Mar-2018 20:48:13 UTC] DEBUG: visitorLocation from browser: 48.7422809:2.2840647
+[06-Mar-2018 20:48:13 UTC] DEBUG: location to check = (48.7422809, 2.2840647)
+[06-Mar-2018 20:48:13 UTC] DEBUG: distance = 26.111400487928
+[06-Mar-2018 20:48:13 UTC] DEBUG: countdow period = 90
+[06-Mar-2018 20:48:13 UTC] DEBUG: Diff in number of date = activated
+[06-Mar-2018 20:48:13 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[06-Mar-2018 20:48:13 UTC] DEBUG: User's location from browser = {"lat":48.7422701,"lon":2.2840649}
+[06-Mar-2018 21:25:36 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[06-Mar-2018 21:25:36 UTC] 000000004D5E1011134F2C
+[06-Mar-2018 21:25:36 UTC] DEBUG: productUid = 4D5E1011134F2C
+[06-Mar-2018 21:25:36 UTC] DEBUG: postName = eau-de-toilette2
+[06-Mar-2018 21:25:36 UTC] DEBUG: postId = 62
+[06-Mar-2018 21:25:36 UTC] DEBUG: sessionID = 4h10ig2h6040l6fbhs3dq1gpb5
+[06-Mar-2018 21:25:36 UTC] DEBUG: temporal location from sessionID = 48.7422701:2.2840649
+[06-Mar-2018 21:25:37 UTC] DEBUG: saving user's location result = success
+[06-Mar-2018 21:25:37 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[06-Mar-2018 21:25:37 UTC] DEBUG: accuracy radius = 0.5
+[06-Mar-2018 21:25:37 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[06-Mar-2018 21:25:37 UTC] DEBUG: visitorLocation from browser: 48.7422701:2.2840649
+[06-Mar-2018 21:25:37 UTC] DEBUG: location to check = (48.7422701, 2.2840649)
+[06-Mar-2018 21:25:37 UTC] DEBUG: distance = 26.112529117307
+[06-Mar-2018 21:25:37 UTC] DEBUG: countdow period = 90
+[06-Mar-2018 21:25:37 UTC] DEBUG: Diff in number of date = activated
+[06-Mar-2018 21:25:37 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[06-Mar-2018 21:25:40 UTC] DEBUG: User's location from browser = {"lat":48.7422879,"lon":2.2841071}
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 444
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 445
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 446
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: host in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 448
+[06-Mar-2018 22:27:04 UTC] PHP Notice:  Undefined index: scheme in /home/evaflor/www/evaflor_vac/wordpress/wp-includes/canonical.php on line 465
+[07-Mar-2018 20:51:15 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[07-Mar-2018 20:51:15 UTC] 000000004D5E1011134F2C
+[07-Mar-2018 20:51:15 UTC] DEBUG: productUid = 4D5E1011134F2C
+[07-Mar-2018 20:51:15 UTC] DEBUG: postName = eau-de-toilette2
+[07-Mar-2018 20:51:15 UTC] DEBUG: postId = 62
+[07-Mar-2018 20:51:15 UTC] DEBUG: sessionID = 5r42irabh888mdh31ft7573285
+[07-Mar-2018 20:51:15 UTC] DEBUG: temporal location from sessionID = 
+[07-Mar-2018 20:51:15 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 365
+[07-Mar-2018 20:51:15 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[07-Mar-2018 20:51:15 UTC] DEBUG: accuracy radius = 0.5
+[07-Mar-2018 20:51:15 UTC] DEBUG: User's location from browser = {"lat":48.742276499999996,"lon":2.2840552}
+[07-Mar-2018 20:51:15 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[07-Mar-2018 20:51:15 UTC] DEBUG: visitorLocation from browser: 
+[07-Mar-2018 20:51:15 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 435
+[07-Mar-2018 20:51:15 UTC] DEBUG: location to check = (, )
+[07-Mar-2018 20:51:15 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[07-Mar-2018 20:51:15 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[07-Mar-2018 20:51:15 UTC] DEBUG: distance = 5449.1444216055
+[07-Mar-2018 20:51:15 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[07-Mar-2018 20:51:15 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[07-Mar-2018 20:51:15 UTC] DEBUG: countdow period = 90
+[07-Mar-2018 20:51:15 UTC] DEBUG: Diff in number of date = activated
+[07-Mar-2018 20:51:15 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[07-Mar-2018 21:21:07 UTC] DEBUG parsed Url = 
+[07-Mar-2018 21:21:07 UTC] DEBUG: User's location from browser = {"lat":48.7422912,"lon":2.2840406}
+[07-Mar-2018 21:21:10 UTC] DEBUG parsed Url = 
+[07-Mar-2018 21:21:10 UTC] DEBUG: User's location from browser = {"lat":48.7422846,"lon":2.2840447999999998}
+[07-Mar-2018 21:25:49 UTC] DEBUG parsed Url = 
+[07-Mar-2018 21:25:49 UTC] DEBUG: User's location from browser = {"lat":48.7422829,"lon":2.284045}
+[07-Mar-2018 21:25:53 UTC] DEBUG parsed Url = 
+[07-Mar-2018 21:25:53 UTC] DEBUG: User's location from browser = {"lat":48.7422829,"lon":2.284045}
+[07-Mar-2018 21:26:05 UTC] PHP Notice:  Array to string conversion in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 149
+[07-Mar-2018 21:26:05 UTC] DEBUG: LotteryValues = Array
+[07-Mar-2018 22:15:32 UTC] DEBUG parsed Url = 
+[08-Mar-2018 10:58:05 UTC] DEBUG parsed Url = op=wn&prd=8944
+[08-Mar-2018 10:58:05 UTC] isLocationSaved = succes
+[08-Mar-2018 10:58:05 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[08-Mar-2018 10:58:05 UTC] DEBUG: temporal location from sessionID = 
+[08-Mar-2018 10:58:05 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 365
+[08-Mar-2018 10:58:07 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[08-Mar-2018 10:58:13 UTC] DEBUG parsed Url = op=wn&prd=8944
+[08-Mar-2018 10:58:13 UTC] isLocationSaved = succes
+[08-Mar-2018 10:58:13 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[08-Mar-2018 10:58:13 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[08-Mar-2018 10:58:18 UTC] DEBUG parsed Url = op=wn&prd=8944
+[08-Mar-2018 10:58:18 UTC] isLocationSaved = succes
+[08-Mar-2018 10:58:18 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[08-Mar-2018 10:58:18 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[08-Mar-2018 10:58:18 UTC] DEBUG: saving user's location result = success
+[08-Mar-2018 10:58:20 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[08-Mar-2018 10:59:06 UTC] DEBUG parsed Url = op=wn&prd=8944
+[08-Mar-2018 10:59:06 UTC] isLocationSaved = succes
+[08-Mar-2018 10:59:06 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[08-Mar-2018 10:59:06 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[08-Mar-2018 10:59:06 UTC] DEBUG: saving user's location result = success
+[08-Mar-2018 10:59:07 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[08-Mar-2018 10:59:24 UTC] DEBUG parsed Url = op=wn&prd=9122
+[08-Mar-2018 10:59:24 UTC] isLocationSaved = succes
+[08-Mar-2018 10:59:24 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[08-Mar-2018 10:59:24 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[08-Mar-2018 11:00:35 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"132.166.177.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"132.166.177.0"},"events":"1 events trimmed."}}
+[08-Mar-2018 11:01:46 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[08-Mar-2018 11:01:56 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[08-Mar-2018 11:02:01 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[08-Mar-2018 11:02:24 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[08-Mar-2018 11:02:49 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[08-Mar-2018 11:04:27 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[08-Mar-2018 11:07:46 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[08-Mar-2018 11:19:43 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[08-Mar-2018 11:19:47 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[08-Mar-2018 13:32:11 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[08-Mar-2018 13:39:19 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[08-Mar-2018 14:23:09 UTC] DEBUG parsed Url = 
+[08-Mar-2018 14:23:09 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[08-Mar-2018 14:23:16 UTC] DEBUG parsed Url = 
+[08-Mar-2018 14:23:16 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[08-Mar-2018 14:23:39 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"94.228.178.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"94.228.178.0"},"events":"1 events trimmed."}}
+[08-Mar-2018 20:30:22 UTC] DEBUG parsed Url = 
+[08-Mar-2018 20:30:22 UTC] DEBUG: User's location from browser = {"lat":48.742307,"lon":2.2840996}
+[08-Mar-2018 20:30:35 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"85.171.233.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"85.171.233.0"},"events":"0 events trimmed."}}
+[08-Mar-2018 21:16:10 UTC] DEBUG: User's location from browser = {"lat":48.7422907,"lon":2.2840298999999997}
+[08-Mar-2018 21:16:12 UTC] DEBUG: User's location from browser = {"lat":48.7422873,"lon":2.284038}
+[08-Mar-2018 22:28:57 UTC] DEBUG: User's location from browser = {"lat":48.7422822,"lon":2.2840572}
+[08-Mar-2018 22:28:59 UTC] DEBUG: User's location from browser = {"lat":48.7422835,"lon":2.2840314}
+[09-Mar-2018 07:49:04 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 07:51:30 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 07:51:30 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 07:51:30 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 07:51:30 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 07:51:30 UTC] DEBUG: postId = 62
+[09-Mar-2018 07:51:30 UTC] DEBUG: user deined to share location
+[09-Mar-2018 07:51:30 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 07:51:30 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 08:59:10 UTC] DEBUG parsed Url = 
+[09-Mar-2018 09:00:13 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"15.203.178.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"15.203.178.0"},"events":"5 events trimmed."}}
+[09-Mar-2018 09:05:16 UTC] DEBUG parsed Url = 
+[09-Mar-2018 09:05:16 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 09:05:24 UTC] DEBUG parsed Url = 
+[09-Mar-2018 09:05:24 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 09:05:45 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"94.228.178.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"94.228.178.0"},"events":"1 events trimmed."}}
+[09-Mar-2018 09:09:10 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 09:09:19 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 09:24:12 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"132.166.177.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"132.166.177.0"},"events":"1 events trimmed."}}
+[09-Mar-2018 14:37:01 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/lottery.php on line 106
+[09-Mar-2018 14:37:05 UTC] DEBUG parsed Url = 
+[09-Mar-2018 14:37:05 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:37:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/visitorGeoLocation.php on line 121
+[09-Mar-2018 14:37:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/lottery.php on line 106
+[09-Mar-2018 14:37:11 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:37:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/visitorGeoLocation.php on line 121
+[09-Mar-2018 14:37:11 UTC] DEBUG parsed Url = 
+[09-Mar-2018 14:37:18 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/lottery.php on line 106
+[09-Mar-2018 14:37:55 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/lottery.php on line 62
+[09-Mar-2018 14:37:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/lottery.php on line 106
+[09-Mar-2018 14:38:00 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/lottery.php on line 106
+[09-Mar-2018 14:38:00 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:38:00 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/visitorGeoLocation.php on line 121
+[09-Mar-2018 14:38:04 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/lottery.php on line 106
+[09-Mar-2018 14:38:05 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:38:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/visitorGeoLocation.php on line 121
+[09-Mar-2018 14:38:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/lottery.php on line 106
+[09-Mar-2018 14:38:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit-1/api/lottery.php on line 106
+[09-Mar-2018 14:43:41 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:43:47 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:45:07 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:45:07 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:45:07 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:45:07 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:45:07 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:45:07 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:45:07 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:45:09 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 14:45:17 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:45:17 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:45:17 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:45:17 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:45:17 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:45:17 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[09-Mar-2018 14:45:17 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[09-Mar-2018 14:45:17 UTC] DEBUG: saving user's location result = success
+[09-Mar-2018 14:45:17 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 14:45:17 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 14:45:18 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[09-Mar-2018 14:45:18 UTC] DEBUG: visitorLocation from browser: 48.714509:2.245748
+[09-Mar-2018 14:45:18 UTC] DEBUG: location to check = (48.714509, 2.245748)
+[09-Mar-2018 14:45:18 UTC] DEBUG: distance = 29.998315021134
+[09-Mar-2018 14:45:18 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 14:45:18 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 14:45:18 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 14:45:21 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:45:21 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:45:21 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:45:21 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:45:21 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:45:21 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:45:21 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:45:23 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 14:45:58 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 14:46:49 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:46:50 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:46:50 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:46:50 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:46:50 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:46:50 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:46:50 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:46:50 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:47:19 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:47:25 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:47:28 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:47:36 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:47:44 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:47:44 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:47:44 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:47:44 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:47:44 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:47:44 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:47:44 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:47:44 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:47:46 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:47:46 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:47:46 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:47:46 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:47:46 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:47:46 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:47:46 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:47:46 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:47:51 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:47:51 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:47:51 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:47:51 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:47:51 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:47:51 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:47:51 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:47:51 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:48:34 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:48:34 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:48:34 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:48:34 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:48:34 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:48:34 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:48:34 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:48:46 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:48:53 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:48:53 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:48:53 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:48:53 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:48:53 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:48:53 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:48:53 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:48:53 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:48:58 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:48:58 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:48:58 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:48:58 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:48:58 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:48:58 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:48:58 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:49:05 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 14:53:35 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:53:35 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:53:35 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:53:35 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:53:35 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:53:35 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[09-Mar-2018 14:53:35 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[09-Mar-2018 14:53:35 UTC] DEBUG: saving user's location result = success
+[09-Mar-2018 14:53:35 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 14:53:35 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 14:53:35 UTC] DEBUG: visitorLocation from browser: 48.714509:2.245748
+[09-Mar-2018 14:53:35 UTC] DEBUG: location to check = (48.714509, 2.245748)
+[09-Mar-2018 14:53:35 UTC] DEBUG: distance = 29.998315021134
+[09-Mar-2018 14:53:35 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 14:53:35 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 14:53:35 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 14:53:37 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 14:57:40 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:57:40 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:57:40 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:57:40 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:57:40 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:57:40 UTC] DEBUG: sessionID = kkumopmv37g07sjvt299d7tt24
+[09-Mar-2018 14:57:40 UTC] DEBUG: temporal location from sessionID = denied:denied
+[09-Mar-2018 14:57:40 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 14:57:40 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 14:57:40 UTC] DEBUG: visitorLocation from browser: 
+[09-Mar-2018 14:57:40 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[09-Mar-2018 14:57:40 UTC] DEBUG: location to check = (, )
+[09-Mar-2018 14:57:40 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 14:57:40 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 14:57:40 UTC] DEBUG: distance = 5449.1444216055
+[09-Mar-2018 14:57:40 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 14:57:40 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 14:57:40 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:57:40 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:58:30 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:58:30 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:58:30 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:58:30 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:58:30 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:58:30 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:58:30 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:58:30 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:58:35 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:58:35 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:58:35 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:58:35 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:58:35 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:58:35 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:58:35 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:58:36 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:58:40 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:58:40 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:58:40 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:58:40 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:58:40 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:58:40 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:58:40 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:58:40 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 14:59:34 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 14:59:34 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 14:59:34 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 14:59:34 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 14:59:34 UTC] DEBUG: postId = 62
+[09-Mar-2018 14:59:34 UTC] DEBUG: user deined to share location
+[09-Mar-2018 14:59:34 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 14:59:34 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:01:13 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:01:13 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:01:13 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:01:13 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:01:13 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:01:13 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:01:13 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:01:16 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:01:37 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:01:37 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:01:37 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:01:37 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:01:37 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:01:37 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:01:37 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:01:39 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:02:05 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:02:05 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:02:05 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:02:05 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:02:05 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:02:05 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:02:05 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:02:10 UTC] DEBUG: User's location from browser = {"lat":48.89562228773243,"lon":2.1887360825453634}
+[09-Mar-2018 15:04:05 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:04:05 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:04:05 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:04:05 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:04:05 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:04:05 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[09-Mar-2018 15:04:05 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[09-Mar-2018 15:04:05 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 15:04:05 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 15:04:05 UTC] DEBUG: visitorLocation from browser: 48.714509:2.245748
+[09-Mar-2018 15:04:05 UTC] DEBUG: location to check = (48.714509, 2.245748)
+[09-Mar-2018 15:04:05 UTC] DEBUG: distance = 29.998315021134
+[09-Mar-2018 15:04:05 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 15:04:05 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 15:04:05 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 15:04:08 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:04:18 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:04:18 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:04:18 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:04:18 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:04:18 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:04:18 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[09-Mar-2018 15:04:18 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[09-Mar-2018 15:04:18 UTC] DEBUG: saving user's location result = success
+[09-Mar-2018 15:04:18 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 15:04:18 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 15:04:18 UTC] DEBUG: visitorLocation from browser: 48.714509:2.245748
+[09-Mar-2018 15:04:18 UTC] DEBUG: location to check = (48.714509, 2.245748)
+[09-Mar-2018 15:04:18 UTC] DEBUG: distance = 29.998315021134
+[09-Mar-2018 15:04:18 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 15:04:18 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 15:04:18 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 15:04:27 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:06:54 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:06:54 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:06:54 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:06:54 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:06:54 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:06:54 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:06:54 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:06:54 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:07:08 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:07:08 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:07:08 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:07:08 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:07:08 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:07:08 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:07:08 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:07:08 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:10:47 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:11:30 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:26:37 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:26:37 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:26:37 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:26:37 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:26:37 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:26:37 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:26:37 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:26:38 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:28:08 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:28:08 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:28:08 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:28:08 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:28:08 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:28:08 UTC] DEBUG: sessionID = kkumopmv37g07sjvt299d7tt24
+[09-Mar-2018 15:28:08 UTC] DEBUG: temporal location from sessionID = denied:denied
+[09-Mar-2018 15:28:08 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 15:28:08 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 15:28:09 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[09-Mar-2018 15:28:09 UTC] DEBUG: visitorLocation from browser: 
+[09-Mar-2018 15:28:09 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[09-Mar-2018 15:28:09 UTC] DEBUG: location to check = (, )
+[09-Mar-2018 15:28:09 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 15:28:09 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 15:28:09 UTC] DEBUG: distance = 5449.1444216055
+[09-Mar-2018 15:28:09 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 15:28:09 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 15:28:09 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 15:28:09 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 15:28:09 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 15:28:09 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:28:30 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:28:30 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:28:30 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:28:30 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:28:30 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:28:30 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:28:30 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:28:34 UTC] DEBUG: User's location from browser = {"lat":48.89562503801237,"lon":2.188806429599022}
+[09-Mar-2018 15:29:25 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:29:25 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:29:25 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:29:25 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:29:25 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:29:25 UTC] DEBUG: sessionID = kkumopmv37g07sjvt299d7tt24
+[09-Mar-2018 15:29:25 UTC] DEBUG: temporal location from sessionID = denied:denied
+[09-Mar-2018 15:29:25 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 15:29:25 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 15:29:25 UTC] DEBUG: visitorLocation from browser: 
+[09-Mar-2018 15:29:25 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[09-Mar-2018 15:29:25 UTC] DEBUG: location to check = (, )
+[09-Mar-2018 15:29:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 15:29:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 15:29:25 UTC] DEBUG: distance = 5449.1444216055
+[09-Mar-2018 15:29:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 15:29:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 15:29:25 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:29:25 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:29:43 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:29:43 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:29:43 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:29:43 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:29:43 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:29:43 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:29:43 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:29:43 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:30:06 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:30:06 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:30:06 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:30:06 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:30:06 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:30:06 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:30:06 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:30:07 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:30:49 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:30:49 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:30:49 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:30:49 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:30:49 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:30:49 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:30:49 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:30:49 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:31:00 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:31:00 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:31:00 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:31:00 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:31:00 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:31:00 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:31:00 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:31:00 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:31:26 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:31:26 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:31:26 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:31:26 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:31:26 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:31:26 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:31:26 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:31:26 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 15:34:35 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:34:35 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:34:35 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:34:35 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:34:35 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:34:35 UTC] DEBUG: user deined to share location
+[09-Mar-2018 15:34:35 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 15:34:37 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:39:34 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:39:34 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:39:34 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:39:34 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:39:34 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:39:34 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[09-Mar-2018 15:39:34 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[09-Mar-2018 15:39:34 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 15:39:34 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 15:39:34 UTC] DEBUG: visitorLocation from browser: 48.714509:2.245748
+[09-Mar-2018 15:39:34 UTC] DEBUG: location to check = (48.714509, 2.245748)
+[09-Mar-2018 15:39:34 UTC] DEBUG: distance = 29.998315021134
+[09-Mar-2018 15:39:34 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 15:39:34 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 15:39:34 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 15:39:36 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:39:43 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:39:43 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:39:43 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:39:43 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:39:43 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:39:44 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[09-Mar-2018 15:39:44 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[09-Mar-2018 15:39:44 UTC] DEBUG: saving user's location result = success
+[09-Mar-2018 15:39:44 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 15:39:44 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 15:39:44 UTC] DEBUG: visitorLocation from browser: 48.714509:2.245748
+[09-Mar-2018 15:39:44 UTC] DEBUG: location to check = (48.714509, 2.245748)
+[09-Mar-2018 15:39:44 UTC] DEBUG: distance = 29.998315021134
+[09-Mar-2018 15:39:44 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 15:39:44 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 15:39:44 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 15:39:45 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:46:10 UTC] DEBUG parsed Url = ?customize_changeset_uuid=99c4ec99-cf33-4ade-b66d-c851053c9e97&customize_theme=theme_fix&customize_messenger_channel=preview-0
+[09-Mar-2018 15:46:10 UTC] isLocationSaved = succes
+[09-Mar-2018 15:46:10 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[09-Mar-2018 15:46:10 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[09-Mar-2018 15:46:11 UTC] DEBUG: saving user's location result = success
+[09-Mar-2018 15:46:12 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:46:56 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:47:06 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:47:11 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:50:22 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:50:22 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:50:22 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:50:22 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:50:22 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:50:22 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[09-Mar-2018 15:50:22 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[09-Mar-2018 15:50:22 UTC] DEBUG: saving user's location result = success
+[09-Mar-2018 15:50:22 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 15:50:22 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 15:50:22 UTC] DEBUG: visitorLocation from browser: 48.714509:2.245748
+[09-Mar-2018 15:50:22 UTC] DEBUG: location to check = (48.714509, 2.245748)
+[09-Mar-2018 15:50:22 UTC] DEBUG: distance = 29.998315021134
+[09-Mar-2018 15:50:22 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 15:50:22 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 15:50:22 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 15:50:23 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:50:30 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:50:30 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:50:30 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:50:30 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:50:30 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:50:30 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[09-Mar-2018 15:50:30 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[09-Mar-2018 15:50:31 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 15:50:31 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 15:50:31 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[09-Mar-2018 15:50:31 UTC] DEBUG: visitorLocation from browser: 48.714509:2.245748
+[09-Mar-2018 15:50:31 UTC] DEBUG: location to check = (48.714509, 2.245748)
+[09-Mar-2018 15:50:31 UTC] DEBUG: distance = 29.998315021134
+[09-Mar-2018 15:50:31 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 15:50:31 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 15:50:31 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 15:50:32 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 15:50:36 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 15:50:36 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 15:50:36 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 15:50:36 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 15:50:36 UTC] DEBUG: postId = 62
+[09-Mar-2018 15:50:36 UTC] DEBUG: sessionID = hq1vabo4vmfj7u3roknbr702q3
+[09-Mar-2018 15:50:36 UTC] DEBUG: temporal location from sessionID = 48.714509:2.245748
+[09-Mar-2018 15:50:36 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 15:50:36 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 15:50:36 UTC] DEBUG: visitorLocation from browser: 48.714509:2.245748
+[09-Mar-2018 15:50:36 UTC] DEBUG: location to check = (48.714509, 2.245748)
+[09-Mar-2018 15:50:36 UTC] DEBUG: distance = 29.998315021134
+[09-Mar-2018 15:50:36 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 15:50:36 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 15:50:36 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 15:50:42 UTC] DEBUG: User's location from browser = {"lat":48.714509,"lon":2.245748}
+[09-Mar-2018 17:17:23 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 17:17:23 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 17:17:23 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 17:17:23 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 17:17:23 UTC] DEBUG: postId = 62
+[09-Mar-2018 17:17:23 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 17:17:23 UTC] DEBUG: user deined to share location
+[09-Mar-2018 17:17:23 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 19:39:28 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 19:39:28 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 19:39:28 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 19:39:28 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 19:39:28 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 19:39:28 UTC] DEBUG: postId = 62
+[09-Mar-2018 19:39:29 UTC] DEBUG: user deined to share location
+[09-Mar-2018 19:39:29 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 19:39:54 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 19:39:54 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 19:39:54 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 19:39:54 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 19:39:54 UTC] DEBUG: postId = 62
+[09-Mar-2018 19:39:54 UTC] DEBUG: user deined to share location
+[09-Mar-2018 19:39:54 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 19:39:56 UTC] DEBUG: User's location from browser = {"lat":48.84150908670763,"lon":2.3657108300988323}
+[09-Mar-2018 19:56:21 UTC] DEBUG parsed Url = 
+[09-Mar-2018 19:56:21 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 19:56:36 UTC] DEBUG parsed Url = 
+[09-Mar-2018 19:56:36 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 19:56:42 UTC] DEBUG parsed Url = 
+[09-Mar-2018 19:56:42 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 19:56:43 UTC] DEBUG parsed Url = 
+[09-Mar-2018 19:56:43 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 19:56:57 UTC] DEBUG parsed Url = 
+[09-Mar-2018 19:56:59 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 19:58:35 UTC] DEBUG parsed Url = 
+[09-Mar-2018 19:58:35 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 19:58:39 UTC] DEBUG parsed Url = 
+[09-Mar-2018 19:58:39 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 19:58:41 UTC] DEBUG parsed Url = 
+[09-Mar-2018 19:58:41 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 19:59:02 UTC] DEBUG parsed Url = 4334
+[09-Mar-2018 19:59:02 UTC] DEBUG: user deined to share location
+[09-Mar-2018 19:59:02 UTC] isLocationSaved = error
+[09-Mar-2018 19:59:02 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 19:59:05 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 19:59:05 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 19:59:05 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 19:59:05 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 19:59:05 UTC] DEBUG: postId = 62
+[09-Mar-2018 19:59:05 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 19:59:05 UTC] DEBUG: user deined to share location
+[09-Mar-2018 19:59:06 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 20:00:36 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 20:00:36 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 20:00:36 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 20:00:36 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 20:00:36 UTC] DEBUG: postId = 62
+[09-Mar-2018 20:00:36 UTC] DEBUG: user deined to share location
+[09-Mar-2018 20:00:36 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 20:00:40 UTC] DEBUG: User's location from browser = {"lat":48.69051117627369,"lon":2.3841401571736744}
+[09-Mar-2018 20:01:18 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 20:01:18 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 20:01:18 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 20:01:18 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 20:01:18 UTC] DEBUG: postId = 62
+[09-Mar-2018 20:01:18 UTC] DEBUG: sessionID = 27gck9a5ju8b19gg71b73spua1
+[09-Mar-2018 20:01:18 UTC] DEBUG: temporal location from sessionID = 
+[09-Mar-2018 20:01:18 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 366
+[09-Mar-2018 20:01:18 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 20:01:18 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 20:01:19 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[09-Mar-2018 20:01:19 UTC] DEBUG: visitorLocation from browser: 
+[09-Mar-2018 20:01:19 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[09-Mar-2018 20:01:19 UTC] DEBUG: location to check = (, )
+[09-Mar-2018 20:01:19 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 20:01:19 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 20:01:19 UTC] DEBUG: distance = 5449.1444216055
+[09-Mar-2018 20:01:19 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 20:01:19 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 20:01:19 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 20:01:19 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 20:01:19 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 20:03:17 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 20:03:17 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 20:03:17 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 20:03:17 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 20:03:17 UTC] DEBUG: postId = 62
+[09-Mar-2018 20:03:17 UTC] DEBUG: sessionID = 8gdthie98596n6n7vij6pe5r00
+[09-Mar-2018 20:03:17 UTC] DEBUG: temporal location from sessionID = 48.690511176274:2.3841401571737
+[09-Mar-2018 20:03:17 UTC] DEBUG: saving user's location result = success
+[09-Mar-2018 20:03:17 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 20:03:17 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 20:03:17 UTC] DEBUG: visitorLocation from browser: 48.690511176274:2.3841401571737
+[09-Mar-2018 20:03:17 UTC] DEBUG: location to check = (48.690511176274, 2.3841401571737)
+[09-Mar-2018 20:03:17 UTC] DEBUG: distance = 30.424601792872
+[09-Mar-2018 20:03:17 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 20:03:17 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 20:03:17 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 20:03:17 UTC] DEBUG: User's location from browser = {"lat":48.685991922556276,"lon":2.375241176197553}
+[09-Mar-2018 20:04:21 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 20:04:21 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 20:04:21 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 20:04:21 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 20:04:21 UTC] DEBUG: postId = 62
+[09-Mar-2018 20:04:21 UTC] DEBUG: sessionID = 8gdthie98596n6n7vij6pe5r00
+[09-Mar-2018 20:04:21 UTC] DEBUG: temporal location from sessionID = 48.685991922556:2.3752411761976
+[09-Mar-2018 20:04:21 UTC] DEBUG: saving user's location result = success
+[09-Mar-2018 20:04:21 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 20:04:21 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 20:04:22 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[09-Mar-2018 20:04:22 UTC] DEBUG: visitorLocation from browser: 48.685991922556:2.3752411761976
+[09-Mar-2018 20:04:22 UTC] DEBUG: location to check = (48.685991922556, 2.3752411761976)
+[09-Mar-2018 20:04:22 UTC] DEBUG: distance = 30.961310967644
+[09-Mar-2018 20:04:22 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 20:04:22 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 20:04:22 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 20:04:22 UTC] DEBUG: User's location from browser = {"lat":48.68010452513783,"lon":2.3618770478959705}
+[09-Mar-2018 20:15:01 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:15:01 UTC] DEBUG parsed Url = 4334
+[09-Mar-2018 20:15:01 UTC] DEBUG: user deined to share location
+[09-Mar-2018 20:15:01 UTC] isLocationSaved = error
+[09-Mar-2018 20:15:09 UTC] DEBUG parsed Url = 
+[09-Mar-2018 20:15:09 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:15:14 UTC] DEBUG parsed Url = 
+[09-Mar-2018 20:15:14 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:21:02 UTC] DEBUG parsed Url = 
+[09-Mar-2018 20:21:02 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:21:10 UTC] DEBUG parsed Url = 
+[09-Mar-2018 20:21:10 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:21:22 UTC] DEBUG parsed Url = 
+[09-Mar-2018 20:21:22 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:21:35 UTC] DEBUG parsed Url = 
+[09-Mar-2018 20:21:35 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:21:35 UTC] DEBUG parsed Url = 
+[09-Mar-2018 20:21:36 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:21:45 UTC] DEBUG parsed Url = 3344
+[09-Mar-2018 20:21:45 UTC] DEBUG: user deined to share location
+[09-Mar-2018 20:21:45 UTC] isLocationSaved = error
+[09-Mar-2018 20:21:46 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:21:56 UTC] DEBUG parsed Url = 3344
+[09-Mar-2018 20:21:56 UTC] DEBUG: user deined to share location
+[09-Mar-2018 20:21:56 UTC] isLocationSaved = error
+[09-Mar-2018 20:21:56 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:22:37 UTC] DEBUG parsed Url = 3344
+[09-Mar-2018 20:22:37 UTC] DEBUG: user deined to share location
+[09-Mar-2018 20:22:37 UTC] isLocationSaved = error
+[09-Mar-2018 20:22:37 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:23:02 UTC] DEBUG: in saveLocationScanInvalid: city =  : country = 
+[09-Mar-2018 20:23:23 UTC] DEBUG parsed Url = 3344
+[09-Mar-2018 20:23:23 UTC] DEBUG: user deined to share location
+[09-Mar-2018 20:23:23 UTC] isLocationSaved = error
+[09-Mar-2018 20:23:23 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:23:26 UTC] DEBUG parsed Url = 3344
+[09-Mar-2018 20:23:26 UTC] DEBUG: user deined to share location
+[09-Mar-2018 20:23:26 UTC] isLocationSaved = error
+[09-Mar-2018 20:23:26 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:24:01 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 20:24:01 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 20:24:01 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 20:24:01 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 20:24:01 UTC] DEBUG: postId = 62
+[09-Mar-2018 20:24:01 UTC] DEBUG: user deined to share location
+[09-Mar-2018 20:24:01 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 20:24:36 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 20:24:36 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 20:24:36 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 20:24:36 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 20:24:36 UTC] DEBUG: postId = 62
+[09-Mar-2018 20:24:36 UTC] DEBUG: user deined to share location
+[09-Mar-2018 20:24:36 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 20:24:37 UTC] DEBUG: User's location from browser = {"lat":48.681169010377474,"lon":2.315596557221517}
+[09-Mar-2018 20:25:07 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 20:25:07 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 20:25:07 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 20:25:07 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 20:25:07 UTC] DEBUG: postId = 62
+[09-Mar-2018 20:25:07 UTC] DEBUG: sessionID = gs4ollk33fgiani1l86kh36u71
+[09-Mar-2018 20:25:07 UTC] DEBUG: temporal location from sessionID = 48.681169010377:2.3155965572215
+[09-Mar-2018 20:25:07 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 20:25:07 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 20:25:07 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[09-Mar-2018 20:25:07 UTC] DEBUG: visitorLocation from browser: 
+[09-Mar-2018 20:25:07 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[09-Mar-2018 20:25:07 UTC] DEBUG: location to check = (, )
+[09-Mar-2018 20:25:07 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 20:25:07 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 20:25:07 UTC] DEBUG: distance = 5449.1444216055
+[09-Mar-2018 20:25:07 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 20:25:07 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[09-Mar-2018 20:25:07 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 20:25:07 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 20:25:07 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 20:25:07 UTC] DEBUG: User's location from browser = {"lat":48.681153529860616,"lon":2.315601266160509}
+[09-Mar-2018 20:25:39 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 20:25:39 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 20:25:39 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 20:25:39 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 20:25:39 UTC] DEBUG: postId = 62
+[09-Mar-2018 20:25:39 UTC] DEBUG: sessionID = 8gdthie98596n6n7vij6pe5r00
+[09-Mar-2018 20:25:39 UTC] DEBUG: temporal location from sessionID = 48.680104525138:2.361877047896
+[09-Mar-2018 20:25:39 UTC] DEBUG: saving user's location result = success
+[09-Mar-2018 20:25:39 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[09-Mar-2018 20:25:39 UTC] DEBUG: accuracy radius = 0.5
+[09-Mar-2018 20:25:39 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[09-Mar-2018 20:25:39 UTC] DEBUG: visitorLocation from browser: 48.680104525138:2.361877047896
+[09-Mar-2018 20:25:39 UTC] DEBUG: location to check = (48.680104525138, 2.361877047896)
+[09-Mar-2018 20:25:39 UTC] DEBUG: distance = 31.69073999225
+[09-Mar-2018 20:25:39 UTC] DEBUG: countdow period = 90
+[09-Mar-2018 20:25:39 UTC] DEBUG: Diff in number of date = activated
+[09-Mar-2018 20:25:39 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[09-Mar-2018 20:25:39 UTC] DEBUG: User's location from browser = {"lat":48.681153529860616,"lon":2.315601266160509}
+[09-Mar-2018 20:28:12 UTC] DEBUG parsed Url = 
+[09-Mar-2018 20:28:17 UTC] DEBUG: User's location from browser = {"lat":48.76847621275491,"lon":2.317472983518714}
+[09-Mar-2018 20:29:52 UTC] DEBUG parsed Url = 
+[09-Mar-2018 20:29:52 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:32:34 UTC] DEBUG parsed Url = 
+[09-Mar-2018 20:32:34 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:32:41 UTC] DEBUG parsed Url = 
+[09-Mar-2018 20:32:41 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:32:52 UTC] DEBUG parsed Url = 3344
+[09-Mar-2018 20:32:52 UTC] DEBUG: user deined to share location
+[09-Mar-2018 20:32:52 UTC] isLocationSaved = error
+[09-Mar-2018 20:32:53 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 20:37:03 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 20:37:03 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 20:37:03 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 20:37:03 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 20:37:03 UTC] DEBUG: postId = 62
+[09-Mar-2018 20:37:03 UTC] DEBUG: user deined to share location
+[09-Mar-2018 20:37:03 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 20:37:03 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 23:11:23 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 23:11:23 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 23:11:23 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 23:11:23 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 23:11:23 UTC] DEBUG: postId = 62
+[09-Mar-2018 23:11:23 UTC] DEBUG: user deined to share location
+[09-Mar-2018 23:11:23 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 23:11:23 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 23:11:24 UTC] DEBUG parsed Url = 
+[09-Mar-2018 23:11:24 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[09-Mar-2018 23:11:25 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[09-Mar-2018 23:11:25 UTC] 000000004D5E1011134F2C
+[09-Mar-2018 23:11:25 UTC] DEBUG: productUid = 4D5E1011134F2C
+[09-Mar-2018 23:11:25 UTC] DEBUG: postName = eau-de-toilette2
+[09-Mar-2018 23:11:25 UTC] DEBUG: postId = 62
+[09-Mar-2018 23:11:25 UTC] DEBUG: user deined to share location
+[09-Mar-2018 23:11:25 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[09-Mar-2018 23:11:25 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[10-Mar-2018 08:04:42 UTC] DEBUG parsed Url = 01000001E190931A439709
+[10-Mar-2018 08:04:42 UTC] 01000001E190931A439709
+[10-Mar-2018 08:04:42 UTC] DEBUG: productUid = E190931A439709
+[10-Mar-2018 08:04:42 UTC] DEBUG: postName = cca7fa7f-82c6-46ba-ad3e-27be60aa6b0c
+[10-Mar-2018 08:04:42 UTC] DEBUG: postId = 150
+[10-Mar-2018 08:04:42 UTC] DEBUG: user deined to share location
+[10-Mar-2018 08:04:42 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 08:04:45 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[10-Mar-2018 08:05:02 UTC] DEBUG parsed Url = 01000001E190931A439709
+[10-Mar-2018 08:05:02 UTC] 01000001E190931A439709
+[10-Mar-2018 08:05:02 UTC] DEBUG: productUid = E190931A439709
+[10-Mar-2018 08:05:02 UTC] DEBUG: postName = cca7fa7f-82c6-46ba-ad3e-27be60aa6b0c
+[10-Mar-2018 08:05:02 UTC] DEBUG: postId = 150
+[10-Mar-2018 08:05:02 UTC] DEBUG: user deined to share location
+[10-Mar-2018 08:05:02 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 08:07:06 UTC] DEBUG parsed Url = 01000001E190931A439709
+[10-Mar-2018 08:07:06 UTC] 01000001E190931A439709
+[10-Mar-2018 08:07:06 UTC] DEBUG: productUid = E190931A439709
+[10-Mar-2018 08:07:06 UTC] DEBUG: postName = cca7fa7f-82c6-46ba-ad3e-27be60aa6b0c
+[10-Mar-2018 08:07:06 UTC] DEBUG: postId = 150
+[10-Mar-2018 08:07:06 UTC] DEBUG: user deined to share location
+[10-Mar-2018 08:07:06 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 08:10:54 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 08:10:54 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 08:10:54 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 08:10:54 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 08:10:54 UTC] DEBUG: postId = 62
+[10-Mar-2018 08:10:54 UTC] DEBUG: user deined to share location
+[10-Mar-2018 08:10:54 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 08:10:54 UTC] DEBUG: User's location from browser = {"lat":48.860466502488165,"lon":2.3141674285227585}
+[10-Mar-2018 08:11:23 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"128.86.177.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"128.86.177.0"},"events":"5 events trimmed."}}
+[10-Mar-2018 08:18:23 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 08:18:23 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 08:18:23 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 08:18:23 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 08:18:23 UTC] DEBUG: postId = 62
+[10-Mar-2018 08:18:23 UTC] DEBUG: sessionID = k3i77i6tr5dgtkta74er2lik41
+[10-Mar-2018 08:18:23 UTC] DEBUG: temporal location from sessionID = 48.860466502488:2.3141674285228
+[10-Mar-2018 08:18:24 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 08:18:24 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 08:18:24 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[10-Mar-2018 08:18:24 UTC] DEBUG: visitorLocation from browser: 
+[10-Mar-2018 08:18:24 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[10-Mar-2018 08:18:24 UTC] DEBUG: location to check = (, )
+[10-Mar-2018 08:18:24 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:18:24 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:18:24 UTC] DEBUG: distance = 5449.1444216055
+[10-Mar-2018 08:18:24 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:18:24 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:18:24 UTC] DEBUG: countdow period = 90
+[10-Mar-2018 08:18:24 UTC] DEBUG: Diff in number of date = activated
+[10-Mar-2018 08:18:24 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[10-Mar-2018 08:18:24 UTC] DEBUG: User's location from browser = {"lat":48.86025927571319,"lon":2.313947505767742}
+[10-Mar-2018 08:18:37 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 08:18:37 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 08:18:37 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 08:18:37 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 08:18:37 UTC] DEBUG: postId = 62
+[10-Mar-2018 08:18:37 UTC] DEBUG: sessionID = k3i77i6tr5dgtkta74er2lik41
+[10-Mar-2018 08:18:37 UTC] DEBUG: temporal location from sessionID = 48.860259275713:2.3139475057677
+[10-Mar-2018 08:18:38 UTC] DEBUG: saving user's location result = success
+[10-Mar-2018 08:18:38 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 08:18:38 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 08:18:38 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[10-Mar-2018 08:18:38 UTC] DEBUG: visitorLocation from browser: 48.860259275713:2.3139475057677
+[10-Mar-2018 08:18:38 UTC] DEBUG: location to check = (48.860259275713, 2.3139475057677)
+[10-Mar-2018 08:18:38 UTC] DEBUG: distance = 13.203573026869
+[10-Mar-2018 08:18:38 UTC] DEBUG: countdow period = 90
+[10-Mar-2018 08:18:38 UTC] DEBUG: Diff in number of date = activated
+[10-Mar-2018 08:18:38 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[10-Mar-2018 08:18:38 UTC] DEBUG: User's location from browser = {"lat":48.86013444049504,"lon":2.3144998634317786}
+[10-Mar-2018 08:18:49 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 08:18:49 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 08:18:49 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 08:18:49 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 08:18:49 UTC] DEBUG: postId = 62
+[10-Mar-2018 08:18:49 UTC] DEBUG: sessionID = k3i77i6tr5dgtkta74er2lik41
+[10-Mar-2018 08:18:49 UTC] DEBUG: temporal location from sessionID = 48.860134440495:2.3144998634318
+[10-Mar-2018 08:18:49 UTC] DEBUG: saving user's location result = success
+[10-Mar-2018 08:18:49 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 08:18:49 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 08:18:49 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[10-Mar-2018 08:18:49 UTC] DEBUG: visitorLocation from browser: 48.860134440495:2.3144998634318
+[10-Mar-2018 08:18:49 UTC] DEBUG: location to check = (48.860134440495, 2.3144998634318)
+[10-Mar-2018 08:18:49 UTC] DEBUG: distance = 13.19604212397
+[10-Mar-2018 08:18:49 UTC] DEBUG: countdow period = 90
+[10-Mar-2018 08:18:49 UTC] DEBUG: Diff in number of date = activated
+[10-Mar-2018 08:18:49 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[10-Mar-2018 08:18:49 UTC] DEBUG: User's location from browser = {"lat":48.8601108327381,"lon":2.3146155303507436}
+[10-Mar-2018 08:19:25 UTC] DEBUG parsed Url = 01000001E190931A439709
+[10-Mar-2018 08:19:25 UTC] 01000001E190931A439709
+[10-Mar-2018 08:19:25 UTC] DEBUG: productUid = E190931A439709
+[10-Mar-2018 08:19:25 UTC] DEBUG: postName = cca7fa7f-82c6-46ba-ad3e-27be60aa6b0c
+[10-Mar-2018 08:19:25 UTC] DEBUG: postId = 150
+[10-Mar-2018 08:19:25 UTC] DEBUG: sessionID = 53gchbovrcljfrghh7du3mp7n5
+[10-Mar-2018 08:19:25 UTC] DEBUG: temporal location from sessionID = denied:denied
+[10-Mar-2018 08:19:25 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 08:19:25 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 08:19:25 UTC] DEBUG: visitorLocation from browser: 
+[10-Mar-2018 08:19:25 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[10-Mar-2018 08:19:25 UTC] DEBUG: location to check = (, )
+[10-Mar-2018 08:19:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:19:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:19:25 UTC] DEBUG: distance = 5449.1444216055
+[10-Mar-2018 08:19:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:19:25 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:19:25 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 08:19:46 UTC] DEBUG parsed Url = 01000001E190931A439709
+[10-Mar-2018 08:19:46 UTC] 01000001E190931A439709
+[10-Mar-2018 08:19:46 UTC] DEBUG: productUid = E190931A439709
+[10-Mar-2018 08:19:46 UTC] DEBUG: postName = cca7fa7f-82c6-46ba-ad3e-27be60aa6b0c
+[10-Mar-2018 08:19:46 UTC] DEBUG: postId = 150
+[10-Mar-2018 08:19:46 UTC] DEBUG: sessionID = 53gchbovrcljfrghh7du3mp7n5
+[10-Mar-2018 08:19:46 UTC] DEBUG: temporal location from sessionID = denied:denied
+[10-Mar-2018 08:19:46 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 08:19:46 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 08:19:46 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[10-Mar-2018 08:19:46 UTC] DEBUG: visitorLocation from browser: 
+[10-Mar-2018 08:19:46 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[10-Mar-2018 08:19:46 UTC] DEBUG: location to check = (, )
+[10-Mar-2018 08:19:46 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:19:46 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:19:46 UTC] DEBUG: distance = 5449.1444216055
+[10-Mar-2018 08:19:46 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:19:46 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 08:19:46 UTC] DEBUG: countdow period = 90
+[10-Mar-2018 08:19:46 UTC] DEBUG: Diff in number of date = inactivated
+[10-Mar-2018 08:19:48 UTC] DEBUG: User's location from browser = {"lat":48.860308599999996,"lon":2.3142009999999997}
+[10-Mar-2018 11:05:11 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 11:05:11 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 11:05:11 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 11:05:11 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 11:05:11 UTC] DEBUG: postId = 62
+[10-Mar-2018 11:05:11 UTC] DEBUG: sessionID = k3i77i6tr5dgtkta74er2lik41
+[10-Mar-2018 11:05:11 UTC] DEBUG: temporal location from sessionID = 48.860110832738:2.3146155303507
+[10-Mar-2018 11:05:11 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 11:05:11 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 11:05:11 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[10-Mar-2018 11:05:11 UTC] DEBUG: visitorLocation from browser: 48.860134440495:2.3144998634318
+[10-Mar-2018 11:05:11 UTC] DEBUG: location to check = (48.860134440495, 2.3144998634318)
+[10-Mar-2018 11:05:11 UTC] DEBUG: distance = 13.19604212397
+[10-Mar-2018 11:05:11 UTC] DEBUG: countdow period = 90
+[10-Mar-2018 11:05:11 UTC] DEBUG: Diff in number of date = activated
+[10-Mar-2018 11:05:11 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[10-Mar-2018 11:05:11 UTC] DEBUG: User's location from browser = {"lat":48.850083235987405,"lon":2.3518487731983506}
+[10-Mar-2018 11:06:01 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 11:06:01 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 11:06:01 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 11:06:01 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 11:06:01 UTC] DEBUG: postId = 62
+[10-Mar-2018 11:06:01 UTC] DEBUG: sessionID = k3i77i6tr5dgtkta74er2lik41
+[10-Mar-2018 11:06:01 UTC] DEBUG: temporal location from sessionID = 48.850083235987:2.3518487731984
+[10-Mar-2018 11:06:02 UTC] DEBUG: saving user's location result = success
+[10-Mar-2018 11:06:02 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 11:06:02 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 11:06:02 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[10-Mar-2018 11:06:02 UTC] DEBUG: visitorLocation from browser: 48.850083235987:2.3518487731984
+[10-Mar-2018 11:06:02 UTC] DEBUG: location to check = (48.850083235987, 2.3518487731984)
+[10-Mar-2018 11:06:02 UTC] DEBUG: distance = 13.177247858525
+[10-Mar-2018 11:06:02 UTC] DEBUG: countdow period = 90
+[10-Mar-2018 11:06:02 UTC] DEBUG: Diff in number of date = activated
+[10-Mar-2018 11:06:02 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[10-Mar-2018 11:06:02 UTC] DEBUG: User's location from browser = {"lat":48.85007605390022,"lon":2.351878642353474}
+[10-Mar-2018 11:33:48 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 11:33:48 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 11:33:48 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 11:33:48 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 11:33:48 UTC] DEBUG: postId = 62
+[10-Mar-2018 11:33:48 UTC] DEBUG: sessionID = 7j8egl9i7rb4en727g5b2jv6g7
+[10-Mar-2018 11:33:48 UTC] DEBUG: temporal location from sessionID = 
+[10-Mar-2018 11:33:48 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 366
+[10-Mar-2018 11:33:48 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 11:33:48 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 11:33:48 UTC] DEBUG: User's location from browser = {"lat":48.838316563030595,"lon":2.6538076283450613}
+[10-Mar-2018 11:33:49 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[10-Mar-2018 11:33:49 UTC] DEBUG: visitorLocation from browser: 
+[10-Mar-2018 11:33:49 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[10-Mar-2018 11:33:49 UTC] DEBUG: location to check = (, )
+[10-Mar-2018 11:33:49 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 11:33:49 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 11:33:49 UTC] DEBUG: distance = 5449.1444216055
+[10-Mar-2018 11:33:49 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 11:33:49 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 11:33:49 UTC] DEBUG: countdow period = 90
+[10-Mar-2018 11:33:49 UTC] DEBUG: Diff in number of date = activated
+[10-Mar-2018 11:33:49 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[10-Mar-2018 16:17:12 UTC] DEBUG parsed Url = 01000001E190931A439709
+[10-Mar-2018 16:17:12 UTC] 01000001E190931A439709
+[10-Mar-2018 16:17:12 UTC] DEBUG: productUid = E190931A439709
+[10-Mar-2018 16:17:12 UTC] DEBUG: postName = cca7fa7f-82c6-46ba-ad3e-27be60aa6b0c
+[10-Mar-2018 16:17:12 UTC] DEBUG: postId = 150
+[10-Mar-2018 16:17:12 UTC] DEBUG: sessionID = 53gchbovrcljfrghh7du3mp7n5
+[10-Mar-2018 16:17:12 UTC] DEBUG: temporal location from sessionID = 48.8603086:2.314201
+[10-Mar-2018 16:17:12 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 16:17:12 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 16:17:12 UTC] DEBUG: visitorLocation from browser: 
+[10-Mar-2018 16:17:12 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[10-Mar-2018 16:17:12 UTC] DEBUG: location to check = (, )
+[10-Mar-2018 16:17:12 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 16:17:12 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 16:17:12 UTC] DEBUG: distance = 5449.1444216055
+[10-Mar-2018 16:17:12 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 16:17:12 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 16:17:12 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 16:17:18 UTC] DEBUG: User's location from browser = {"lat":48.8516518,"lon":2.3455895}
+[10-Mar-2018 16:23:55 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 16:23:55 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 16:23:55 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 16:23:55 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 16:23:55 UTC] DEBUG: postId = 62
+[10-Mar-2018 16:23:55 UTC] DEBUG: sessionID = 53gchbovrcljfrghh7du3mp7n5
+[10-Mar-2018 16:23:55 UTC] DEBUG: temporal location from sessionID = 48.8516518:2.3455895
+[10-Mar-2018 16:23:55 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 16:23:55 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 16:23:55 UTC] DEBUG: visitorLocation from browser: 
+[10-Mar-2018 16:23:55 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[10-Mar-2018 16:23:55 UTC] DEBUG: location to check = (, )
+[10-Mar-2018 16:23:55 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 16:23:55 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 16:23:55 UTC] DEBUG: distance = 5449.1444216055
+[10-Mar-2018 16:23:55 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 16:23:55 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[10-Mar-2018 16:23:55 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 16:23:56 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[10-Mar-2018 16:24:06 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 16:24:06 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 16:24:06 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 16:24:06 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 16:24:06 UTC] DEBUG: postId = 62
+[10-Mar-2018 16:24:06 UTC] DEBUG: user deined to share location
+[10-Mar-2018 16:24:06 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 16:24:06 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[10-Mar-2018 16:25:52 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 16:25:52 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 16:25:52 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 16:25:52 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 16:25:52 UTC] DEBUG: postId = 62
+[10-Mar-2018 16:25:52 UTC] DEBUG: user deined to share location
+[10-Mar-2018 16:25:52 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 16:27:14 UTC] DEBUG parsed Url = 01000001E190931A439709
+[10-Mar-2018 16:27:14 UTC] 01000001E190931A439709
+[10-Mar-2018 16:27:14 UTC] DEBUG: productUid = E190931A439709
+[10-Mar-2018 16:27:14 UTC] DEBUG: postName = cca7fa7f-82c6-46ba-ad3e-27be60aa6b0c
+[10-Mar-2018 16:27:14 UTC] DEBUG: postId = 150
+[10-Mar-2018 16:27:14 UTC] DEBUG: user deined to share location
+[10-Mar-2018 16:27:14 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 16:29:33 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 16:29:33 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 16:29:33 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 16:29:33 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 16:29:33 UTC] DEBUG: postId = 62
+[10-Mar-2018 16:29:33 UTC] DEBUG: user deined to share location
+[10-Mar-2018 16:29:33 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 16:29:33 UTC] DEBUG: User's location from browser = {"lat":48.85183137265404,"lon":2.3460872007253055}
+[10-Mar-2018 16:29:36 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 16:29:36 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 16:29:36 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 16:29:36 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 16:29:36 UTC] DEBUG: postId = 62
+[10-Mar-2018 16:29:36 UTC] DEBUG: sessionID = dk0ifgvb8db0o1uq4gjppm3ju2
+[10-Mar-2018 16:29:36 UTC] DEBUG: temporal location from sessionID = 48.851831372654:2.3460872007253
+[10-Mar-2018 16:29:36 UTC] DEBUG: saving user's location result = success
+[10-Mar-2018 16:29:36 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 16:29:36 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 16:29:36 UTC] DEBUG: visitorLocation from browser: 48.851831372654:2.3460872007253
+[10-Mar-2018 16:29:36 UTC] DEBUG: location to check = (48.851831372654, 2.3460872007253)
+[10-Mar-2018 16:29:36 UTC] DEBUG: distance = 13.116175342832
+[10-Mar-2018 16:29:36 UTC] DEBUG: countdow period = 90
+[10-Mar-2018 16:29:36 UTC] DEBUG: Diff in number of date = activated
+[10-Mar-2018 16:29:36 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[10-Mar-2018 16:29:46 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 16:29:46 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 16:29:46 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 16:29:46 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 16:29:46 UTC] DEBUG: postId = 62
+[10-Mar-2018 16:29:46 UTC] DEBUG: user deined to share location
+[10-Mar-2018 16:29:46 UTC] DEBUG: In checkandSee location, countdown is not ACITIVATED
+[10-Mar-2018 16:29:46 UTC] DEBUG: User's location from browser = {"lat":48.85188620058132,"lon":2.3461237854942265}
+[10-Mar-2018 21:22:44 UTC] DEBUG parsed Url = 3344
+[10-Mar-2018 21:22:44 UTC] isLocationSaved = succes
+[10-Mar-2018 21:22:44 UTC] DEBUG: sessionID = j9l86ccrs70lsstn0uee5p7m22
+[10-Mar-2018 21:22:44 UTC] DEBUG: temporal location from sessionID = 
+[10-Mar-2018 21:22:44 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 366
+[10-Mar-2018 21:22:46 UTC] DEBUG parsed Url = 3344
+[10-Mar-2018 21:22:46 UTC] isLocationSaved = succes
+[10-Mar-2018 21:22:46 UTC] DEBUG: sessionID = v569qmm41kt009j0jca2uenom6
+[10-Mar-2018 21:22:46 UTC] DEBUG: temporal location from sessionID = 
+[10-Mar-2018 21:22:46 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 366
+[10-Mar-2018 22:05:04 UTC] DEBUG parsed Url = 
+[10-Mar-2018 22:05:04 UTC] DEBUG: User's location from browser = {"lat":48.742254700000004,"lon":2.2840433}
+[10-Mar-2018 22:05:08 UTC] DEBUG parsed Url = 
+[10-Mar-2018 22:05:08 UTC] DEBUG: User's location from browser = {"lat":48.7422554,"lon":2.2840442999999997}
+[10-Mar-2018 22:06:44 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 22:06:44 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 22:06:44 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 22:06:44 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 22:06:44 UTC] DEBUG: postId = 62
+[10-Mar-2018 22:06:44 UTC] DEBUG: sessionID = cs68agusginasqda00d28vh7r7
+[10-Mar-2018 22:06:44 UTC] DEBUG: temporal location from sessionID = 48.7422554:2.2840443
+[10-Mar-2018 22:06:44 UTC] DEBUG: saving user's location result = success
+[10-Mar-2018 22:06:44 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 22:06:44 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 22:06:45 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[10-Mar-2018 22:06:45 UTC] DEBUG: visitorLocation from browser: 48.7422554:2.2840443
+[10-Mar-2018 22:06:45 UTC] DEBUG: location to check = (48.7422554, 2.2840443)
+[10-Mar-2018 22:06:45 UTC] DEBUG: distance = 26.114570737648
+[10-Mar-2018 22:06:45 UTC] DEBUG: countdow period = 90
+[10-Mar-2018 22:06:45 UTC] DEBUG: Diff in number of date = activated
+[10-Mar-2018 22:06:45 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[10-Mar-2018 22:06:45 UTC] DEBUG: User's location from browser = {"lat":48.742263099999995,"lon":2.2840379}
+[10-Mar-2018 23:27:05 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"85.171.233.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"85.171.233.0"},"events":"0 events trimmed."}}
+[10-Mar-2018 23:28:16 UTC] DEBUG parsed Url = ?customize_changeset_uuid=e78c475f-dd6c-45c9-8126-15ff0ceca662&customize_theme=theme_fix&customize_messenger_channel=preview-0
+[10-Mar-2018 23:28:16 UTC] isLocationSaved = succes
+[10-Mar-2018 23:28:16 UTC] DEBUG: sessionID = cs68agusginasqda00d28vh7r7
+[10-Mar-2018 23:28:16 UTC] DEBUG: temporal location from sessionID = 48.7422631:2.2840379
+[10-Mar-2018 23:28:16 UTC] DEBUG: saving user's location result = success
+[10-Mar-2018 23:28:16 UTC] DEBUG: User's location from browser = {"lat":48.7422653,"lon":2.284036}
+[10-Mar-2018 23:28:50 UTC] DEBUG parsed Url = ?customize_changeset_uuid=cb0d91b4-c63a-4abc-80c2-301bde3763e0&customize_theme=theme_fix&customize_messenger_channel=preview-0
+[10-Mar-2018 23:28:50 UTC] isLocationSaved = succes
+[10-Mar-2018 23:28:50 UTC] DEBUG: sessionID = cs68agusginasqda00d28vh7r7
+[10-Mar-2018 23:28:50 UTC] DEBUG: temporal location from sessionID = 48.7422653:2.284036
+[10-Mar-2018 23:28:50 UTC] DEBUG: saving user's location result = success
+[10-Mar-2018 23:28:50 UTC] DEBUG: User's location from browser = {"lat":48.742308799999996,"lon":2.2841057}
+[10-Mar-2018 23:33:12 UTC] DEBUG parsed Url = 
+[10-Mar-2018 23:33:12 UTC] DEBUG: User's location from browser = {"lat":48.7422757,"lon":2.2840355999999997}
+[10-Mar-2018 23:33:15 UTC] DEBUG parsed Url = 
+[10-Mar-2018 23:33:15 UTC] DEBUG: User's location from browser = {"lat":48.742274599999995,"lon":2.2840365}
+[10-Mar-2018 23:33:35 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 23:33:35 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 23:33:35 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 23:33:35 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 23:33:35 UTC] DEBUG: postId = 62
+[10-Mar-2018 23:33:35 UTC] DEBUG: sessionID = cs68agusginasqda00d28vh7r7
+[10-Mar-2018 23:33:35 UTC] DEBUG: temporal location from sessionID = 48.7422746:2.2840365
+[10-Mar-2018 23:33:36 UTC] DEBUG: saving user's location result = success
+[10-Mar-2018 23:33:36 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 23:33:36 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 23:33:36 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[10-Mar-2018 23:33:36 UTC] DEBUG: visitorLocation from browser: 48.7422746:2.2840365
+[10-Mar-2018 23:33:36 UTC] DEBUG: location to check = (48.7422746, 2.2840365)
+[10-Mar-2018 23:33:36 UTC] DEBUG: distance = 26.112744614508
+[10-Mar-2018 23:33:36 UTC] DEBUG: countdow period = 90
+[10-Mar-2018 23:33:36 UTC] DEBUG: Diff in number of date = activated
+[10-Mar-2018 23:33:36 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[10-Mar-2018 23:33:36 UTC] DEBUG: User's location from browser = {"lat":48.7422748,"lon":2.2840355999999997}
+[10-Mar-2018 23:34:47 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[10-Mar-2018 23:34:47 UTC] 000000004D5E1011134F2C
+[10-Mar-2018 23:34:47 UTC] DEBUG: productUid = 4D5E1011134F2C
+[10-Mar-2018 23:34:47 UTC] DEBUG: postName = eau-de-toilette2
+[10-Mar-2018 23:34:47 UTC] DEBUG: postId = 62
+[10-Mar-2018 23:34:47 UTC] DEBUG: sessionID = cs68agusginasqda00d28vh7r7
+[10-Mar-2018 23:34:47 UTC] DEBUG: temporal location from sessionID = 48.7422748:2.2840356
+[10-Mar-2018 23:34:47 UTC] DEBUG: saving user's location result = success
+[10-Mar-2018 23:34:47 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[10-Mar-2018 23:34:47 UTC] DEBUG: accuracy radius = 0.2
+[10-Mar-2018 23:34:47 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[10-Mar-2018 23:34:47 UTC] DEBUG: visitorLocation from browser: 48.7422748:2.2840356
+[10-Mar-2018 23:34:47 UTC] DEBUG: location to check = (48.7422748, 2.2840356)
+[10-Mar-2018 23:34:47 UTC] DEBUG: distance = 26.11274542311
+[10-Mar-2018 23:34:47 UTC] DEBUG: countdow period = 90
+[10-Mar-2018 23:34:47 UTC] DEBUG: Diff in number of date = activated
+[10-Mar-2018 23:34:47 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[10-Mar-2018 23:34:47 UTC] DEBUG: User's location from browser = {"lat":48.7422602,"lon":2.2840536}
+[10-Mar-2018 23:35:43 UTC] PHP Notice:  Array to string conversion in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 150
+[10-Mar-2018 23:35:43 UTC] DEBUG: LotteryValues = Array
+[11-Mar-2018 07:49:51 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[11-Mar-2018 07:49:51 UTC] 000000004D5E1011134F2C
+[11-Mar-2018 07:49:51 UTC] DEBUG: productUid = 4D5E1011134F2C
+[11-Mar-2018 07:49:51 UTC] DEBUG: postName = eau-de-toilette2
+[11-Mar-2018 07:49:51 UTC] DEBUG: postId = 62
+[11-Mar-2018 07:49:51 UTC] DEBUG: sessionID = 2i7qhcab4hqrbao4392e6btt17
+[11-Mar-2018 07:49:51 UTC] DEBUG: temporal location from sessionID = 
+[11-Mar-2018 07:49:51 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 366
+[11-Mar-2018 07:49:51 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[11-Mar-2018 07:49:51 UTC] DEBUG: accuracy radius = 0.2
+[11-Mar-2018 07:49:52 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[11-Mar-2018 07:49:52 UTC] DEBUG: visitorLocation from browser: 
+[11-Mar-2018 07:49:52 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[11-Mar-2018 07:49:52 UTC] DEBUG: location to check = (, )
+[11-Mar-2018 07:49:52 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 07:49:52 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 07:49:52 UTC] DEBUG: distance = 5449.1444216055
+[11-Mar-2018 07:49:52 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 07:49:52 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 07:49:52 UTC] DEBUG: countdow period = 90
+[11-Mar-2018 07:49:52 UTC] DEBUG: Diff in number of date = activated
+[11-Mar-2018 07:49:52 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[11-Mar-2018 08:44:22 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"85.171.230.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"85.171.230.0"},"events":"0 events trimmed."}}
+[11-Mar-2018 08:55:41 UTC] DEBUG parsed Url = 
+[11-Mar-2018 08:55:41 UTC] DEBUG: User's location from browser = {"lat":48.7422568,"lon":2.2840144}
+[11-Mar-2018 08:56:04 UTC] DEBUG: User's location from browser = {"lat":48.742289299999996,"lon":2.2839942}
+[11-Mar-2018 08:56:08 UTC] DEBUG parsed Url = 
+[11-Mar-2018 08:56:08 UTC] DEBUG: User's location from browser = {"lat":48.742289299999996,"lon":2.2839942}
+[11-Mar-2018 08:56:15 UTC] DEBUG: User's location from browser = {"lat":48.7422998,"lon":2.283999}
+[11-Mar-2018 09:40:07 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[11-Mar-2018 09:40:07 UTC] 000000004D5E1011134F2C
+[11-Mar-2018 09:40:07 UTC] DEBUG: productUid = 4D5E1011134F2C
+[11-Mar-2018 09:40:07 UTC] DEBUG: postName = eau-de-toilette2
+[11-Mar-2018 09:40:07 UTC] DEBUG: postId = 62
+[11-Mar-2018 09:40:07 UTC] DEBUG: sessionID = 53gchbovrcljfrghh7du3mp7n5
+[11-Mar-2018 09:40:07 UTC] DEBUG: temporal location from sessionID = denied:denied
+[11-Mar-2018 09:40:07 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[11-Mar-2018 09:40:07 UTC] DEBUG: accuracy radius = 0.2
+[11-Mar-2018 09:40:07 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[11-Mar-2018 09:40:07 UTC] DEBUG: visitorLocation from browser: 
+[11-Mar-2018 09:40:07 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[11-Mar-2018 09:40:07 UTC] DEBUG: location to check = (, )
+[11-Mar-2018 09:40:07 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 09:40:07 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 09:40:07 UTC] DEBUG: distance = 5449.1444216055
+[11-Mar-2018 09:40:07 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 09:40:07 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 09:40:07 UTC] DEBUG: countdow period = 90
+[11-Mar-2018 09:40:07 UTC] DEBUG: Diff in number of date = activated
+[11-Mar-2018 09:40:07 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[11-Mar-2018 09:40:09 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[11-Mar-2018 09:40:18 UTC] DEBUG parsed Url = 
+[11-Mar-2018 09:40:20 UTC] DEBUG: User's location from browser = {"lat":48.851743899999995,"lon":2.3455461}
+[11-Mar-2018 09:40:27 UTC] DEBUG parsed Url = 
+[11-Mar-2018 09:40:28 UTC] DEBUG: User's location from browser = {"lat":48.851743899999995,"lon":2.3455461}
+[11-Mar-2018 09:40:41 UTC] DEBUG parsed Url = 
+[11-Mar-2018 09:40:43 UTC] DEBUG: User's location from browser = {"lat":48.851743899999995,"lon":2.3455461}
+[11-Mar-2018 09:40:50 UTC] DEBUG parsed Url = 
+[11-Mar-2018 09:40:55 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[11-Mar-2018 09:40:55 UTC] 000000004D5E1011134F2C
+[11-Mar-2018 09:40:55 UTC] DEBUG: productUid = 4D5E1011134F2C
+[11-Mar-2018 09:40:55 UTC] DEBUG: postName = eau-de-toilette2
+[11-Mar-2018 09:40:55 UTC] DEBUG: postId = 62
+[11-Mar-2018 09:40:55 UTC] DEBUG: sessionID = 53gchbovrcljfrghh7du3mp7n5
+[11-Mar-2018 09:40:55 UTC] DEBUG: temporal location from sessionID = 48.8517439:2.3455461
+[11-Mar-2018 09:40:55 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[11-Mar-2018 09:40:55 UTC] DEBUG: accuracy radius = 0.2
+[11-Mar-2018 09:40:55 UTC] DEBUG: checkandsee: lat: 48.9638811 - lon: 2.4021943
+[11-Mar-2018 09:40:55 UTC] DEBUG: visitorLocation from browser: 
+[11-Mar-2018 09:40:55 UTC] PHP Notice:  Undefined offset: 1 in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/functions.php on line 436
+[11-Mar-2018 09:40:55 UTC] DEBUG: location to check = (, )
+[11-Mar-2018 09:40:55 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 09:40:55 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 09:40:55 UTC] DEBUG: distance = 5449.1444216055
+[11-Mar-2018 09:40:55 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 09:40:55 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/evaflor/www/evaflor_vac/wordpress/wp-content/plugins/vinextAntiCouterfeit/api/geolocation.php on line 28
+[11-Mar-2018 09:40:55 UTC] DEBUG: countdow period = 90
+[11-Mar-2018 09:40:55 UTC] DEBUG: Diff in number of date = activated
+[11-Mar-2018 09:40:55 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[11-Mar-2018 09:41:10 UTC] DEBUG parsed Url = 000000004D5E1011134F2C
+[11-Mar-2018 09:41:10 UTC] 000000004D5E1011134F2C
+[11-Mar-2018 09:41:10 UTC] DEBUG: productUid = 4D5E1011134F2C
+[11-Mar-2018 09:41:10 UTC] DEBUG: postName = eau-de-toilette2
+[11-Mar-2018 09:41:10 UTC] DEBUG: postId = 62
+[11-Mar-2018 09:41:10 UTC] DEBUG: sessionID = 53gchbovrcljfrghh7du3mp7n5
+[11-Mar-2018 09:41:10 UTC] DEBUG: temporal location from sessionID = 48.8517439:2.3455461
+[11-Mar-2018 09:41:10 UTC] DEBUG: saving user's location result = success
+[11-Mar-2018 09:41:10 UTC] DEBUG: Evaflor location = 1 Rue Eugène Varlin, 95140 Garges-lès-Gonesse
+[11-Mar-2018 09:41:10 UTC] DEBUG: accuracy radius = 0.2
+[11-Mar-2018 09:41:10 UTC] DEBUG: visitorLocation from browser: 48.8517439:2.3455461
+[11-Mar-2018 09:41:10 UTC] DEBUG: location to check = (48.8517439, 2.3455461)
+[11-Mar-2018 09:41:10 UTC] DEBUG: distance = 13.137822893998
+[11-Mar-2018 09:41:10 UTC] DEBUG: countdow period = 90
+[11-Mar-2018 09:41:10 UTC] DEBUG: Diff in number of date = activated
+[11-Mar-2018 09:41:10 UTC] Product with id = 4D5E1011134F2C is activated and still valid
+[11-Mar-2018 09:41:19 UTC] DEBUG: User's location from browser = {"lat":48.851743899999995,"lon":2.3455461}
+[11-Mar-2018 09:46:48 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"85.170.228.0","locale":"en_US","timezone":"Europe\/Paris"}},"response_code":200,"response_body":{"location":{"ip":"85.170.228.0"},"events":"0 events trimmed."}}
+[11-Mar-2018 09:46:58 UTC] DEBUG parsed Url = 
+[11-Mar-2018 09:46:58 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[11-Mar-2018 09:47:03 UTC] DEBUG parsed Url = 
+[11-Mar-2018 09:47:03 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}
+[11-Mar-2018 09:47:08 UTC] DEBUG parsed Url = 
+[11-Mar-2018 09:47:08 UTC] DEBUG: User's location from browser = {"lat":"denied","lon":"denied"}

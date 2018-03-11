@@ -82,7 +82,7 @@ if (!isset($_SERVER['REQUEST_URI']))  {
 
 //COMPARE VALUES
 $GLOBALS['DUPX_DEBUG']		= false;
-$GLOBALS['FW_CREATED']		= '2018-03-05 12:37:45';
+$GLOBALS['FW_CREATED']		= '2018-03-11 10:04:44';
 $GLOBALS['FW_VERSION_DUP']	= '1.2.32';
 $GLOBALS['FW_VERSION_WP']	= '4.8.5';
 $GLOBALS['FW_VERSION_DB']	= '5.5.52';
@@ -91,10 +91,10 @@ $GLOBALS['FW_VERSION_OS']	= 'Linux';
 //GENERAL
 $GLOBALS['FW_TABLEPREFIX']		= 'wp_';
 $GLOBALS['FW_URL_OLD']			= 'https://auth.evaflor.com';
-$GLOBALS['FW_PACKAGE_NAME']		= '20180301_checkingauthenticityofevaflo_1a1d104e1a93bdc01188180305123745_archive.zip';
+$GLOBALS['FW_PACKAGE_NAME']		= '20180301_checkingauthenticityofevaflo_54400fe23b7ffd535364180311100444_archive.zip';
 $GLOBALS['FW_PACKAGE_NOTES']	= '';
-$GLOBALS['FW_PACKAGE_EST_SIZE']	= 86891435;
-$GLOBALS['FW_SECURE_NAME']		= '20180301_checkingauthenticityofevaflo_1a1d104e1a93bdc01188180305123745';
+$GLOBALS['FW_PACKAGE_EST_SIZE']	= 94772211;
+$GLOBALS['FW_SECURE_NAME']		= '20180301_checkingauthenticityofevaflo_54400fe23b7ffd535364180311100444';
 $GLOBALS['FW_DBHOST']			= '';
 $GLOBALS['FW_DBHOST']			= empty($GLOBALS['FW_DBHOST']) ? 'localhost' : $GLOBALS['FW_DBHOST'];
 $GLOBALS['FW_DBPORT']			= '';
@@ -144,7 +144,7 @@ define("DUPLICATOR_SSDIR_NAME", 'wp-snapshots');  //This should match DUPLICATOR
 $_POST['action_step'] = isset($_POST['action_step']) ? $_POST['action_step'] : "1";
 
 /** Host has several combinations :
-localhost | localhost:55 | localhost: | http://localhost:8081 | http://localhost:8081:55 */
+localhost | localhost:55 | localhost: | http://localhost | http://localhost:55 */
 $_POST['dbhost']	= isset($_POST['dbhost']) ? trim($_POST['dbhost']) : null;
 $_POST['dbport']    = isset($_POST['dbport']) ? trim($_POST['dbport']) : 3306;
 $_POST['dbuser']	= isset($_POST['dbuser']) ? trim($_POST['dbuser']) : null;
@@ -1267,7 +1267,7 @@ class DUPX_UpdateEngine
 				unset($_tmp);
 
 				/* CJL
-				  Check for an update to the key of an array e.g.   [http://localhost:8081/projects/wpplugins/] => 1.41
+				  Check for an update to the key of an array e.g.   [http://localhost/projects/wpplugins/] => 1.41
 				  This could have unintended consequences would need to enable with full-search needs more testing
 				  if (array_key_exists($from, $data))
 				  {

@@ -1,7 +1,7 @@
 <?php
 	// Global variables
 	//define("BASE_URL", "https://auth.evaflor.com/");
-	define("BASE_URL", "http://localhost:8081/wordpress/");
+	define("BASE_URL", "http://localhost/wordpress/");
 	define("GEO_DISTANCE", 6.5);
 	$guestIp = '';
 	function add_js_scripts() {
