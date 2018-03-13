@@ -22,7 +22,7 @@
 			));
 	}); 
 	
-	// Example of request: http://localhost/wordpress/wp-json/api/kreyvium?tagId=0A0000094D5E1011134F2C
+	// Example of request: http://localhost:8081/wordpress/wp-json/api/kreyvium?tagId=0A0000094D5E1011134F2C
 	function encryptRequest($request_data) {
 		$parameters = $request_data->get_params();
 		if (!isset($parameters['tagId']) || empty($parameters['tagId']))
@@ -54,7 +54,7 @@
 		
 	}
 
-	// Example of request: http://localhost/wordpress/wp-json/api/kreyviumDec?tagId=0A00000947a27d71968ffc
+	// Example of request: http://localhost:8081/wordpress/wp-json/api/kreyviumDec?tagId=0A00000947a27d71968ffc
 	function decryptRequest($request_data) {
 		$parameters = $request_data->get_params();
 		if (!isset($parameters['tagId']) || empty($parameters['tagId']))

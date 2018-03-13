@@ -492,13 +492,16 @@ div.main-bg {
 }
 
 #main {
-  position: fixed;
+  position: absolute;
+  top: 56px;
+  width: 100%;
   height: calc(100vh - 56px);
   overflow: auto;
   left:0;
   right:0;
 }
 
+.navbar.dark-background,
 .navbar.navbar-opened {
   background: #292b2c;
 }

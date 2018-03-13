@@ -24,8 +24,8 @@
 			));
 	});
 	// Example of encrypted request: mtid=0A00000947A27D7197F78D
-	// Example of request: http://localhost/wordpress/wp-json/api/scan?mtid=0A00000947A27D71968FFC
-	// Request if disable encryption: http://localhost/wordpress/wp-json/api/scan?mtid=000000004D5E1011134F2C
+	// Example of request: http://localhost:8081/wordpress/wp-json/api/scan?mtid=0A00000947A27D71968FFC
+	// Request if disable encryption: http://localhost:8081/wordpress/wp-json/api/scan?mtid=000000004D5E1011134F2C
 	function getProductFromEncryptedMicrotagID($request_data) {
 		$parameters = $request_data->get_params();
 		if (!isset($parameters['mtid']) || empty($parameters['mtid']))
@@ -63,7 +63,7 @@
 		
 		
 		if(!is_null($post_name) || $post_name != '') {
-				header("Location: http://localhost/wordpress/?op=ap&prd=" . $post_name);
+				header("Location: http://localhost:8081/wordpress/?op=ap&prd=" . $post_name);
 			die();
 		}
 		

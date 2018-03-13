@@ -1,7 +1,7 @@
 <?php
  
  //define("BASE_URL", "https://auth.evaflor.com/");
- //define("BASE_URL", "http://localhost/wordpress/");
+ //define("BASE_URL", "http://localhost:8081/wordpress/");
 
 // WordPress environment
 require( dirname(__FILE__) . '/../../../wp-load.php' );

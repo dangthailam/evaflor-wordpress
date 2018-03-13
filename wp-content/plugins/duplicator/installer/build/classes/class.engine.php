@@ -352,7 +352,7 @@ class DUPX_UpdateEngine
 				unset($_tmp);
 
 				/* CJL
-				  Check for an update to the key of an array e.g.   [http://localhost/projects/wpplugins/] => 1.41
+				  Check for an update to the key of an array e.g.   [http://localhost:8081/projects/wpplugins/] => 1.41
 				  This could have unintended consequences would need to enable with full-search needs more testing
 				  if (array_key_exists($from, $data))
 				  {

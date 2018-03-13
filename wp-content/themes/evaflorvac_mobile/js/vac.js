@@ -20,7 +20,17 @@ $(function () {
 			$(".languages-container").show();
 		}
 	});
-})
+    
+    $("#main").on('scroll', function(){
+        var scrollTop = $(this).scrollTop();
+        var navHeight = $("nav").height();
+        if(scrollTop > navHeight){
+            $("nav").addClass('dark-background');
+        } else {
+            $("nav").removeClass('dark-background');
+        }
+    });
+});
 
 var clientIp = '';
 
@@ -290,9 +300,9 @@ jQuery(document).ready(function ($) {
 
 });
 
-function setUpDescriptionProductBtn(){
-	$("#openProductDescriptionBtn button").click(function(){
-	 	$("#productDescriptionContent").toggleClass('hide');
+function setUpDescriptionProductBtn() {
+	$("#openProductDescriptionBtn button").click(function () {
+		$("#productDescriptionContent").toggleClass('hide');
 	});
 }
 
@@ -311,33 +321,42 @@ function setUpPopUp(timeout, event) {
 				backdrop: 'static'
 			});
 
-			$("#refuse_btn").click(function(){
+			$("#refuse_btn").click(function () {
 				$("#popup_loto_quizz").modal('hide');
-			});
-
-			$("#accept_btn").click(function () {
-				$("#popup_loto_quizz").modal('hide');
-
-				var scrollTopMain = $("#main").scrollTop();
 				if (event === 'loto') {
 					showLotoView();
-					var offsetCarre = $('#carre').offset().top - 50;
-					$("#main").animate({
-						scrollTop: offsetCarre + scrollTopMain
-					}, 500);
 				} else if (event === 'quiz') {
 					showQuizView();
-					var offsetquizz = $('#carre').offset().top - 50;
-					$("#main").animate({
-						scrollTop: offsetquizz + scrollTopMain
-					}, 500);
-
 					/* set up quizz */
 					setUpQuizz();
 				}
 			});
+
+			$("#accept_btn").click(function () {
+				$("#popup_loto_quizz").modal('hide');
+				var scrollTopMain = $("#main").scrollTop();
+				if (event === 'loto') {
+					showLotoView();
+					var offsetCarre = $('#carre').offset().top - 50;
+					scrollTopMain += offsetCarre;
+				} else if (event === 'quiz') {
+					showQuizView();
+					var offsetquizz = $('#quizz').offset().top - 50;
+					scrollTopMain += offsetquizz;
+					/* set up quizz */
+					setUpQuizz();
+				}
+
+				scrollToElement(scrollTopMain);
+			});
 		}, timeout);
 	});
+}
+
+function scrollToElement(positionElement) {
+	$("#main").animate({
+		scrollTop: positionElement
+	}, 500);
 }
 
 //-----------------------------------------------------------------------------------
@@ -346,8 +365,8 @@ function setUpPopUp(timeout, event) {
 //-----------------------------------------------------------------------------------
 
 function setUpQuizz() {
-	//
 	var $quizzForm = $("#quizForm1");
+	console.log($quizzForm);
 	var questionCount = $quizzForm.find('.quizz-question').length;
 	$quizzForm.find('.quizz-question').hide();
 	$quizzForm.find('.quiz_end').hide();
