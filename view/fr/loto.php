@@ -16,6 +16,9 @@
 		<div class="form-group">
 			<input type="text" class="form-control" id="formPostalCode" name="zipCodeLottery" placeholder="Ville / Pays">
 		</div>
+		<div class="form-group">
+			<div class="g-recaptcha" data-sitekey="6LcTBEQUAAAAAIBeuuGulK0WbeZ3ZMVfYDOgNTFk"></div>
+		</div>
 		<div class="text-center">
 			<button type="submit" class="btn" onclick="return saveLotteryClientInfo()">JE PARTICIPE*</button>
 		</div>

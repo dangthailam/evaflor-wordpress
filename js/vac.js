@@ -20,16 +20,16 @@ $(function () {
 			$(".languages-container").show();
 		}
 	});
-    
-    $("#main").on('scroll', function(){
-        var scrollTop = $(this).scrollTop();
-        var navHeight = $("nav").height();
-        if(scrollTop > navHeight){
-            $("nav").addClass('dark-background');
-        } else {
-            $("nav").removeClass('dark-background');
-        }
-    });
+
+	$("#main").on('scroll', function () {
+		var scrollTop = $(this).scrollTop();
+		var navHeight = $("nav").height();
+		if (scrollTop > navHeight) {
+			$("nav").addClass('dark-background');
+		} else {
+			$("nav").removeClass('dark-background');
+		}
+	});
 });
 
 var clientIp = '';
@@ -572,6 +572,37 @@ function saveLotteryClientInfo() {
 		return;
 	}
 
+	var data_2;
+
+	jQuery.ajax({
+		type: "POST",
+		url: baseWordpressThemeUrl + "/google_captcha.php",
+		data: {
+			"g-recaptcha-response": $("#g-recaptcha-response").val()
+		},
+		success: function (data) {
+			if (data.nocaptcha === "true") {
+				data_2 = 1;
+			} else if (data.spam === "true") {
+				data_2 = 1;
+			} else {
+				data_2 = 0;
+			}
+
+			if (data_2) {
+				if (data_2 == 1) {
+					alert("Please check the captcha");
+				} else {
+					alert("Please Don't spam");
+				}
+			} else {
+				submitPlayerInfo();
+			}
+		}
+	});
+}
+
+function submitPlayerInfo() {
 	var lotteryNumber = document.getElementById("nbLottery").innerHTML;
 	//Get current date for instance
 	var lotteryDate = vac_options.choose_lottery;
@@ -606,7 +637,6 @@ function saveLotteryClientInfo() {
 			alert("Erreur! L'enregistrement de votre numéro de tirage au sort a échoué!");
 		}
 	});
-
 }
 
 // Get current date in format yyyy-mm-dd
