@@ -1,0 +1,721 @@
+/*
+Theme Name: Evaflor For Mobile
+Theme URI: https://wordpress.org/themes/evaflorthemes_mobiles/
+Author: the VAC team
+Author URI: https://wordpress.org/
+Description: Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+Version: 1.8
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, two-columns, left-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: twentyfifteen
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/*
+Disable the admin bar of wordpress
+*/
+
+@media screen and (max-width: 320px) {
+  a.language-select {
+    display: none;
+  }
+
+  .language-select-li {
+    display: block !important;
+  }
+}
+
+.language-select-li {
+  display: none;
+}
+
+#wpadminbar {
+  display: none;
+}
+
+.row {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.notFoundPage {
+  height: calc(100vh - 56px);
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.notFoundPage h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  font-size: 8em;
+}
+
+.notFoundPage h1 img {
+  height: 130px;
+  border-radius: 50%;
+  background: #fff;
+}
+
+.notFoundPage p {
+  font-size: 1.2em;
+}
+
+#productAuthentic {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+#productAuthentic .checkedLogo {
+  font-size: 80px;
+  color: #9E7A04;
+}
+
+#productAuthentic .checkedLogoText {
+  color: #9E7A04;
+}
+
+#productAuthentic .notAuthentic-checkedLogo {
+  font-size: 80px;
+  color: #dc3545;
+}
+
+#productAuthentic .notAuthentic-checkedLogoText {
+  color: #dc3545;
+}
+
+#productAuthentic #productAuthentic .authenticated {
+  font-weight: bold;
+  font-family: "sectionbold", sans-serif;
+}
+
+#openProductDescriptionBtn {
+  padding: 20px;
+}
+
+#openProductDescriptionBtn button {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #fff;
+  color: #fff;
+  border-radius: 20px;
+  background: transparent;
+  outline: none;
+}
+
+.hide {
+  display: none;
+}
+
+#photo {
+  margin-bottom: 30px;
+}
+
+#photo .photo {
+  height: 200px;
+  width: 200px;
+  background-color: #fff;
+  border-radius: 50%;
+  overflow: hidden;
+  display: block;
+  margin: 0 auto;
+}
+
+#photo .photo img {
+  width: 100%;
+  margin-top: -20px;
+}
+
+#description #productNameContainer a h4 {
+  color: white;
+}
+
+#description #productNameContainer a:active,
+#description #productNameContainer a:hover {
+  text-decoration: none;
+}
+
+.checkbox,
+.radio {
+  display: inline-block;
+}
+
+.checkbox:hover,
+.radio:hover {
+  cursor: pointer;
+}
+
+.checkbox .fa,
+.radio .fa {
+  width: 1em;
+}
+
+.indent {
+  padding-left: 30px;
+}
+
+.indent .fa {
+  margin-left: -30px;
+}
+
+.checkbox input[type="checkbox"],
+.radio input[type="radio"] {
+  display: none;
+}
+
+.checkbox input[type="checkbox"]+i:before,
+.radio input[type="radio"]+i:before {
+  content: "\f096";
+  position: relative;
+  bottom: -4px;
+  margin-right: 5px;
+  color: #999;
+}
+
+.checkbox input[type="checkbox"]:checked+i:before,
+.radio input[type="radio"]:checked+i:before {
+  content: "\f046";
+  color: #9E7A04;
+}
+
+.checkbox input[type="checkbox"]:disabled+i:before,
+.checkbox input[type="checkbox"]:disabled:checked+i:before,
+.radio input[type="radio"]:disabled+i:before,
+.radio input[type="radio"]:disabled:checked+i:before {
+  color: #ddd;
+}
+
+/*RADIO*/
+
+.radio input[type="radio"]+i:before {
+  content: "\f1db";
+}
+
+.radio input[type="radio"]:checked+i:before {
+  content: "\f058";
+}
+
+/* CHECKBOX&RADIO XS*/
+
+.checkbox-xs input[type="checkbox"]+i:before,
+.radio-xs input[type="radio"]+i:before {
+  bottom: 0;
+}
+
+.checkbox-xs.indent,
+.radio-xs.indent {
+  padding-left: 20px;
+}
+
+.checkbox-xs.indent .fa,
+.radio-xs.indent .fa {
+  margin-left: -20px;
+}
+
+#contact #formulaire {
+  width: 100%;
+}
+
+.main-gagnant {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.main-gagnant p {
+  margin-bottom: 0;
+}
+
+.main-gagnant .prefix-content {
+  font-family: 'Yellowtail', cursive;
+  margin-bottom: 2rem;
+  -ms-transform: rotate(-8deg);
+  /* IE 9 */
+  -webkit-transform: rotate(-8deg);
+  /* Safari */
+  transform: rotate(-8deg);
+}
+
+.main-gagnant .prefix-content p {
+  font-size: 43px;
+}
+
+.main-gagnant .winner {
+  margin-bottom: 1.25rem;
+}
+
+.main-gagnant .winner .winner-name {
+  font-family: 'League Spartan';
+  font-weight: 700;
+}
+
+.main-gagnant .winner .winner-name h6 {
+  font-size: 28px;
+}
+
+.main-gagnant .winner .winner-name h1 {
+  font-size: 56px;
+}
+
+.main-gagnant .prize {
+  width: 200px;
+  height: 200px;
+  padding: 35px;
+  background: #fff;
+  border-radius: 50%;
+  margin: 20px auto;
+}
+
+.main-gagnant .prize img {
+  width: 130px;
+}
+
+#jackpot {
+  padding: 0 20px;
+}
+
+#jackpot #jackpot-header {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#jackpot #jackpot-header img {
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+#jackpot #jackpot-header #jackpot-wordings {
+  font-size: 0.9rem;
+}
+
+#jackpot #jackpot-machine-container {
+  margin-bottom: 20px;
+  display: flex;
+}
+
+#jackpot #jackpot-machine-container #jackpot-machine {
+  margin: 0 auto;
+}
+
+#jackpot #jackpot-machine-container #jackpot-machine .slider {
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: 10px;
+  width: 100px;
+  height: 100px;
+  border: 5px solid #ccc;
+  border-radius: 5px;
+  border-image-source: linear-gradient(white, #8c3817, #ea8a50, #9c5024);
+  border-image-slice: 5;
+  overflow: hidden;
+  background: #fff;
+  -moz-box-shadow: inset 0px 11px 30px -10px #000, inset 0px -11px 30px -10px #000;
+  -webkit-box-shadow: inset 0px 11px 30px -10px #000, inset 0px -11px 30px -10px #000;
+  box-shadow: inset 0px 11px 30px -10px #000, inset 0px -11px 30px -10px #000;
+}
+
+#jackpot #jackpot-machine-container #jackpot-machine .slider:last-child {
+  margin-right: 0;
+}
+
+#jackpot #jackpot-machine-container #jackpot-machine .roulette img {
+  width: 100%;
+}
+
+#jackpot #jackpot-machine-container #jackpot-machine .roulette .slot {
+  border-bottom: 1px solid #ccc;
+}
+
+#jackpot #jackpot-form .checkbox {
+  font-size: 12px !important;
+}
+
+#produit {
+  margin-bottom: 20px;
+}
+
+#authenticContent {
+  text-align: center;
+  color: white;
+  background: #000;
+}
+
+#photo img {
+  background: #fff;
+  border-radius: 50%;
+  width: 200px;
+}
+
+#description {
+  margin-top: 20px;
+}
+
+#description .productDescription {
+  padding: 20px;
+}
+
+#description .productDescription .productNotes {
+  margin-top: 5px;
+}
+
+#description #productNameContainer a h4 {
+  color: white;
+}
+
+#description #productNameContainer a:active,
+#description #productNameContainer a:hover {
+  text-decoration: none;
+}
+
+#recommendProducts {
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.red-btn {
+  background: #BD1E1C !important;
+  border-color: #BD1E1C !important;
+  color: #fff;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.bold-text {
+  font-weight: 700;
+}
+
+/* Quizz */
+
+#quizz {
+  padding: 10px 20px;
+}
+
+#quizz #logoquizz img {
+  width: 100%;
+}
+
+#quizz .quizz-slogan {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+#quizz .question .questionContent {
+  margin: 15px 0;
+  font-size: 18px;
+}
+
+#quizz .question .answer {
+  display: block;
+  padding: 15px;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
+.btn {
+  color: #fff;
+  background-color: #9E7A04;
+  border-color: #9E7A04;
+}
+
+#quizz-result {
+  height: calc(100vh - 172px);
+  text-align: center;
+}
+
+#quizz-result-form {
+  padding: 1rem 0;
+}
+
+#quizz-result-form .btn-container {
+  margin: 2rem 0;
+}
+
+@font-face {
+  font-family: 'League Spartan';
+  src: url(font/LeagueSpartan-Bold.woff);
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  letter-spacing: 1px;
+  padding-top: 55px;
+  color: #fff;
+}
+
+body a:active,
+body a:focus {
+  text-decoration: none;
+}
+
+body :focus {
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+div.main-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+  background-image: url(images/cover/texture.jpg);
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+}
+
+.center-part {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.languages-container {
+  margin-left: auto;
+}
+
+.languages-container img {
+  width: 26px;
+}
+
+#main {
+  position: absolute;
+  top: 56px;
+  width: 100%;
+  height: calc(100vh - 56px);
+  overflow: auto;
+  left:0;
+  right:0;
+}
+
+.navbar.dark-background,
+.navbar.navbar-opened {
+  background: #292b2c;
+}
+
+.navbar a {
+  color: #fff;
+}
+
+.navbar ul li.social-icons a img {
+  margin-top: 5px;
+  margin-right: 10px;
+  padding-bottom: 5px;
+  height: 40px;
+}
+
+.navbar .navbar-brand {
+  margin-right: 0;
+}
+
+.navbar .navbar-toggler {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navbar .navbar-brand img {
+  height: 25px;
+}
+
+/* Tirage au sort */
+
+.asterixDescription {
+  font-size: 12px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#carre {
+  padding: 10px 0;
+  margin-top: 50px;
+}
+
+#carre .wording {
+  text-align: center;
+  font-size: 40px;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+  display: block;
+  width: 100%;
+}
+
+#carre .wording h1 {
+  color: #9E7A04;
+}
+
+#carre .wording .presentDescription {
+  color: #FFF;
+  font-size: 20px;
+}
+
+#carre h5 {
+  text-align: center;
+  font-size: 20px;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  margin-bottom: 4%;
+  margin-top: 0%;
+  color: #FFF;
+  display: block;
+  width: 100%;
+}
+
+#ficheloto {
+  margin-bottom: 100px;
+  height: calc(100vh - 396px)
+}
+
+#formulaire{
+  padding: 0 10px;
+}
+
+#home {
+  height: calc(100vh - 56px);
+  padding: 0 20px;
+}
+
+#home .home-content {
+  margin-top: -100px;
+}
+
+#home .home-content #bienvenue {
+  background-image: url(images/background_vide.png);
+  background-size: cover;
+  height: 225px;
+  width: 100%;
+  position: relative;
+}
+
+#home .home-content #bienvenue span {
+  position: absolute;
+  bottom: 35px;
+  left: 0;
+  color: #333;
+  font-weight: 500;
+  font-size: 19px;
+}
+
+.mlw_qmn_question {
+  text-align: center;
+}
+
+.qmn_mc_answer_wrap {
+  display: block;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
+.quiz_section.quiz_end .qsm-submit-btn {
+  margin: 10px auto !important;
+}
+
+.quiz_navigation {
+  margin-top: 30px !important;
+  text-align: center;
+}
+
+.quiz_navigation .btn:last-child,
+.quiz_end .btn:last-child {
+  margin-left: 10px;
+}
+
+.quiz_end {
+  padding: 0 !important;
+  text-align: center;
+  margin-bottom: 20px !important;
+}
+
+/* The container */
+
+.qmn_mc_answer_container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default radio button */
+
+.qmn_mc_answer_container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+
+.qmn_mc_answer_container:hover input~.checkmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+
+.qmn_mc_answer_container input:checked~.checkmark {
+  background-color: #9E7A04;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+
+.qmn_mc_answer_container input:checked~.checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+
+.qmn_mc_answer_container .checkmark:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+
+#popup_loto_quizz h4,
+#popup_loto_quizz p {
+  color: #333 !important;
+}
+
